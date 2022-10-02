@@ -6,7 +6,7 @@
 	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"download-event-dex": "ts-node ./src/download-event-dex.ts.ts"
+		"download-event-dex": "ts-node ./src/download-event-dex.ts"
 	},
 	"author": "",
 	"license": "ISC",
