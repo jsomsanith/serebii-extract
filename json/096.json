@@ -1,0 +1,33 @@
+{
+  "pokedexID": "096",
+  "species": "Drowzee",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Drowzee  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Insomnia or Forewarn ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Belly Drum",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "16 December 2004",
+        "endDate": "2 January 2005",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

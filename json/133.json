@@ -1,0 +1,465 @@
+{
+  "pokedexID": "133",
+  "species": "Eevee",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Eevee  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "PCSG",
+        "ID": "200301",
+        "ability": "Run Away or Adaptability ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Celebrate",
+          "Covet",
+          "Helping Hand",
+          "Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Singapore - Birthday Distribution",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "1 March 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Bullseye",
+        "ID": "190511",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Double-edge",
+          "Iron Tail",
+          "Helping Hand",
+          "Facade"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pass - Target Distribution",
+        "type": "Serial Code",
+        "location": "United States",
+        "startDate": "11 May 2019",
+        "endDate": "23 June 2019",
+        "gamesAvailable": "Let's Go, Pikachu!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "ポケセン",
+        "ID": "191115",
+        "ability": "Run Away or Adaptability ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Celebrate",
+          "Covet",
+          "Helping Hand",
+          "Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Birthday Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 November 2019",
+        "endDate": "14 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 이브이  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "베스트프렌드",
+        "ID": "190511",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Double-edge",
+          "Dig",
+          "Iron Tail",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Purchase Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "1 May 2019",
+        "endDate": "31 May 2019",
+        "gamesAvailable": "Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "161118",
+        "ability": "Run Away or Adaptability ",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Tail Whip",
+          "Hold Back",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Birthday Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 November 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "03016",
+        "ability": "Run Away or Adaptability ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Swift",
+          "Quick Attack",
+          "Baby-doll Eyes",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 March 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10014",
+        "ability": "Adaptability",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Sand Attack",
+          "Baby-doll Eyes",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2014",
+        "endDate": "30 September 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10123",
+        "ability": "Adaptability",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Sand Attack",
+          "Baby-doll Eyes",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 October 2013",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "キヨ",
+        "ID": "07133",
+        "ability": "Adaptability",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sing",
+          "Return",
+          "Echoed Voice",
+          "Attract"
+        ]
+      },
+      "event": {
+        "description": "Extremespeed Genesect: Mewtwo Awakens - Event @ Lalaport Toyosu MallPokémon Centers",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "13 July 2013",
+        "endDate": "1 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC10",
+        "ID": "05080",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 May 2010",
+        "endDate": "15 August 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WCS",
+        "ID": "01110",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "World Championship",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "11 January 2010",
+        "endDate": "9 May 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC10",
+        "ID": "05080",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "19 June 2010",
+        "endDate": "19 June 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC10",
+        "ID": "05080",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "12 June 2010",
+        "endDate": "12 June 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC10",
+        "ID": "05080",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "5 June 2010",
+        "endDate": "5 June 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Eevee  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC10",
+        "ID": "05080",
+        "ability": "Adaptability",
+        "item": "Focus Sash",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Tail",
+          "Trump Card",
+          "Flail",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "29 May 2010",
+        "endDate": "29 May 2010",
+        "gamesAvailable": "HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ブイコレ",
+        "ID": "12068",
+        "ability": "Adaptability",
+        "item": "No Item",
+        "pokemonDescription": "Lonely Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Covet",
+          "Bite",
+          "Helping Hand",
+          "Attract"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Sapporo",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 March 2009",
+        "endDate": "19 March 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イーブイ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ブイコレ",
+        "ID": "12068",
+        "ability": "Adaptability",
+        "item": "No Item",
+        "pokemonDescription": "Lonely Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Covet",
+          "Bite",
+          "Helping Hand",
+          "Attract"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 December 2008",
+        "endDate": "12 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    }
+  ]
+}

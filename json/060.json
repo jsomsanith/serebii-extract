@@ -1,0 +1,33 @@
+{
+  "pokedexID": "060",
+  "species": "Poliwag",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ニョロモ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Water Absorb or Damp ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Bubble",
+          "Sweet Kiss",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Tour",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "24 March 2004",
+        "endDate": "4 April 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

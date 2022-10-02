@@ -1,0 +1,33 @@
+{
+  "pokedexID": "117",
+  "species": "Seadra",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Seadra  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 45,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Poison Point or Sniper ",
+        "item": "Dragon Scale",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 45",
+        "moves": [
+          "Leer",
+          "Water Gun",
+          "Twister",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Dragon Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "29 September 2003",
+        "endDate": "3 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

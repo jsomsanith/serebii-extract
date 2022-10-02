@@ -1,0 +1,168 @@
+{
+  "pokedexID": "802",
+  "species": "Marshadow",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Marshadow ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "Mythical22",
+        "ID": "220909",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Spectral Thief",
+          "Drain Punch",
+          "Force Palm",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Mythical DistributionUK - GAMEFrance - Micromania",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "9 September 2022",
+        "endDate": "30 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 마샤도 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "어드벤처",
+        "ID": "210426",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Spectral Thief",
+          "Drain Punch",
+          "Force Palm",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "26 April 2021",
+        "endDate": "31 October 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マーシャドー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "ゲッチャレ",
+        "ID": "201120",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving Pokï¿½mon Event. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Spectral Thief",
+          "Drain Punch",
+          "Force Palm",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 November 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Marshadow ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "MT. TenseiMt TenseiMt. Tensei",
+        "ID": "100917",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Spectral Thief",
+          "Close Combat",
+          "Force Palm",
+          "Shadow Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Marshadow Distribution - Gamestop",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 October 2017",
+        "endDate": "23 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マーシャドー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "テンセイざん",
+        "ID": "170715",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving 2017 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Spectral Thief",
+          "Close Combat",
+          "Force Palm",
+          "Shadow Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Theatre Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 July 2017",
+        "endDate": "30 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Marshadow ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "MT. TenseiMt TenseiMt. Tensei",
+        "ID": "100917",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Spectral Thief",
+          "Close Combat",
+          "Force Palm",
+          "Shadow Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Marshadow DistributionGAME - SpainGamestop - Germany/ItalyIntertoys/GameMania - Netherlands/Belgium",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "1 October 2017",
+        "endDate": "14 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

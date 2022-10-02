@@ -1,0 +1,33 @@
+{
+  "pokedexID": "059",
+  "species": "Arcanine",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Arcanine  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "NA Champs 17",
+        "ID": "063017",
+        "ability": "Intimidate",
+        "item": "Leftovers",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "Extreme Speed",
+          "Will-o-wisp",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon North American International Championships Gift",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "30 June 2017",
+        "endDate": "2 July 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

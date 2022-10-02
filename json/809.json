@@ -1,0 +1,87 @@
+{
+  "pokedexID": "809",
+  "species": "Melmetal",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Melmetal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "HOME",
+        "ID": "808809",
+        "ability": "Iron Fist",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Double Iron Bash",
+          "Hyper Beam",
+          "Dynamic Punch",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Pokémon GO Transfer",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "10 November 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メルメタル ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "HOME",
+        "ID": "808809",
+        "ability": "Iron Fist",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Double Iron Bash",
+          "Hyper Beam",
+          "Dynamic Punch",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Pokémon GO Transfer",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "10 November 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Melmetal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "HOME",
+        "ID": "808809",
+        "ability": "Iron Fist",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Double Iron Bash",
+          "Hyper Beam",
+          "Dynamic Punch",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Pokémon GO Transfer",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "10 November 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pokedexID": "355",
+  "species": "Duskull",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Duskull  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 45,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 45",
+        "moves": [
+          "Pursuit",
+          "Curse",
+          "Will-o-wisp",
+          "Mean Look"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Monster Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "18 October 2003",
+        "endDate": "24 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

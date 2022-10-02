@@ -1,0 +1,114 @@
+{
+  "pokedexID": "792",
+  "species": "Lunala",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Lunala ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Eclipse",
+        "ID": "100419",
+        "ability": "Shadow Shield",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Moongeist Beam",
+          "Psyshock",
+          "Moonblast",
+          "Moonlight"
+        ]
+      },
+      "event": {
+        "description": "Gamestop - Cosmic Eclipse Tie In",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "21 October 2019",
+        "endDate": "10 November 2019",
+        "gamesAvailable": "Sun, Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルナアーラ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Shadow Shield",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Moongeist Beam",
+          "Psyshock",
+          "Moonblast",
+          "Moonlight"
+        ]
+      },
+      "event": {
+        "description": "7-11 Lottery",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 October 2019",
+        "endDate": "9 November 2019",
+        "gamesAvailable": "Sun, Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lunala ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "EclipseMoonset",
+        "ID": "100419",
+        "ability": "Shadow Shield",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Moongeist Beam",
+          "Psyshock",
+          "Moonblast",
+          "Moonlight"
+        ]
+      },
+      "event": {
+        "description": "Cosmic Eclipse Tie In",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "1 October 2019",
+        "endDate": "15 November 2019",
+        "gamesAvailable": "Sun, Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lunala ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "EclipseMoonset",
+        "ID": "100419",
+        "ability": "Shadow Shield",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Moongeist Beam",
+          "Psyshock",
+          "Moonblast",
+          "Moonlight"
+        ]
+      },
+      "event": {
+        "description": "Cosmic Eclipse Tie In",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "23 October 2019",
+        "endDate": "10 November 2019",
+        "gamesAvailable": "Sun, Ultra Sun"
+      }
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "pokedexID": "382",
+  "species": "Kyogre",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Kyogre ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drizzle",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Calm Mind",
+          "Muddy Water"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 August 2018",
+        "endDate": "26 August 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Kyogre ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drizzle",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Origin Pulse",
+          "Ice Beam",
+          "Water Spout",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 August 2018",
+        "endDate": "26 August 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイオーガ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ウルトラ",
+        "ID": "180113",
+        "ability": "Drizzle",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Calm Mind",
+          "Muddy Water"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "13 January 2018",
+        "endDate": "5 March 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Kyogre ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drizzle",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Calm Mind",
+          "Muddy Water"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 August 2018",
+        "endDate": "25 August 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Kyogre ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drizzle",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Origin Pulse",
+          "Ice Beam",
+          "Water Spout",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 August 2018",
+        "endDate": "25 August 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 가이오가 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "울트라 ",
+        "ID": "180127",
+        "ability": "Drizzle",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Ice Beam",
+          "Origin Pulse",
+          "Calm Mind",
+          "Muddy Water"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 2017-18 Winter Tie-In Distribution. Second Chance Code: RAYQUAZAGOTCHA",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "27 January 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイオーガ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "デセルシティ",
+        "ID": "06205",
+        "ability": "Drizzle",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Water Spout",
+          "Thunder",
+          "Sheer Cold",
+          "Ice Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 가이오가 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "데세르시티",
+        "ID": "11205",
+        "ability": "Drizzle",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Water Spout",
+          "Thunder",
+          "Sheer Cold",
+          "Ice Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa  Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "20 November 2015",
+        "endDate": "27 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイオーガ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "サファイア",
+        "ID": "11212",
+        "ability": "Drizzle",
+        "item": "Water Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Hoenn. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Water Spout",
+          "Thunder",
+          "Ice Beam",
+          "Sheer Cold"
+        ]
+      },
+      "event": {
+        "description": "Ruby & Sapphire 10th Anniversary - Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 November 2012",
+        "endDate": "10 January 2013",
+        "gamesAvailable": "White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイオーガ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 80,
+        "OT": "フクオカ",
+        "ID": "03172",
+        "ability": "Drizzle",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Fukuoka. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Ice Beam",
+          "Ancient Power",
+          "Water Spout",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 April 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

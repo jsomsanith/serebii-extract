@@ -1,0 +1,87 @@
+{
+  "pokedexID": "466",
+  "species": "Electivire",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Electivire  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PKTOPIA",
+        "ID": "06257",
+        "ability": "Motor Drive",
+        "item": "Magnet",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunder Punch",
+          "Ice Punch",
+          "Cross Chop",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "25 June 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エレキブル  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さいきょう",
+        "ID": "11157",
+        "ability": "Motor Drive",
+        "item": "Magnet",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Light Screen",
+          "Thunder Punch",
+          "Discharge",
+          "Thunderbolt"
+        ]
+      },
+      "event": {
+        "description": "Strongest Pokémon - 1st",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 November 2007",
+        "endDate": "30 November 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Electivire  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PKTOPIA",
+        "ID": "12077",
+        "ability": "Motor Drive",
+        "item": "Magnet",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunder Punch",
+          "Ice Punch",
+          "Cross Chop",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "7 December 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pokedexID": "055",
+  "species": "Golduck",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ゴルダック  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ルイ",
+        "ID": "180609",
+        "ability": "Swift Swim",
+        "item": "No Item",
+        "pokemonDescription": "Timid Nature.Date of Receiving Paniola Ranch. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Hydro Pump",
+          "Scald",
+          "Encore",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Japan Championships 2018 Distribution - Ryota Otsubo's Golduck",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 June 2018",
+        "endDate": "10 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

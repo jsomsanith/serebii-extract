@@ -1,0 +1,33 @@
+{
+  "pokedexID": "613",
+  "species": "Cubchoo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " クマシュン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "ポケスマ",
+        "ID": "10220",
+        "ability": "Snow Cloak",
+        "item": "Max Potion",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Powder Snow",
+          "Growl",
+          "Bide",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "22 October 2010",
+        "endDate": "29 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

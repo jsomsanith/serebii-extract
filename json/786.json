@@ -1,0 +1,87 @@
+{
+  "pokedexID": "786",
+  "species": "Tapu Lele",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Tapu Lele ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Akala",
+        "ID": "181130",
+        "ability": "Psychic Surge",
+        "item": "Psychic Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Extrasensory",
+          "Flatter",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "2018 International Challenge November - Entry Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "18 December 2018",
+        "endDate": "31 January 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カプ・テテフ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "アーカラ",
+        "ID": "181130",
+        "ability": "Psychic Surge",
+        "item": "Psychic Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Extrasensory",
+          "Flatter",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "2018 International Challenge November - Entry Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 December 2018",
+        "endDate": "31 January 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Lele ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Akala",
+        "ID": "181130",
+        "ability": "Psychic Surge",
+        "item": "Psychic Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Extrasensory",
+          "Flatter",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "2018 International Challenge November - Entry Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "18 December 2018",
+        "endDate": "31 January 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

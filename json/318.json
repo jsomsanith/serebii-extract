@@ -1,0 +1,60 @@
+{
+  "pokedexID": "318",
+  "species": "Carvanha",
+  "events": [
+    {
+      "pokemon": {
+        "name": " キバニア  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Speed Boost",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Leer",
+          "Bite",
+          "Hydro Pump",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 April 2016",
+        "endDate": "30 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " キバニア  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Speed Boost",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Leer",
+          "Bite",
+          "Hydro Pump",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 January 2015",
+        "endDate": "1 March 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "pokedexID": "257",
+  "species": "Blaziken",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バシャーモ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "High Jump Kick",
+          "Thunder Punch",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 March 2012",
+        "endDate": "1 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Blaziken  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Blaze Kick",
+          "Slash",
+          "Mirror Move",
+          "Sky Uppercut"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Blaziken  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Blaze Kick",
+          "Slash",
+          "Mirror Move",
+          "Sky Uppercut"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

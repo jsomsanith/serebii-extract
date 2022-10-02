@@ -1,0 +1,60 @@
+{
+  "pokedexID": "214",
+  "species": "Heracross",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Heracross  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014",
+        "ID": "08134",
+        "ability": "Swarm or Guts ",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Bullet Seed",
+          "Pin Missile",
+          "Close Combat",
+          "Megahorn"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mega Stone Event",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "13 August 2014",
+        "endDate": "17 September 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 헤라크로스  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Guts",
+        "item": "Heracronite",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Pin Missile",
+          "Bullet Seed",
+          "Earthquake",
+          "Rock Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    }
+  ]
+}

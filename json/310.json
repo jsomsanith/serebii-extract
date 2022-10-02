@@ -1,0 +1,33 @@
+{
+  "pokedexID": "310",
+  "species": "Manectric",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 썬더볼트  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Lightning Rod",
+        "item": "Manectite",
+        "pokemonDescription": "Timid Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Overheat",
+          "Thunderbolt",
+          "Volt Switch",
+          "Feint Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    }
+  ]
+}

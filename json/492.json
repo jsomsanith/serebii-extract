@@ -1,0 +1,623 @@
+{
+  "pokedexID": "492",
+  "species": "Shaymin",
+  "events": [
+    {
+      "pokemon": {
+        "name": " シェイミ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "180425",
+        "ability": "Natural Cure",
+        "item": "Everstone",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Center. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Return",
+          "Growth",
+          "Seed Flare",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 20th Anniversary Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2018",
+        "endDate": "30 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "07016",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 July 2016",
+        "endDate": "24 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "07016",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 July 2016",
+        "endDate": "24 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 쉐이미 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "완전스토리",
+        "ID": "04155",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Growth",
+          "Magical Leaf",
+          "Seed Flare",
+          "Air Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Strategy Guide Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "17 July 2015",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " シェイミ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "12014",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Growth",
+          "Magical Leaf",
+          "Seed Flare",
+          "Air Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap Campaign - 1 Code Redeemed",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2014",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " シェイミ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PC",
+        "ID": "12191",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Leech Seed",
+          "Synthesis",
+          "Sweet Scent"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center \"Thank You\" Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 December 2011",
+        "endDate": "5 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Oblivia",
+        "ID": "03060",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Growth",
+          "Magical Leaf",
+          "Leech Seed",
+          "Synthesis"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "15 November 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " シェイミ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "オブリビア",
+        "ID": "03060",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Growth",
+          "Magical Leaf",
+          "Leech Seed",
+          "Synthesis"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "18 March 2010",
+        "endDate": "17 May 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Oblivia",
+        "ID": "03060",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Growth",
+          "Magical Leaf",
+          "Leech Seed",
+          "Synthesis"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "15 November 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Shaymin ",
+        "shiny": false,
+        "level": 30,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Flower Paradise. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Synthesis",
+          "Leech Seed",
+          "Magical Leaf",
+          "Growth"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "28 September 2009",
+        "endDate": "8 November 2009",
+        "gamesAvailable": "Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "TRU",
+        "ID": "02089",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 February 2009",
+        "endDate": "14 February 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  シェイミ ",
+        "shiny": false,
+        "level": 30,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Flower Paradise. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Synthesis",
+          "Leech Seed",
+          "Magical Leaf",
+          "Growth"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "18 April 2009",
+        "endDate": "11 May 2009",
+        "gamesAvailable": "Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Shaymin ",
+        "shiny": false,
+        "level": 30,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Flower Paradise. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Synthesis",
+          "Leech Seed",
+          "Magical Leaf",
+          "Growth"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "28 September 2009",
+        "endDate": "8 November 2009",
+        "gamesAvailable": "Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Austria",
+        "startDate": "25 September 2009",
+        "endDate": "27 September 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Switzerland",
+        "startDate": "8 June 2009",
+        "endDate": "11 July 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "16 May 2009",
+        "endDate": "20 June 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "15 May 2009",
+        "endDate": "15 June 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Belgium",
+        "startDate": "12 May 2009",
+        "endDate": "23 May 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Film11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "25 April 2009",
+        "endDate": "22 May 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Peli11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "15 April 2009",
+        "endDate": "15 May 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Shaymin ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie11",
+        "ID": "04019",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "4 April 2009",
+        "endDate": "18 April 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Shaymin ",
+        "shiny": false,
+        "level": 30,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Flower Paradise. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Synthesis",
+          "Leech Seed",
+          "Magical Leaf",
+          "Growth"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Australia",
+        "startDate": "28 September 2009",
+        "endDate": "8 November 2009",
+        "gamesAvailable": "Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " シェイミ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "えいがかん",
+        "ID": "07198",
+        "ability": "Natural Cure",
+        "item": "Micle Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 08. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Seed Flare",
+          "Aromatherapy",
+          "Substitute",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Movie",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 July 2008",
+        "endDate": "30 September 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

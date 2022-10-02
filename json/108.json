@@ -1,0 +1,33 @@
+{
+  "pokedexID": "108",
+  "species": "Lickitung",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Lickitung  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Own Tempo or Oblivious ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Heal Bell",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "16 December 2004",
+        "endDate": "2 January 2005",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

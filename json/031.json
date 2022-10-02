@@ -1,0 +1,60 @@
+{
+  "pokedexID": "031",
+  "species": "Nidoqueen",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ニドクイン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "てんさいピィ",
+        "ID": "190608",
+        "ability": "Sheer Force",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving Paniola Ranch. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Protect",
+          "Sludge Bomb",
+          "Ice Beam",
+          "Earth Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Japan Championships 2019 Distribution - Hirofu Kimura's Nidoqueen",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "8 June 2019",
+        "endDate": "9 June 2019",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニドクイン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サカキ",
+        "ID": "01294",
+        "ability": "Poison Point",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 41",
+        "moves": [
+          "Tail Whip",
+          "Double Kick",
+          "Poison Sting",
+          "Body Slam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Giovanni's Nidoqueen",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

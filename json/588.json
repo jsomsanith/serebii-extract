@@ -1,0 +1,60 @@
+{
+  "pokedexID": "588",
+  "species": "Karrablast",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Karrablast  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "SMR2011",
+        "ID": "06011",
+        "ability": "Swarm or Shed Skin ",
+        "item": "Bug Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Megahorn",
+          "Take Down",
+          "X-scissor",
+          "Flail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Day (Greece: 11th June-19th June)Pokémon Day (Italy: 18th June-19th June)Pokémon Day (Netherlands: 27th August-28th August)",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "11 June 2011",
+        "endDate": "28 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カブルモ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Swarm or Shed Skin ",
+        "item": "Bug Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Fury Attack",
+          "Headbutt",
+          "False Swipe",
+          "Bug Buzz"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

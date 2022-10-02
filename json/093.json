@@ -1,0 +1,60 @@
+{
+  "pokedexID": "093",
+  "species": "Haunter",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ゴースト  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Levitate",
+        "item": "Ghost Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Confuse Ray",
+          "Sucker Punch",
+          "Shadow Punch",
+          "Payback"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Haunter  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 23,
+        "OT": "JEREMY",
+        "ID": "24680",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 23",
+        "moves": [
+          "Spite",
+          "Curse",
+          "Night Shade",
+          "Confuse Ray"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

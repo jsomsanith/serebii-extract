@@ -1,0 +1,33 @@
+{
+  "pokedexID": "553",
+  "species": "Krookodile",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ワルビアル  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ルイ",
+        "ID": "070618",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Paniola Ranch. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Earthquake",
+          "Crunch",
+          "Taunt",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon International Championships Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "3 July 2018",
+        "endDate": "8 July 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

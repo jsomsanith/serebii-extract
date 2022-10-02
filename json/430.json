@@ -1,0 +1,33 @@
+{
+  "pokedexID": "430",
+  "species": "Honchkrow",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ドンカラス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "アカギ",
+        "ID": "180120",
+        "ability": "Super Luck",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 65",
+        "moves": [
+          "Night Slash",
+          "Sky Attack",
+          "Heat Wave",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Cyrus' Honchkrow Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

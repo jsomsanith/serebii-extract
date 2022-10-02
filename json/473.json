@@ -1,0 +1,164 @@
+{
+  "pokedexID": "473",
+  "species": "Mamoswine",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Mamoswine  ♂",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "Arash",
+        "ID": "05034",
+        "ability": "Thick Fat",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Icicle Spear",
+          "Earthquake",
+          "Icicle Crash",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC Nationals - Arash Ommati's Mamoswine",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "5 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mamoswine  ♂",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "Arash",
+        "ID": "05034",
+        "ability": "Thick Fat",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Icicle Spear",
+          "Earthquake",
+          "Icicle Crash",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC Nationals - Arash Ommati's Mamoswine",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "3 May 2014",
+        "endDate": "1 June 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Mamoswine  ♂",
+        "shiny": false,
+        "level": 34,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Thick Fat",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 34",
+        "moves": [
+          "Hail",
+          "Ice Fang",
+          "Take Down",
+          "Double Hit"
+        ]
+      },
+      "event": {
+        "description": "Pokemon.com Winter Release",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "15 December 2011",
+        "endDate": "16 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Mamoswine  ♂",
+        "shiny": false,
+        "level": 34,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Thick Fat",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 34",
+        "moves": [
+          "Hail",
+          "Ice Fang",
+          "Take Down",
+          "Double Hit"
+        ]
+      },
+      "event": {
+        "description": "Official Nintendo Magazines",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "13 October 2011",
+        "endDate": "19 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Mamoswine  ♂",
+        "shiny": false,
+        "level": 34,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Thick Fat",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 34",
+        "moves": [
+          "Hail",
+          "Ice Fang",
+          "Take Down",
+          "Double Hit"
+        ]
+      },
+      "event": {
+        "description": "Pokemon.com Winter Release",
+        "type": "Global Link",
+        "location": "Oceania",
+        "startDate": "15 December 2011",
+        "endDate": "26 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  マンムー  ♂",
+        "shiny": false,
+        "level": 34,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Thick Fat",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 34",
+        "moves": [
+          "Hail",
+          "Ice Fang",
+          "Take Down",
+          "Double Hit"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Fan",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "20 December 2010",
+        "endDate": "31 May 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

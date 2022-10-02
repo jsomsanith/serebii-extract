@@ -1,0 +1,33 @@
+{
+  "pokedexID": "324",
+  "species": "Torkoal",
+  "events": [
+    {
+      "pokemon": {
+        "name": " コータス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "クララ",
+        "ID": "210718",
+        "ability": "Drought",
+        "item": "Sitrus Berry",
+        "pokemonDescription": " Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Burning Jealousy",
+          "Body Press",
+          "Yawn",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Japan Championships 2021 Gift - PJCS2020CHAMP",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 July 2021",
+        "endDate": "19 July 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

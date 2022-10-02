@@ -1,0 +1,87 @@
+{
+  "pokedexID": "517",
+  "species": "Munna",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Munna  ♀",
+        "pokeball": "dreamball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fennel",
+        "ID": "100918",
+        "ability": "Telepathy",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 39",
+        "moves": [
+          "Hypnosis",
+          "Dream Eater",
+          "Rest",
+          "Sleep Talk"
+        ]
+      },
+      "event": {
+        "description": "Fennel's Munna - Global Link Closing Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "26 November 2019",
+        "endDate": "24 February 2020",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ムンナ  ♀",
+        "pokeball": "dreamball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fennel",
+        "ID": "100918",
+        "ability": "Telepathy",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 39",
+        "moves": [
+          "Hypnosis",
+          "Dream Eater",
+          "Rest",
+          "Sleep Talk"
+        ]
+      },
+      "event": {
+        "description": "Fennel's Munna - Global Link Closing Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 November 2019",
+        "endDate": "24 February 2020",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Munna  ♀",
+        "pokeball": "dreamball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fennel",
+        "ID": "100918",
+        "ability": "Telepathy",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 39",
+        "moves": [
+          "Hypnosis",
+          "Dream Eater",
+          "Rest",
+          "Sleep Talk"
+        ]
+      },
+      "event": {
+        "description": "Fennel's Munna - Global Link Closing Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "26 November 2019",
+        "endDate": "24 February 2020",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

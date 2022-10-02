@@ -1,0 +1,141 @@
+{
+  "pokedexID": "359",
+  "species": "Absol",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Absol  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Double Team",
+          "Slash",
+          "Future Sight",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Absol  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Double Team",
+          "Slash",
+          "Future Sight",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Absol  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 35,
+        "OT": "PCNYcPCNYd",
+        "ID": "000001-01000",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 35",
+        "moves": [
+          "Razor Wind",
+          "Bite",
+          "Swords Dance",
+          "Spite"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "10 July 2004",
+        "endDate": "10 July 2004",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " アブソル  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Leer",
+          "Wish",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 5th Anniv.",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2003",
+        "endDate": "18 May 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " アブソル  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Leer",
+          "Spite",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 5th Anniv.",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2003",
+        "endDate": "18 May 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

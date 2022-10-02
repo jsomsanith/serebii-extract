@@ -1,0 +1,141 @@
+{
+  "pokedexID": "068",
+  "species": "Machamp",
+  "events": [
+    {
+      "pokemon": {
+        "name": " カイリキー  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サオリ",
+        "ID": "160206",
+        "ability": "Guts",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 34",
+        "moves": [
+          "Strength",
+          "Bulk Up",
+          "Quick Guard",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Saori's Machamp.7-11, Tsutaya, Nintendo Zone, Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "8 February 2017",
+        "endDate": "28 February 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Machamp  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ScreenPeekaz",
+        "ID": "07016",
+        "ability": "No Guard",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Battle Resort. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Wide Guard",
+          "Knock Off"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "1 July 2016",
+        "endDate": "3 July 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Machamp  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ScreenPeekaz",
+        "ID": "05146",
+        "ability": "No Guard",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Battle Resort. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Wide Guard",
+          "Knock Off"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships DistributionUK - Liverpool (14/05 - 15/05)Germany - Kassel (21/05 - 22/05)Italy - Milan (11/06 - 12/06)",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "14 May 2016",
+        "endDate": "12 June 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Machamp  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ScreenPeekaz",
+        "ID": "05146",
+        "ability": "No Guard",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Battle Resort. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dynamic Punch",
+          "Stone Edge",
+          "Wide Guard",
+          "Knock Off"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships Distribution",
+        "type": "In-Life",
+        "location": "Australia",
+        "startDate": "2 July 2016",
+        "endDate": "3 July 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイリキー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ｄｒ．シャイ",
+        "ID": "11195",
+        "ability": "No Guard",
+        "item": "Star Piece",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 39",
+        "moves": [
+          "Seismic Toss",
+          "Dynamic Punch",
+          "Dig",
+          "Focus Energy"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Expo Gym Event",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 November 2015",
+        "endDate": "7 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

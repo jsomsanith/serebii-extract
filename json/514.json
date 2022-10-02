@@ -1,0 +1,33 @@
+{
+  "pokedexID": "514",
+  "species": "Simisear",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バオッキー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "そうせんきょ",
+        "ID": "00720",
+        "ability": "Gluttony",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 16. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Work Up",
+          "Hone Claws",
+          "Power-up Punch",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Election - Lowest Voted Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "25 June 2016",
+        "endDate": "15 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

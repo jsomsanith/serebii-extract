@@ -1,0 +1,87 @@
+{
+  "pokedexID": "079",
+  "species": "Slowpoke",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ヤドン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Oblivious or Own Tempo ",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Confusion",
+          "Disable",
+          "Headbutt",
+          "Water Pulse"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヤドン  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Oblivious or Own Tempo ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Curse",
+          "Yawn",
+          "Tackle",
+          "Growl"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Slowpoke  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 31,
+        "OT": "JEREMY",
+        "ID": "13579",
+        "ability": "Oblivious",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 31",
+        "moves": [
+          "Water Gun",
+          "Confusion",
+          "Disable",
+          "Headbutt"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

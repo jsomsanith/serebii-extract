@@ -1,0 +1,32 @@
+{
+  "pokedexID": "513",
+  "species": "Pansear",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  バオップ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Leer",
+          "Lick",
+          "Incinerate",
+          "Heat Wave"
+        ]
+      },
+      "event": {
+        "description": "Famitsu Giveaway",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "15 November 2012",
+        "endDate": "10 January 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    }
+  ]
+}

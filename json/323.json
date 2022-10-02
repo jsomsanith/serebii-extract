@@ -1,0 +1,33 @@
+{
+  "pokedexID": "323",
+  "species": "Camerupt",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バクーダ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "マツブサ",
+        "ID": "11214",
+        "ability": "Magma Armor",
+        "item": "Cameruptite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 43",
+        "moves": [
+          "Curse",
+          "Take Down",
+          "Rock Slide",
+          "Yawn"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Maxie's Camerupt",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

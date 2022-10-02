@@ -1,0 +1,87 @@
+{
+  "pokedexID": "758",
+  "species": "Salazzle",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Salazzle  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Clovis",
+        "ID": "080817",
+        "ability": "Corrosion",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Toxic",
+          "Sludge Bomb",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Gamestop Burning Shadows TCG Tie-in",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "14 August 2017",
+        "endDate": "4 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Salazzle  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Corrosion",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Toxic",
+          "Sludge Bomb",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Burning Shadows TCG Tie-in",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "18 August 2017",
+        "endDate": "18 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Salazzle  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Clovis",
+        "ID": "080817",
+        "ability": "Corrosion",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Toxic",
+          "Sludge Bomb",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Gamestop Burning Shadows TCG Tie-in (EB Games)",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "14 August 2017",
+        "endDate": "4 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

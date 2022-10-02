@@ -1,0 +1,33 @@
+{
+  "pokedexID": "315",
+  "species": "Roselia",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ロゼリア  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60321",
+        "ability": "Natural Cure or Poison Point ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Absorb",
+          "Growth",
+          "Poison Sting",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 5",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 March 2006",
+        "endDate": "9 April 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

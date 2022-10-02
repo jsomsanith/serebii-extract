@@ -1,0 +1,60 @@
+{
+  "pokedexID": "839",
+  "species": "Coalossal",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Coalossal  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Wolfe",
+        "ID": "210813",
+        "ability": "Steam Engine",
+        "item": "Weakness Policy",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heat Wave",
+          "Meteor Beam",
+          "Protect",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Players Cup Invitational - Code: V1CT0RYENG1NE25",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "13 August 2021",
+        "endDate": "15 August 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セキタンザン  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Steam Engine or Flame Body  or Flash Fire ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokï¿½mon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ancient Power",
+          "Flamethrower",
+          "Rock Slide",
+          "Will-o-wisp"
+        ]
+      },
+      "event": {
+        "description": "World Hobby Fair - Max Raid Battle Experience Corner",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "19 January 2020",
+        "endDate": "21 January 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

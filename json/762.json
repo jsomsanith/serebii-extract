@@ -1,0 +1,60 @@
+{
+  "pokedexID": "762",
+  "species": "Steenee",
+  "events": [
+    {
+      "pokemon": {
+        "name": " アママイコ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "マオ",
+        "ID": "170617",
+        "ability": "Leaf Guard or Oblivious ",
+        "item": "Yellow Nectar",
+        "pokemonDescription": "Naive Nature.Date of Receiving Pokémon animated show. Apparently had a fateful encounter at Lv. 18",
+        "moves": [
+          "Magical Leaf",
+          "Double Slap",
+          "Sweet Scent",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Festival 2017 - Mallow's Steenee",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 June 2017",
+        "endDate": "25 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 달무리나  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "마오",
+        "ID": "170919",
+        "ability": "Leaf Guard or Oblivious ",
+        "item": "Yellow Nectar",
+        "pokemonDescription": "Naive Nature.Date of Receiving Pokémon animated show. Apparently had a fateful encounter at Lv. 18",
+        "moves": [
+          "Magical Leaf",
+          "Double Slap",
+          "Sweet Scent",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mallow's Steenee - Code: ALOLASTEW762",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "17 June 2017",
+        "endDate": "25 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pokedexID": "065",
+  "species": "Alakazam",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Alakazam  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Synchronize or Inner Focus ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Future Sight",
+          "Calm Mind",
+          "Psychic",
+          "Trick"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Alakazam  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Synchronize or Inner Focus ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Future Sight",
+          "Calm Mind",
+          "Psychic",
+          "Trick"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pokedexID": "447",
+  "species": "Riolu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Kyle",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "10 November 2008",
+        "endDate": "31 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リオル  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "カイト",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "1 December 2008",
+        "endDate": "15 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リオル  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "カイト",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "20 March 2008",
+        "endDate": "15 June 2008",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Kiko",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Spain",
+        "startDate": "21 November 2008",
+        "endDate": "14 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Carlo",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Italy",
+        "startDate": "21 November 2008",
+        "endDate": "14 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Karel",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "France",
+        "startDate": "21 November 2008",
+        "endDate": "14 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Kyle",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Germany",
+        "startDate": "21 November 2008",
+        "endDate": "14 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Riolu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Kyle",
+        "ID": "03208",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Aura Sphere",
+          "Shadow Claw",
+          "Bullet Punch",
+          "Drain Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "UK",
+        "startDate": "21 November 2008",
+        "endDate": "14 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

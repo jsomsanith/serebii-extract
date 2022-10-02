@@ -1,0 +1,141 @@
+{
+  "pokedexID": "225",
+  "species": "Delibird",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Delibird  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "12255",
+        "ability": "Vital Spirit or Hustle ",
+        "item": "Relic Gold",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Present",
+          "Happy Hour",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Festive Feud Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "25 December 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " デリバード  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "12255",
+        "ability": "Vital Spirit or Hustle ",
+        "item": "Relic Gold",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Present",
+          "Happy Hour",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Festive Feud Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "25 December 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Delibird  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "12255",
+        "ability": "Vital Spirit or Hustle ",
+        "item": "Relic Gold",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Present",
+          "Happy Hour",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Festive Feud Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " December 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 딜리버드  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "12255",
+        "ability": "Vital Spirit or Hustle ",
+        "item": "Relic Gold",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Present",
+          "Happy Hour",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Festive Feud Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": " December 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " デリバード  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Vital Spirit or Hustle ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Present",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

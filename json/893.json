@@ -1,0 +1,195 @@
+{
+  "pokedexID": "893",
+  "species": "Zarude",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zarude ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "Jungle",
+        "ID": "211006",
+        "ability": "Leaf Guard",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Jungle Healing",
+          "Hammer Arm",
+          "Power Whip",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Secrets of the Jungle",
+        "type": "Serial Code",
+        "location": "North AmericaEurope",
+        "startDate": "7 October 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 자루도 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "???",
+        "ID": "???",
+        "ability": "Leaf Guard",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Adamant Nature.Date of Receiving 2020 Pokémon Movie. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Jungle Healing",
+          "Hammer Arm",
+          "Power Whip",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Coco - Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 September 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zarude ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "JungleGinglaDschungelSelvaオコヤのもり",
+        "ID": "201113",
+        "ability": "Leaf Guard",
+        "item": "Leftovers",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Close Combat",
+          "Power Whip",
+          "Swagger",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": " December 2020",
+        "endDate": "31 March 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ザルード ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "オコヤのもりJungleGinglaDschungelSelva",
+        "ID": "201225",
+        "ability": "Leaf Guard",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Adamant Nature.Date of Receiving 2020 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Jungle Healing",
+          "Hammer Arm",
+          "Power Whip",
+          "Energy Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Coco - Theatre Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 December 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ザルード ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "オコヤのもりJungleGinglaDschungelSelva",
+        "ID": "200807",
+        "ability": "Leaf Guard",
+        "item": "Leftovers",
+        "pokemonDescription": "Sassy Nature.Date of Receiving 2020 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Close Combat",
+          "Power Whip",
+          "Swagger",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Coco - Prebooking Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "7 August 2020",
+        "endDate": "24 December 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zarude ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "JungleGinglaDschungelSelvaオコヤのもり",
+        "ID": "201113",
+        "ability": "Leaf Guard",
+        "item": "Leftovers",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Close Combat",
+          "Power Whip",
+          "Swagger",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Vivid Voltage distributionUK - GAMEIE/IT/DE/AT/SW - GamestopBE/NL - GameMania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "13 November 2020",
+        "endDate": "13 December 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zarude ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "JungleGinglaDschungelSelvaオコヤのもり",
+        "ID": "201113",
+        "ability": "Leaf Guard",
+        "item": "Leftovers",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Close Combat",
+          "Power Whip",
+          "Swagger",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": " December 2020",
+        "endDate": "31 March 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

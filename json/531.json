@@ -1,0 +1,114 @@
+{
+  "pokedexID": "531",
+  "species": "Audino",
+  "events": [
+    {
+      "pokemon": {
+        "name": " タブンネ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "0101601096011660123601306",
+        "ability": "Healer or Regenerator ",
+        "item": "Audinite",
+        "pokemonDescription": "Relaxed Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Trick Room",
+          "Heal Pulse",
+          "Simple Beam",
+          "Thunderbolt"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Event Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 January 2016",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " タブンネ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "トウキョーナゴヤヨコハマサッポロオーサカフクオカ",
+        "ID": "11042",
+        "ability": "Healer",
+        "item": "Rare Candy",
+        "pokemonDescription": "Jolly Nature.Date of Receiving PC Tokyo/PC Nagoya/PC Yokohama/PC Sapporo/PC Osaka/PC Fukuoka. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Pulse",
+          "Helping Hand",
+          "Refresh",
+          "Present"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "4 November 2012",
+        "endDate": "3 November 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " タブンネ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "トウキョーナゴヤヨコハマサッポロオーサカフクオカ",
+        "ID": "11041",
+        "ability": "Healer",
+        "item": "Rare Candy",
+        "pokemonDescription": "Serious Nature.Date of Receiving PC Tokyo/PC Nagoya/PC Yokohama/PC Sapporo/PC Osaka/PC Fukuoka. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Pulse",
+          "Helping Hand",
+          "Refresh",
+          "Present"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "4 November 2011",
+        "endDate": "3 November 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " タブンネ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "トウキョーナゴヤヨコハマサッポロオーサカフクオカ",
+        "ID": "11040",
+        "ability": "Healer",
+        "item": "Rare Candy",
+        "pokemonDescription": "Calm Nature.Date of Receiving PC Tokyo/PC Nagoya/PC Yokohama/PC Sapporo/PC Osaka/PC Fukuoka. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Pulse",
+          "Helping Hand",
+          "Refresh",
+          "Double Slap"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "4 November 2010",
+        "endDate": "3 November 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pokedexID": "375",
+  "species": "Metang",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Metang ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "ROCKS",
+        "ID": "02005",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 30",
+        "moves": [
+          "Take Down",
+          "Confusion",
+          "Metal Claw",
+          "Refresh"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Rocks America",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 September 2005",
+        "endDate": "22 October 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メタング ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "フェスタ",
+        "ID": "02005",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 30",
+        "moves": [
+          "Take Down",
+          "Confusion",
+          "Metal Claw",
+          "Refresh"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 July 2005",
+        "endDate": "21 August 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

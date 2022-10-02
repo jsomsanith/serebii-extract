@@ -1,0 +1,569 @@
+{
+  "pokedexID": "494",
+  "species": "Victini",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Victory",
+        "ID": "220818",
+        "ability": "Victory Star",
+        "item": "Starf Berry",
+        "pokemonDescription": "Brave Nature.Date of Receiving WCS 2022. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Zen Headbutt",
+          "Work Up",
+          "Flame Charge"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon World Championships Livestream Distribution - Code: ",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "18 August 2022",
+        "endDate": "21 August 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビクティニ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "トウホク",
+        "ID": "170630",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Center Tohoku. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "V-create",
+          "Reversal",
+          "Stored Power",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Tohoku - Renewal Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "30 June 2017",
+        "endDate": "3 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "09016",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 September 2016",
+        "endDate": "24 September 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "09016",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 September 2016",
+        "endDate": "24 September 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "09016",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "1 September 2016",
+        "endDate": "24 September 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 비크티니 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Quick Attack",
+          "Swagger",
+          "V-create",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sun & Moon - Pre-order Bonus",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "1 October 2016",
+        "endDate": "30 November 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビクティニ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "12014",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Confusion",
+          "Quick Attack",
+          "V-create",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap Campaign - 16 Codes Redeemed",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2014",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "12 June 2012",
+        "endDate": "26 June 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビクティニ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "トウホク",
+        "ID": "11252",
+        "ability": "Victory Star",
+        "item": "Soothe Bell",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "V-create",
+          "Blue Flare",
+          "Bolt Strike",
+          "Glaciate"
+        ]
+      },
+      "event": {
+        "description": "Happy Christmas - Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 November 2012",
+        "endDate": "3 January 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White (English games only)",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "12 June 2012",
+        "endDate": "26 June 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "FILM14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "France",
+        "startDate": "31 May 2012",
+        "endDate": "30 June 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "FILM14PELI14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "GermanySpainItaly",
+        "startDate": "10 April 2012",
+        "endDate": "30 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "12 June 2012",
+        "endDate": "26 June 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "3 December 2011",
+        "endDate": "31 December 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Victini ",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "?? Nature.Date of Receiving Liberty Garden. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "6 March 2011",
+        "endDate": "27 April 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビクティニ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "アイント",
+        "ID": "04161",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 11. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 April 2011",
+        "endDate": "31 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "English Areas",
+        "startDate": "3 December 2011",
+        "endDate": "31 December 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Victini ",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "?? Nature.Date of Receiving Liberty Garden. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "4 March 2011",
+        "endDate": "27 April 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Victini ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Movie14",
+        "ID": "12031",
+        "ability": "Victory Star",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "V-create",
+          "Fusion Flare",
+          "Fusion Bolt",
+          "Searing Shot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon The Movie - Black & White",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "3 December 2011",
+        "endDate": "31 December 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Victini ",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "?? Nature.Date of Receiving Liberty Garden. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Australia",
+        "startDate": "10 March 2011",
+        "endDate": "27 April 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ビクティニ ",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Victory Star",
+        "item": "No Item",
+        "pokemonDescription": "?? Nature.Date of Receiving Liberty Garden. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Incinerate",
+          "Quick Attack",
+          "Endure",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "18 September 2010",
+        "endDate": "18 October 2010",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

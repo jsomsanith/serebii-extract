@@ -1,0 +1,276 @@
+{
+  "pokedexID": "383",
+  "species": "Groudon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Groudon ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drought",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Earthquake",
+          "Precipice Blades",
+          "Bulk Up",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 August 2018",
+        "endDate": "26 August 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Groudon ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drought",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Precipice Blades",
+          "Earth Power",
+          "Fire Punch",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 August 2018",
+        "endDate": "26 August 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " グラードン ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ウルトラ",
+        "ID": "180113",
+        "ability": "Drought",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Earthquake",
+          "Precipice Blades",
+          "Bulk Up",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "13 January 2018",
+        "endDate": "5 March 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Groudon ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drought",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Earthquake",
+          "Precipice Blades",
+          "Bulk Up",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 August 2018",
+        "endDate": "25 August 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Groudon ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "080318",
+        "ability": "Drought",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Precipice Blades",
+          "Earth Power",
+          "Fire Punch",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 August 2018",
+        "endDate": "25 August 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 그란돈 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "울트라 ",
+        "ID": "180127",
+        "ability": "Drought",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Earthquake",
+          "Precipice Blades",
+          "Bulk Up",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 2017-18 Winter Tie-In Distribution. Second Chance Code: RAYQUAZAGOTCHA",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "27 January 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " グラードン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "デセルシティ",
+        "ID": "06205",
+        "ability": "Drought",
+        "item": "Choice Band",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fire Punch",
+          "Solar Beam",
+          "Hammer Arm",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 그란돈 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "데세르시티",
+        "ID": "11205",
+        "ability": "Drought",
+        "item": "Choice Band",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fire Punch",
+          "Solar Beam",
+          "Hammer Arm",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa  Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "20 November 2015",
+        "endDate": "27 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " グラードン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "ルビー",
+        "ID": "11212",
+        "ability": "Drought",
+        "item": "Fire Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Hoenn. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Eruption",
+          "Hammer Arm",
+          "Earth Power",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Ruby & Sapphire 10th Anniversary - Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 November 2012",
+        "endDate": "10 January 2013",
+        "gamesAvailable": "Black 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " グラードン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 80,
+        "OT": "フクオカ",
+        "ID": "03172",
+        "ability": "Drought",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Fukuoka. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Earthquake",
+          "Ancient Power",
+          "Eruption",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Fukuoka - Kyushu Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 March 2012",
+        "endDate": "15 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

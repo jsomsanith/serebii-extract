@@ -1,0 +1,33 @@
+{
+  "pokedexID": "389",
+  "species": "Torterra",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ドダイトス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCY",
+        "ID": "06053",
+        "ability": "Overgrow",
+        "item": "Choice Band",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Wood Hammer",
+          "Earthquake",
+          "Outrage",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Yokohama",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "5 June 2013",
+        "endDate": "11 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

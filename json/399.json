@@ -1,0 +1,33 @@
+{
+  "pokedexID": "399",
+  "species": "Bidoof",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ビッパ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "だいすき",
+        "ID": "17336",
+        "ability": "Simple",
+        "item": "No Item",
+        "pokemonDescription": "Lonely Nature.Date of Receiving Day-Care Couple. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Tackle",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Daisuki Club Party",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 February 2008",
+        "endDate": "21 February 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

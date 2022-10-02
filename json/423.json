@@ -1,0 +1,87 @@
+{
+  "pokedexID": "423",
+  "species": "Gastrodon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Gastrodon  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Eric",
+        "ID": "220624",
+        "ability": "Storm Drain",
+        "item": "Leftovers",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Yawn",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon North America International Championships Livestream Distribution - Code: ",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "24 June 2022",
+        "endDate": "26 June 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " トリトドン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "カ・エール",
+        "ID": "200822",
+        "ability": "Storm Drain",
+        "item": "Expert Belt",
+        "pokemonDescription": "Quiet Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Protect",
+          "Surf",
+          "Ice Beam",
+          "Earth Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 2020 Japan Championships - Stream Distribution Code: PJCS2019CHAMP",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "22 August 2020",
+        "endDate": "23 August 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Gastrodon  ♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Paul",
+        "ID": "062219",
+        "ability": "Storm Drain",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving Route 4. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Earth Power",
+          "Ice Beam",
+          "Recover",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon International Championships Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "21 June 2019",
+        "endDate": "23 June 2019",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

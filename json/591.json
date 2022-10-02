@@ -1,0 +1,33 @@
+{
+  "pokedexID": "591",
+  "species": "Amoonguss",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 뽀록나  ♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "백종윤",
+        "ID": "200809",
+        "ability": "Regenerator",
+        "item": "Focus Sash",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Clear Smog",
+          "Spore",
+          "Protect",
+          "Rage Powder"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Championships Code - Baik Jongyoon's Amoonguss",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "9 August 2020",
+        "endDate": "10 August 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

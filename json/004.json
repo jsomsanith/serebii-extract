@@ -1,0 +1,248 @@
+{
+  "pokedexID": "004",
+  "species": "Charmander",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Charmander  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WORLDS16",
+        "ID": "08196",
+        "ability": "Solar Power",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving WCS 2016. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Celebrate",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championships Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "19 August 2016",
+        "endDate": "21 August 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケモンラボ",
+        "ID": "07085",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Growl",
+          "Ember",
+          "Smokescreen",
+          "Dragon Rage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Lab Event - Special Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "8 July 2015",
+        "endDate": "31 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Event. Hatched at Location",
+        "moves": [
+          "False Swipe",
+          "Block",
+          "Blast Burn",
+          "Acrobatics"
+        ]
+      },
+      "event": {
+        "description": "Collect Pokémon Campaign",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 September 2012",
+        "endDate": "30 September 2012",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ヒトカゲ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Solar Power",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Ember",
+          "Smokescreen"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pia",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "14 October 2010",
+        "endDate": "31 May 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "トウキョー",
+        "ID": "07200",
+        "ability": "Blaze",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Hardy Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Return",
+          "Hidden Power",
+          "Quick Attack",
+          "Howl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 July 2010",
+        "endDate": "3 November 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "トウキョー",
+        "ID": "07209",
+        "ability": "Blaze",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Naughty Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Return",
+          "Hidden Power",
+          "Quick Attack",
+          "Howl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 July 2009",
+        "endDate": "19 July 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "トウキョー",
+        "ID": "07208",
+        "ability": "Blaze",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Naï¿½ve Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Return",
+          "Hidden Power",
+          "Quick Attack",
+          "Howl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 July 2008",
+        "endDate": "19 July 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "トウキョー",
+        "ID": "07207",
+        "ability": "Blaze",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Mild Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Return",
+          "Hidden Power",
+          "Quick Attack",
+          "Howl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 July 2007",
+        "endDate": "19 July 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒトカゲ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Ember",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 4",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "11 February 2006",
+        "endDate": "27 February 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

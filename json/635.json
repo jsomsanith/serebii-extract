@@ -1,0 +1,87 @@
+{
+  "pokedexID": "635",
+  "species": "Hydreigon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " サザンドラ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ゲーチス",
+        "ID": "06232",
+        "ability": "Levitate",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 52",
+        "moves": [
+          "Dragon Rush",
+          "Crunch",
+          "Rock Slide",
+          "Frustration"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Ghetsis' Hydreigon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サザンドラ  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "カリータ",
+        "ID": "06171",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Hyper Voice",
+          "Dragon Breath",
+          "Flamethrower",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011 - Carlita's Hydreigon",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "8 July 2011",
+        "endDate": "8 September 2011",
+        "gamesAvailable": "Black"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サザンドラ  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "カリータ",
+        "ID": "06171",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 11. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Hyper Voice",
+          "Dragon Breath",
+          "Flamethrower",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011 - McDonalds Giveaway",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 June 2011",
+        "endDate": "7 July 2011",
+        "gamesAvailable": "Black"
+      }
+    }
+  ]
+}

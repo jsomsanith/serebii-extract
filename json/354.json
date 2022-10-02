@@ -1,0 +1,84 @@
+{
+  "pokedexID": "354",
+  "species": "Banette",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  Banette  ♀",
+        "shiny": false,
+        "level": 37,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 37",
+        "moves": [
+          "Feint Attack",
+          "Hex",
+          "Shadow Ball",
+          "Cotton Guard"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Power Gift - Halloween",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "15 September 2011",
+        "endDate": "1 March 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ジュペッタ  ♀",
+        "shiny": false,
+        "level": 37,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 37",
+        "moves": [
+          "Feint Attack",
+          "Hex",
+          "Shadow Ball",
+          "Cotton Guard"
+        ]
+      },
+      "event": {
+        "description": "Weekly Famitsu Gift - Halloween",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "28 September 2011",
+        "endDate": "31 October 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Banette  ♀",
+        "shiny": false,
+        "level": 37,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 37",
+        "moves": [
+          "Feint Attack",
+          "Hex",
+          "Shadow Ball",
+          "Cotton Guard"
+        ]
+      },
+      "event": {
+        "description": "Online Gifts",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "13 September 2011",
+        "endDate": "7 December 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

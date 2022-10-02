@@ -1,0 +1,33 @@
+{
+  "pokedexID": "003",
+  "species": "Venusaur",
+  "events": [
+    {
+      "pokemon": {
+        "name": " フシギバナ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "04286",
+        "ability": "Chlorophyll",
+        "item": "Venusaurite",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Solar Beam",
+          "Frenzy Plant",
+          "Synthesis",
+          "Grass Pledge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "28 April 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

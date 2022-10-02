@@ -1,0 +1,60 @@
+{
+  "pokedexID": "686",
+  "species": "Inkay",
+  "events": [
+    {
+      "pokemon": {
+        "name": " マーイーカ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PCTB",
+        "ID": "11223",
+        "ability": "Contrary or Suction Cups ",
+        "item": "Aspear Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Happy Hour",
+          "Foul Play",
+          "Hypnosis",
+          "Topsy-turvy"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 December 2013",
+        "endDate": "26 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マーイーカ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PCTB",
+        "ID": "11223",
+        "ability": "Contrary or Suction Cups ",
+        "item": "Aspear Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo Bay. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Happy Hour",
+          "Foul Play",
+          "Hypnosis",
+          "Topsy-turvy"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Tokyo Bay Opening",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 November 2013",
+        "endDate": "26 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "pokedexID": "487",
+  "species": "Giratina",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ギラティナ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "デセルシティ",
+        "ID": "06205",
+        "ability": "Telepathy",
+        "item": "Griseous Orb",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aura Sphere",
+          "Draco Meteor",
+          "Shadow Force",
+          "Iron Head"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 기라티나 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "데세르시티",
+        "ID": "11265",
+        "ability": "Telepathy",
+        "item": "Griseous Orb",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aura Sphere",
+          "Draco Meteor",
+          "Shadow Force",
+          "Iron Head"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Distribution: Code - 1223MOVIE ",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "26 November 2015",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Giratina ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09303",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dragon Pulse",
+          "Dragon Claw",
+          "Aura Sphere",
+          "Shadow Force"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "30 September 2013",
+        "endDate": "20 October 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Giratina ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09273",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dragon Pulse",
+          "Dragon Claw",
+          "Aura Sphere",
+          "Shadow Force"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "27 September 2013",
+        "endDate": "12 October 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Giratina ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09273",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dragon Pulse",
+          "Dragon Claw",
+          "Aura Sphere",
+          "Shadow Force"
+        ]
+      },
+      "event": {
+        "description": "EB Games / JB Hi-Fi Distribution",
+        "type": "In-Life",
+        "location": "Oceania",
+        "startDate": "27 September 2013",
+        "endDate": "12 October 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

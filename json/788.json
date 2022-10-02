@@ -1,0 +1,87 @@
+{
+  "pokedexID": "788",
+  "species": "Tapu Fini",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Tapu Fini ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ポニPoni",
+        "ID": "190524",
+        "ability": "Misty Surge",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Muddy Water",
+          "Aqua Ring",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "2019 International Challenge May - Entry Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "11 June 2019",
+        "endDate": "31 July 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カプ・レヒレ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Poni",
+        "ID": "190419",
+        "ability": "Misty Surge",
+        "item": "Misty Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Muddy Water",
+          "Aqua Ring",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Japan Championships 2019 - Entry Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "21 May 2019",
+        "endDate": "30 June 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Fini ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Poni",
+        "ID": "190524",
+        "ability": "Misty Surge",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Muddy Water",
+          "Aqua Ring",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "2019 International Challenge May - Entry Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "11 June 2019",
+        "endDate": "31 July 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

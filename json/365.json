@@ -1,0 +1,33 @@
+{
+  "pokedexID": "365",
+  "species": "Walrein",
+  "events": [
+    {
+      "pokemon": {
+        "name": " トドゼルガ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Thick Fat",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ice Beam",
+          "Surf",
+          "Hail",
+          "Sheer Cold"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "2 April 2012",
+        "endDate": "22 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

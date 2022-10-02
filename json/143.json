@@ -1,0 +1,60 @@
+{
+  "pokedexID": "143",
+  "species": "Snorlax",
+  "events": [
+    {
+      "pokemon": {
+        "name": " カビゴン  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Immunity or Thick Fat  or Gluttony ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokï¿½mon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Body Slam",
+          "High Horsepower",
+          "Brick Break",
+          "Bulldoze"
+        ]
+      },
+      "event": {
+        "description": "Jump Festa - Max Raid Battle Experience Corner",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "21 November 2019",
+        "endDate": "23 December 2019",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カビゴン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "にほんばし ",
+        "ID": "180314",
+        "ability": "Thick Fat",
+        "item": "Full Incense",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Center. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Sunny Day",
+          "Block",
+          "Body Slam",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Tokyo DX - Opening Gift - Pokï¿½mon Center Tokyo DX Only",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 March 2018",
+        "endDate": "28 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

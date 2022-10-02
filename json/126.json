@@ -1,0 +1,141 @@
+{
+  "pokedexID": "126",
+  "species": "Magmar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Magmar  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SPRING 2014",
+        "ID": "04014",
+        "ability": "Vital Spirit",
+        "item": "Magmarizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Smokescreen",
+          "Fire Spin",
+          "Confuse Ray",
+          "Fire Punch"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution Event (UK, Spain, France)FNAC Distribution (Portugal)GameMania (NL)Toys R Us etc. (Germany)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 April 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Magmar  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SPRING 2014",
+        "ID": "04014",
+        "ability": "Vital Spirit",
+        "item": "Magmarizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Smokescreen",
+          "Fire Spin",
+          "Confuse Ray",
+          "Fire Punch"
+        ]
+      },
+      "event": {
+        "description": "EB Games, JB Hifi & Target Distribution Event",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "4 April 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ブーバー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Flame Body",
+        "item": "Magmarizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Smokescreen",
+          "Feint Attack",
+          "Fire Spin",
+          "Confuse Ray"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ブーバー  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "フェスタ",
+        "ID": "11256",
+        "ability": "Flame Body",
+        "item": "Magmarizer",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Festa 06. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Smokescreen",
+          "Fire Spin",
+          "Confuse Ray",
+          "Fire Punch"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 November 2006",
+        "endDate": "31 January 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ブーバー  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Flame Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Leer",
+          "Smog",
+          "Fire Punch",
+          "Leer"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "pokedexID": "037",
+  "species": "Vulpix",
+  "events": [
+    {
+      "pokemon": {
+        "name": " シロン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "リーリエ",
+        "ID": "170705",
+        "ability": "Snow Cloak",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Modest Nature.Date of Receiving Pokémon animated show. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Powder Snow",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Festival 2017 - Lillie's Vulpix",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "5 July 2017",
+        "endDate": "14 July 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 하양이  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "릴리에",
+        "ID": "170822",
+        "ability": "Snow Cloak",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Modest Nature.Date of Receiving Pokémon animated show. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Powder Snow",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Lillie's Vulpix. Code: JAMES",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "24 August 2017",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 식스테일  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "썬문",
+        "ID": "170404",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Ice Shard",
+          "Baby-doll Eyes",
+          "Roar",
+          "Tail Whip"
+        ]
+      },
+      "event": {
+        "description": "Toonverse & Pokémon Sun & Moon Collaboration - Code: ALOLA",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "4 April 2017",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ロコン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サッポロ",
+        "ID": "161201",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Sapporo. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Tail Whip",
+          "Baby-doll Eyes",
+          "Ice Shard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Sapporo - Opening Distribution (01/12 - 31/01)Pokémon Center/Store - Vulpix Distribution (01/02 - 13/03)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 December 2016",
+        "endDate": "13 March 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vulpix  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 18,
+        "OT": "JEREMY",
+        "ID": "13579",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 18",
+        "moves": [
+          "Tail Whip",
+          "Roar",
+          "Quick Attack",
+          "Will-o-wisp"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pokedexID": "098",
+  "species": "Krabby",
+  "events": [
+    {
+      "pokemon": {
+        "name": " クラブ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "はかせ",
+        "ID": "000132",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "?? Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Crabhammer",
+          "Toxic",
+          "Facade",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield Secret Member Club Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "4 October 2019",
+        "endDate": "14 November 2019",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    }
+  ]
+}

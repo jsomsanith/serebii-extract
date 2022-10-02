@@ -1,0 +1,168 @@
+{
+  "pokedexID": "801",
+  "species": "Magearna",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Magearna ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fleur Cannon",
+          "Flash Cannon",
+          "Defense Curl",
+          "Rest"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon HOME - National Pokï¿½dex Completion Gift",
+        "type": "In-Game",
+        "location": "North America",
+        "startDate": "14 February 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マギアナ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fleur Cannon",
+          "Flash Cannon",
+          "Defense Curl",
+          "Rest"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon HOME - National Pokï¿½dex Completion Gift",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "14 February 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Magearna ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fleur Cannon",
+          "Flash Cannon",
+          "Defense Curl",
+          "Rest"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon HOME - National Pokï¿½dex Completion Gift",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "14 February 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Magearna ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flash Cannon",
+          "Fleur Cannon",
+          "Lucky Chant",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Official Site - Magearna Code Distribution",
+        "type": "QR Code",
+        "location": "North America",
+        "startDate": "5 December 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マギアナ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flash Cannon",
+          "Fleur Cannon",
+          "Lucky Chant",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion & The Ingenious Magearna - QR Code on special distributed Ga-Olé disc",
+        "type": "QR Code",
+        "location": "Japan",
+        "startDate": "16 July 2016",
+        "endDate": "30 September 2016",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Magearna ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Soul-Heart",
+        "item": "Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flash Cannon",
+          "Fleur Cannon",
+          "Lucky Chant",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon TV - Magearna Code Distribution",
+        "type": "QR Code",
+        "location": "Europe",
+        "startDate": "6 December 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

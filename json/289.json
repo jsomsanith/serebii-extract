@@ -1,0 +1,33 @@
+{
+  "pokedexID": "289",
+  "species": "Slaking",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ケッキング  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "あきやま",
+        "ID": "01069",
+        "ability": "Truant",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Giga Impact",
+          "Return",
+          "Shadow Claw",
+          "Aerial Ace"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch - Daisuki Club",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "6 January 2009",
+        "endDate": "19 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    }
+  ]
+}

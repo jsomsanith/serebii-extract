@@ -1,0 +1,411 @@
+{
+  "pokedexID": "144",
+  "species": "Articuno",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "CrownカンムリCouronneigeL. CoronaKroneCorona왕관설원王冠",
+        "ID": "220218",
+        "ability": "Competitive",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freezing Glare",
+          "Hurricane",
+          "Psycho Cut",
+          "Psycho Shift"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon International Challenge 2022 - February Entry Gift",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "21 February 2022",
+        "endDate": "14 March 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "05026",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freeze-dry",
+          "Ice Beam",
+          "Hail",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 May 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " フリーザー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "03016",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freeze-dry",
+          "Ice Beam",
+          "Hail",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 March 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "03116",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freeze-dry",
+          "Ice Beam",
+          "Hail",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Legendary Bird Gift:Spain - Official Magazine #283Italy - VideoGameWorld (12/03)Belgium - FACTS (02/04-03/04)UK - Smyths Toy Stores (22/03-11/04)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "12 March 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "03116",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freeze-dry",
+          "Ice Beam",
+          "Hail",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "3 May 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 프리져 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "포켓몬영화",
+        "ID": "04296",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Freeze-dry",
+          "Ice Beam",
+          "Hail",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Legendary Bird Gift: Cable TV VOD: POKEMON144",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "2 May 2016",
+        "endDate": "31 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ARTIKODIN ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ARKTOS ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "24 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Articuno ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Mind Reader",
+          "Ice Beam",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

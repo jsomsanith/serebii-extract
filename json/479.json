@@ -1,0 +1,87 @@
+{
+  "pokedexID": "479",
+  "species": "Rotom",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ロトム ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ククイ",
+        "ID": "171117",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Uproar",
+          "Confide",
+          "Disarming Voice",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - LINE Tie-In Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 November 2017",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ロトム ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "トレッタ",
+        "ID": "09254",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Shock Wave",
+          "Astonish",
+          "Trick",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Tretta - Rotom Play Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 October 2014",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ロトム ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 10,
+        "OT": "オーキド",
+        "ID": "08103",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Cartoon. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Uproar",
+          "Astonish",
+          "Trick",
+          "Volt Switch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Best Wishes Tie-in - Oak's Rotom",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 August 2013",
+        "endDate": "6 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

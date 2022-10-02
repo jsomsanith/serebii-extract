@@ -1,0 +1,60 @@
+{
+  "pokedexID": "321",
+  "species": "Wailord",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Wailord  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Water Veil or Oblivious ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 100",
+        "moves": [
+          "Rest",
+          "Water Spout",
+          "Amnesia",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Halloween",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 October 2003",
+        "endDate": "31 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Wailord  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Water Veil or Oblivious ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Water Pulse",
+          "Mist",
+          "Rest",
+          "Water Spout"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Halloween",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 October 2003",
+        "endDate": "31 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

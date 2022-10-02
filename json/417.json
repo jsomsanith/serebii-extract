@@ -1,0 +1,141 @@
+{
+  "pokedexID": "417",
+  "species": "Pachirisu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Pachirisu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "박세준",
+        "ID": "05655",
+        "ability": "Volt Absorb",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships - Sejun Park's Pachirisu",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "3 July 2015",
+        "endDate": "5 July 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pachirisu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "박세준",
+        "ID": "05165",
+        "ability": "Volt Absorb",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships - Sejun Park's PachisiuGermany - 16th/17th MayUK - 30th/31st MayItaly - 13th/14th June",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "16 May 2015",
+        "endDate": "14 June 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pachirisu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "박세준",
+        "ID": "05655",
+        "ability": "Volt Absorb",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships - Sejun Park's PachisiuGermany - 16th/17th MayUK - 30th/31st MayItaly - 13th/14th June",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "6 June 2015",
+        "endDate": "8 June 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 파치리스  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "박세준",
+        "ID": "04045",
+        "ability": "Volt Absorb",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Impish Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Korean Regional Championships",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "4 April 2015",
+        "endDate": "19 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 파치리스  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "박세준",
+        "ID": "11154",
+        "ability": "Volt Absorb",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Impish Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Nuzzle",
+          "Follow Me",
+          "Super Fang",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Celebration Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "15 November 2014",
+        "endDate": "16 November 2014",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

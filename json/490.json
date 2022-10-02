@@ -1,0 +1,627 @@
+{
+  "pokedexID": "490",
+  "species": "Manaphy",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "",
+        "ID": "",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\na lovely place. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Water Gun",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Brilliant Diamond & Shining Pearl - Early Purchase Distribution",
+        "type": "Wi-fi",
+        "location": "Global",
+        "startDate": "19 November 2021",
+        "endDate": "21 February 2022",
+        "gamesAvailable": "Brilliant Diamond, Shining Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ゼンリョク",
+        "ID": "171201",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tail Glow",
+          "Water Pulse",
+          "Aqua Ring",
+          "Heart Swap"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2017",
+        "endDate": "30 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "06016",
+        "ability": "Hydration",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 June 2016",
+        "endDate": "24 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "06016",
+        "ability": "Hydration",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 June 2016",
+        "endDate": "24 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "06016",
+        "ability": "Hydration",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 June 2016",
+        "endDate": "24 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 마나피 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "물의일족",
+        "ID": "07235",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          "Heart Swap"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger & The Temple of the Sea - Special Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "18 July 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "4 October 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "NZ",
+        "ID": "08110",
+        "ability": "Hydration",
+        "item": "Lansat Berry",
+        "pokemonDescription": "Impish Nature.Date of Receiving Wi-Fi Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aqua Ring",
+          "Water Pulse",
+          "Water Sport",
+          "Heart Swap"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "14 August 2010",
+        "endDate": "12 September 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "6 March 2010",
+        "endDate": "17 May 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "5 November 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "10 November 2008",
+        "endDate": "31 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "1 December 2008",
+        "endDate": "15 January 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "20 March 2008",
+        "endDate": "15 June 2008",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Shadows Of Almia",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "21 November 2008",
+        "endDate": "14 February 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "E4ALL",
+        "ID": "10187",
+        "ability": "Hydration",
+        "item": "Red Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Acid Armor",
+          "Whirlpool",
+          "Water Pulse",
+          "Heart Swap"
+        ]
+      },
+      "event": {
+        "description": "E 4 All Conference",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "19 October 2007",
+        "endDate": "19 October 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "NWS",
+        "ID": "10017",
+        "ability": "Hydration",
+        "item": "Red Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heart Swap",
+          "Water Pulse",
+          "Whirlpool",
+          "Acid Armor"
+        ]
+      },
+      "event": {
+        "description": "Nintendo World",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "1 October 2007",
+        "endDate": "31 October 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "TRU",
+        "ID": "09297",
+        "ability": "Hydration",
+        "item": "Red Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heart Swap",
+          "Water Pulse",
+          "Whirlpool",
+          "Acid Armor"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "29 September 2007",
+        "endDate": "29 September 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nLink Trade. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "22 April 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "パルシティ",
+        "ID": "07157",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event 07. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heart Swap",
+          "Water Pulse",
+          "Whirlpool",
+          "Acid Armor"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta - Pal City",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 July 2007",
+        "endDate": "2 September 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nLink Trade. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "27 July 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Manaphy ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "JBHF",
+        "ID": "11077",
+        "ability": "Hydration",
+        "item": "Red Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heart Swap",
+          "Whirlpool",
+          "Water Pulse",
+          "Acid Armor"
+        ]
+      },
+      "event": {
+        "description": "JB Hi-Fi",
+        "type": "In-Life",
+        "location": "Australia",
+        "startDate": "7 November 2007",
+        "endDate": "13 November 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "みずのたみ",
+        "ID": "12226",
+        "ability": "Hydration",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "World Hobby Fair - 2th Anniversary",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 December 2006",
+        "endDate": "1 March 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マナフィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nLink Trade. Hatched at Location",
+        "moves": [
+          "Tail Glow",
+          "Bubble",
+          "Water Sport",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "28 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pokedexID": "228",
+  "species": "Houndour",
+  "events": [
+    {
+      "pokemon": {
+        "name": " デルビル  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60505",
+        "ability": "Early Bird or Flash Fire ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Leer",
+          "Ember",
+          "Howl",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 6",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 April 2006",
+        "endDate": "7 May 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

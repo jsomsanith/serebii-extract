@@ -1,0 +1,249 @@
+{
+  "pokedexID": "644",
+  "species": "Zekrom",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "100518",
+        "ability": "Teravolt",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Slash",
+          "Zen Headbutt",
+          "Fusion Bolt",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS - TargetCanada - Trainer Club newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 October 2018",
+        "endDate": "28 October 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "100518",
+        "ability": "Teravolt",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fusion Bolt",
+          "Bolt Strike",
+          "Outrage",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS - TargetCanada - Trainer Club newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 October 2018",
+        "endDate": "28 October 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "100518",
+        "ability": "Teravolt",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Slash",
+          "Zen Headbutt",
+          "Fusion Bolt",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "5 October 2018",
+        "endDate": "21 October 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "100518",
+        "ability": "Teravolt",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fusion Bolt",
+          "Bolt Strike",
+          "Outrage",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "5 October 2018",
+        "endDate": "21 October 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "SPR2012",
+        "ID": "03102",
+        "ability": "Teravolt",
+        "item": "Dragon Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bolt Strike",
+          "Fusion Bolt",
+          "Haze",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "1st Anniversary",
+        "type": "Wi-Fi",
+        "location": "America",
+        "startDate": "10 March 2012",
+        "endDate": "8 April 2012",
+        "gamesAvailable": "Black"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "SPR2012PRI2012FRü2012",
+        "ID": "03102",
+        "ability": "Teravolt",
+        "item": "Dragon Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bolt Strike",
+          "Fusion Bolt",
+          "Haze",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "1st Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "10 March 2012",
+        "endDate": "8 April 2012",
+        "gamesAvailable": "Black"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "SPR2012",
+        "ID": "03102",
+        "ability": "Teravolt",
+        "item": "Dragon Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bolt Strike",
+          "Fusion Bolt",
+          "Haze",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "V&D Store Giveaway",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "18 February 2012",
+        "endDate": "18 February 2012",
+        "gamesAvailable": "Black"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zekrom ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "SPR2012",
+        "ID": "03102",
+        "ability": "Teravolt",
+        "item": "Dragon Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bolt Strike",
+          "Fusion Bolt",
+          "Haze",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "1st Anniversary",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "10 March 2012",
+        "endDate": "8 April 2012",
+        "gamesAvailable": "Black"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゼクロム ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "サトシ",
+        "ID": "07161",
+        "ability": "Teravolt",
+        "item": "Dragon Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 11. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bolt Strike",
+          "Fusion Bolt",
+          "Haze",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 July 2011",
+        "endDate": "30 September 2011",
+        "gamesAvailable": "Black"
+      }
+    }
+  ]
+}

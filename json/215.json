@@ -1,0 +1,33 @@
+{
+  "pokedexID": "215",
+  "species": "Sneasel",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ニューラ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Inner Focus or Keen Eye ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Leer",
+          "Taunt",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

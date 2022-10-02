@@ -1,0 +1,33 @@
+{
+  "pokedexID": "564",
+  "species": "Tirtouga",
+  "events": [
+    {
+      "pokemon": {
+        "name": " プロトーガ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "キャンプ",
+        "ID": "07192",
+        "ability": "Sturdy",
+        "item": "Wacan Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Bite",
+          "Protect",
+          "Aqua Jet",
+          "Body Slam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Adventure Camp",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 July 2012",
+        "endDate": "21 July 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

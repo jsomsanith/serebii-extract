@@ -1,0 +1,60 @@
+{
+  "pokedexID": "152",
+  "species": "Chikorita",
+  "events": [
+    {
+      "pokemon": {
+        "name": " チコリータ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケモンラボ",
+        "ID": "12235",
+        "ability": "Overgrow",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Lab Event - Special Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "23 December 2015",
+        "endDate": "6 March 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " チコリータ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "51224",
+        "ability": "Overgrow",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Razor Leaf",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 2",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 December 2005",
+        "endDate": "31 December 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

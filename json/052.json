@@ -1,0 +1,411 @@
+{
+  "pokedexID": "052",
+  "species": "Meowth",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Meowth  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Hone Claws",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "12 June 2020",
+        "endDate": "16 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Hone Claws",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "12 June 2020",
+        "endDate": "16 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meowth  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Hone Claws",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "12 June 2020",
+        "endDate": "16 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meowth  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Slash",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield - Early Purchase Bonus",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "15 November 2019",
+        "endDate": "15 January 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Slash",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield - Early Purchase Bonus",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "15 November 2019",
+        "endDate": "15 January 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meowth  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Fake Out",
+          "Growl",
+          "Slash",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield - Early Purchase Bonus",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "15 November 2019",
+        "endDate": "15 January 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meowth  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Happy",
+        "ID": "08196",
+        "ability": "Pickup",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Happy Hour",
+          "Screech",
+          "Bite",
+          "Fake Out"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  Distribution - Code: HAPPY",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "19 August 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meowth  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "??",
+        "ID": "??",
+        "ability": "PickUp",
+        "item": "Smoke Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Cartoon. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Fury Swipes",
+          "Sing",
+          "Nasty Plot",
+          "Snatch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Day Distribution",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "13 July 2013",
+        "endDate": "14 July 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Rだん",
+        "ID": "12072",
+        "ability": "PickUp",
+        "item": "Smoke Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Cartoon. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Fury Swipes",
+          "Sing",
+          "Nasty Plot",
+          "Snatch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Best Wishes Season 2 Episode N - Tie In",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "7 December 2012",
+        "endDate": "10 January 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 10,
+        "OT": "オーサカ",
+        "ID": "03209",
+        "ability": "Pickup",
+        "item": "Amulet Coin",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fake Out",
+          "Pay Day",
+          "Assist",
+          "Scratch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 March 2009",
+        "endDate": "12 April 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 21,
+        "OT": "ゆっきーな",
+        "ID": "12098",
+        "ability": "Pickup",
+        "item": "Pink Scarf",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 21",
+        "moves": [
+          "Bite",
+          "Fake Out",
+          "Fury Swipes",
+          "Screech"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch - Daisuki Club",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "9 December 2008",
+        "endDate": "22 December 2008",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Bite",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Petal Dance",
+          " "
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "ポケパーク",
+        "ID": "50318",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PokéPark. Met at Lv. 5",
+        "moves": [
+          "Scratch",
+          "Growl",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "PokéPark - Movie Download",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ニャース  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Petal Dance",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Tour",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "24 March 2004",
+        "endDate": "4 April 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

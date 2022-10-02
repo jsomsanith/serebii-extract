@@ -1,0 +1,141 @@
+{
+  "pokedexID": "497",
+  "species": "Serperior",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Serperior  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "01225",
+        "ability": "Contrary",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Hold Back",
+          "Wring Out",
+          "Giga Drain"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Serperior Distribution (Code: POKEMON497)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "21 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジャローダ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "プレゼント",
+        "ID": "01095",
+        "ability": "Contrary",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Hold Back",
+          "Wring Out",
+          "Giga Drain"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Get☆TV - Serperior Distribution (Code: POKEMON497)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Serperior  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PresentRegaloGeschenk",
+        "ID": "01225",
+        "ability": "Contrary",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Hold Back",
+          "Wring Out",
+          "Giga Drain"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Serperior Distribution (Code: POKEMON497)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "21 January 2015",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Serperior  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "01225",
+        "ability": "Contrary",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Hold Back",
+          "Wring Out",
+          "Giga Drain"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Serperior Distribution (Code: POKEMON497)",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "21 January 2015",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジャローダ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCTH",
+        "ID": "05223",
+        "ability": "Overgrow",
+        "item": "Leftovers",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Leaf Storm",
+          "Substitute",
+          "Giga Drain",
+          "Leech Seed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Tohoku",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 May 2013",
+        "endDate": "28 May 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

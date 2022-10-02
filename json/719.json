@@ -1,0 +1,249 @@
+{
+  "pokedexID": "719",
+  "species": "Diancie",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 디안시 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "올스타",
+        "ID": "08136",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Moonblast",
+          "Reflect",
+          "Return"
+        ]
+      },
+      "event": {
+        "description": "Pokémon All-Stars Battle Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "13 August 2016",
+        "endDate": "14 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Diancie ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Hope",
+        "ID": "07245",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Moonblast",
+          "Dazzling Gleam",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Diancie Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "24 July 2015",
+        "endDate": "27 July 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ディアンシー ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "12125",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Moonblast",
+          "Reflect",
+          "Return"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Evolution Promotion",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 December 2015",
+        "endDate": "31 December 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Diancie ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Hope",
+        "ID": "07245",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Moonblast",
+          "Dazzling Gleam",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Diancie Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "24 July 2015",
+        "endDate": "27 July 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Diancie ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Universe",
+        "ID": "10045",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Reflect",
+          "Return",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Hong Kong - Facebook Promotion",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "15 October 2015",
+        "endDate": "22 October 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 디안시 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "영화관",
+        "ID": "01155",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Reflect",
+          "Return",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Diancie & The Cocoon of Destruction - Lotte Cinema Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "6 January 2015",
+        "endDate": "31 May 2015",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Diancie ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "OCT2014",
+        "ID": "10274",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 14. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Reflect",
+          "Return",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Diancie Event - Gamestop Stores",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "27 October 2014",
+        "endDate": "16 November 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ディアンシー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "えいがかん",
+        "ID": "07194",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 14. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Reflect",
+          "Return",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Cocoon of Destruction & Diancie - Theatre Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 July 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Diancie ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "NOV2014",
+        "ID": "11064",
+        "ability": "Clear Body",
+        "item": "Normal Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 14. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Diamond Storm",
+          "Reflect",
+          "Return",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Diancie Event - GAME (UK)Bart Smit & Intertoys (Netherlands)Bart Smit (Belgium)Gamestop (Norwary, Sweden, Denmark & Finland)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "6 November 2014",
+        "endDate": "28 November 2014",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

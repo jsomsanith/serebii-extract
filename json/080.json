@@ -1,0 +1,33 @@
+{
+  "pokedexID": "080",
+  "species": "Slowbro",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ヤドラン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "0101601096011660123601306",
+        "ability": "Oblivious or Own Tempo ",
+        "item": "Slowbronite",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Scald",
+          "Trick Room",
+          "Slack Off",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Event Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 January 2016",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

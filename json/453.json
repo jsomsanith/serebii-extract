@@ -1,0 +1,110 @@
+{
+  "pokedexID": "453",
+  "species": "Croagunk",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  Croagunk  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Poison Touch",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Mud-slap",
+          "Poison Sting",
+          "Taunt",
+          "Poison Jab"
+        ]
+      },
+      "event": {
+        "description": "IGN Giveaway",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "10 November 2011",
+        "endDate": "9 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Croagunk  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Poison Touch",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Mud-slap",
+          "Poison Sting",
+          "Taunt",
+          "Poison Jab"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Magazine Giveaway",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "16 November 2011",
+        "endDate": "9 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Croagunk  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Poison Touch",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Mud-slap",
+          "Poison Sting",
+          "Taunt",
+          "Poison Jab"
+        ]
+      },
+      "event": {
+        "description": "IGN Giveaway",
+        "type": "Global Link",
+        "location": "Oceania",
+        "startDate": "10 November 2011",
+        "endDate": "9 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  グレッグル  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Poison Touch",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Astonish",
+          "Mud-slap",
+          "Poison Sting",
+          "Taunt"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro Giveaway",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "20 October 2010",
+        "endDate": "19 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

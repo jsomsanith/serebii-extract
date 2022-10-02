@@ -1,0 +1,276 @@
+{
+  "pokedexID": "094",
+  "species": "Gengar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "200308",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Naughty Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Bomb",
+          "Dazzling Gleam",
+          "Will-o-wisp"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Masters Eight Tournament Tie-in. Code: GENNGER0GE94",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "2 September 2022",
+        "endDate": "15 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ジャービス",
+        "ID": "07096",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 16. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Mean Look",
+          "Hypnosis",
+          "Psychic",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Jarvis's Gardevoir Distribution - 7/11 Spot",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 July 2016",
+        "endDate": "15 July 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂",
+        "pokeball": "duskball",
+        "shiny": true,
+        "level": null,
+        "OT": "ハロウィン",
+        "ID": "09134",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Wave",
+          "Confuse Ray",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 March 2016",
+        "endDate": "31 March 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Gengar  ♂/♀",
+        "pokeball": "duskball",
+        "shiny": true,
+        "level": null,
+        "OT": "OCT2014",
+        "ID": "10134",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Wave",
+          "Confuse Ray",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Phantom Forces TCG Tie-in - Gamestop Stores (US), EBGames (Canada)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "13 October 2014",
+        "endDate": "26 October 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂",
+        "pokeball": "duskball",
+        "shiny": true,
+        "level": null,
+        "OT": "ハロウィン",
+        "ID": "09134",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Wave",
+          "Confuse Ray",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "White Gengar Promotion - Various Stores",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "13 September 2014",
+        "endDate": "14 October 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "06024",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Bomb",
+          "Will-o-wisp",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "2 June 2014",
+        "endDate": "21 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "02014",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Psychic",
+          "Confuse Ray",
+          "Sucker Punch",
+          "Shadow Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 February 2014",
+        "endDate": "28 February 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Gengar  ♂/♀",
+        "pokeball": "duskball",
+        "shiny": true,
+        "level": null,
+        "OT": "OCT2014",
+        "ID": "10134",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Wave",
+          "Confuse Ray",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Phantom Forces TCG Tie-in - GAME (UK)GameMania/Firstlook Event (Netherlands & Belgium)Gamestop (Norwary, Sweden, Denmark & Finland)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "15 October 2014",
+        "endDate": "5 November 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 팬텀  ♂",
+        "pokeball": "duskball",
+        "shiny": true,
+        "level": null,
+        "OT": "ハロウィン",
+        "ID": "09134",
+        "ability": "Levitate",
+        "item": "Gengarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Shadow Ball",
+          "Sludge Wave",
+          "Confuse Ray",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Pre-Order Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "11 October 2014",
+        "endDate": "7 December 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲンガー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "クリスマス",
+        "ID": "12213",
+        "ability": "Levitate",
+        "item": "No Item",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Psychic",
+          "Confuse Ray",
+          "Sucker Punch",
+          "Shadow Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Toys 'R' Us Christmas Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 December 2013",
+        "endDate": "26 December 2013",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

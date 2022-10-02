@@ -1,0 +1,195 @@
+{
+  "pokedexID": "807",
+  "species": "Zeraora",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zeraora ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "HOME",
+        "ID": "200630",
+        "ability": "Volt Absorb",
+        "item": "No Item",
+        "pokemonDescription": "Hasty Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Plasma Fists",
+          "Close Combat",
+          "Blaze Kick",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Max Raid Battle Gift",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "30 June 2020",
+        "endDate": "6 July 2020",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゼラオラ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "HOME",
+        "ID": "200630",
+        "ability": "Volt Absorb",
+        "item": "No Item",
+        "pokemonDescription": "Hasty Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Plasma Fists",
+          "Close Combat",
+          "Blaze Kick",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Max Raid Battle Gift",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "30 June 2020",
+        "endDate": "6 July 2020",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zeraora ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "HOME",
+        "ID": "200630",
+        "ability": "Volt Absorb",
+        "item": "No Item",
+        "pokemonDescription": "Hasty Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Plasma Fists",
+          "Close Combat",
+          "Blaze Kick",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon HOME - Max Raid Battle Gift",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "30 June 2020",
+        "endDate": "6 July 2020",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zeraora ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fula City",
+        "ID": "100118",
+        "ability": "Volt Absorb",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Plasma Fists",
+          "Thunder Punch",
+          "Close Combat",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "EB Games Distribution",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "3 May 2019",
+        "endDate": "26 May 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zeraora ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fula City",
+        "ID": "100118",
+        "ability": "Volt Absorb",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Plasma Fists",
+          "Thunder Punch",
+          "Close Combat",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "Pokémon TCG Lost Thunder Tie-InUS: Gamestop",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 October 2018",
+        "endDate": "9 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゼラオラ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "フウラシティ",
+        "ID": "180713",
+        "ability": "Volt Absorb",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Movie 18. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Plasma Fists",
+          "Thunder Punch",
+          "Close Combat",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Everyone's Story - Theater Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "13 July 2018",
+        "endDate": "30 September 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zeraora ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Fula City",
+        "ID": "100118",
+        "ability": "Volt Absorb",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Plasma Fists",
+          "Thunder Punch",
+          "Close Combat",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "Pokémon TCG Lost Thunder Tie-InUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "1 October 2018",
+        "endDate": "15 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

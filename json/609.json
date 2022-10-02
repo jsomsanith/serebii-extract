@@ -1,0 +1,33 @@
+{
+  "pokedexID": "609",
+  "species": "Chandelure",
+  "events": [
+    {
+      "pokemon": {
+        "name": " シャンデラ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PC",
+        "ID": "05072",
+        "ability": "Flash Fire",
+        "item": "Pecha Berry",
+        "pokemonDescription": "Modest Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Heat Wave",
+          "Shadow Ball",
+          "Energy Ball",
+          "Psychic"
+        ]
+      },
+      "event": {
+        "description": "Tag Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 May 2012",
+        "endDate": "31 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

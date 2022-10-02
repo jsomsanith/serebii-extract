@@ -1,0 +1,33 @@
+{
+  "pokedexID": "861",
+  "species": "Grimmsnarl",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 오롱털  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "정원석",
+        "ID": "220611",
+        "ability": "Prankster",
+        "item": "Eject Button",
+        "pokemonDescription": "Careful Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Spirit Break",
+          "Scary Face",
+          "Trick",
+          "Taunt"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainers Cup 2022 Livestream Distribution. Code: K0REACHAMP10N21",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "11 June 2022",
+        "endDate": "12 June 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

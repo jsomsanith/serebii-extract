@@ -1,0 +1,87 @@
+{
+  "pokedexID": "467",
+  "species": "Magmortar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Magmortar  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PKTOPIA",
+        "ID": "06257",
+        "ability": "Flame Body",
+        "item": "Charcoal",
+        "pokemonDescription": "Modest Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Hyper Beam",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "25 June 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ブーバーン  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さいきょう",
+        "ID": "12017",
+        "ability": "Flame Body",
+        "item": "Charcoal",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Confuse Ray",
+          "Fire Punch",
+          "Lava Plume",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Strongest Pokémon - 2nd",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 December 2007",
+        "endDate": "14 December 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Magmortar  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PKTOPIA",
+        "ID": "12077",
+        "ability": "Flame Body",
+        "item": "Charcoal",
+        "pokemonDescription": "Modest Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flamethrower",
+          "Psychic",
+          "Hyper Beam",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "7 December 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

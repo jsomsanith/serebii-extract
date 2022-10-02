@@ -3,12 +3,12 @@
 		"module": "ESNext",
 		"esModuleInterop": true,
 		"target": "ESNext",
-		"moduleResolution": "Node",
+		"moduleResolution": "node",
 		"sourceMap": true,
-		"outDir": "dist"
+		"outDir": "dist",
+		"lib": ["esnext"]
 	},
 	"ts-node": {
 		"esm": true
-	},
-	"lib": ["esnext"]
+	}
 }

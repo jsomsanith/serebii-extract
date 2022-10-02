@@ -1,0 +1,33 @@
+{
+  "pokedexID": "668",
+  "species": "Pyroar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " カエンジシ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "フラダリ",
+        "ID": "10123",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 49",
+        "moves": [
+          "Hyper Voice",
+          "Fire Blast",
+          "Dark Pulse",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Lysandre's Pyroar",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

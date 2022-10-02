@@ -1,0 +1,87 @@
+{
+  "pokedexID": "730",
+  "species": "Primarina",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Primarina  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Liquid Voice",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Bank. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyper Voice",
+          "Moonblast",
+          "Icy Wind",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank - Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "9 March 2018",
+        "endDate": "31 October 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " アシレーヌ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Liquid Voice",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Bank. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyper Voice",
+          "Moonblast",
+          "Icy Wind",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank - Distribution",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "9 March 2018",
+        "endDate": "31 October 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Primarina  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Liquid Voice",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Bank. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyper Voice",
+          "Moonblast",
+          "Icy Wind",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank - Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "9 March 2018",
+        "endDate": "31 October 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

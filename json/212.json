@@ -1,0 +1,247 @@
+{
+  "pokedexID": "212",
+  "species": "Scizor",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "05194",
+        "ability": "Technician",
+        "item": "Scizorite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Bullet Punch",
+          "Swords Dance",
+          "Roost",
+          "U-turn"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 May 2014",
+        "endDate": "21 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "02014",
+        "ability": "Swarm or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Aerial Ace",
+          "False Swipe",
+          "Agility",
+          "Fury Cutter"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 February 2014",
+        "endDate": "28 February 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Scizor  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WINTER2013",
+        "ID": "11153",
+        "ability": "Swarm or Technician ",
+        "item": "Silver Powder",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "X-scissor",
+          "Night Slash",
+          "Double Hit",
+          "Iron Head"
+        ]
+      },
+      "event": {
+        "description": "WalMart - Pokémon Y",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "27 November 2013",
+        "endDate": "30 June 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "クリスマス",
+        "ID": "12213",
+        "ability": "Technician",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Aerial Ace",
+          "False Swipe",
+          "Agility",
+          "Fury Cutter"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Toys 'R' Us Christmas Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 December 2013",
+        "endDate": "26 December 2013",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Scizor  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Leer",
+          "Focus Energy",
+          "Pursuit",
+          "Steel Wing"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Aspertia Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "20 December 2012",
+        "endDate": "21 February 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PC",
+        "ID": "09152",
+        "ability": "Technician",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bullet Punch",
+          "Bug Bite",
+          "Roost",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Single Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 September 2012",
+        "endDate": "27 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Scizor  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Leer",
+          "Focus Energy",
+          "Pursuit",
+          "Steel Wing"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Aspertia Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "20 December 2012",
+        "endDate": "21 February 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "グーン",
+        "ID": "06180",
+        "ability": "Swarm",
+        "item": "Starf Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Wi-Fi Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "X-scissor",
+          "Swords Dance",
+          "Iron Defense",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "18 June 2010",
+        "endDate": "14 July 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ハッサム  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Swarm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Fury Cutter",
+          "Metal Claw",
+          "Swords Dance",
+          "Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Colosseum e-card",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "25 December 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

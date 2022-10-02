@@ -1,0 +1,276 @@
+{
+  "pokedexID": "720",
+  "species": "Hoopa",
+  "events": [
+    {
+      "pokemon": {
+        "name": " フーパ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ゼンリョク",
+        "ID": "171201",
+        "ability": "Magician",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Shadow Ball",
+          "Nasty Plot",
+          "Psychic",
+          "Hyperspace Hole"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2017",
+        "endDate": "30 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Alexander",
+        "ID": "10036",
+        "ability": "Magician",
+        "item": "Smoke Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Psychic",
+          "Astonish",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Hoopa Distribution. Code: 2016HOOPA",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 October 2016",
+        "endDate": "9 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Harry",
+        "ID": "10235",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Second Chance Event. Code: HOOPA2016",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "6 April 2016",
+        "endDate": "30 April 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Harry",
+        "ID": "10235",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Hoopa Event EB Games, JB Hi-Fi (AU & NZ) & Big W (AU)",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "18 January 2016",
+        "endDate": "29 January 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Mac",
+        "ID": "11275",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Hoopa & The Clash of Ages Tie-In @ McDonald's",
+        "type": "In-Life",
+        "location": "United States",
+        "startDate": "27 November 2015",
+        "endDate": "23 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " フーパ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "えいがかん",
+        "ID": "07185",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 July 2015",
+        "endDate": "30 September 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Harry",
+        "ID": "10235",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Hoopa Event Gamestop (16/10-05/11) - GermanyGAME (23/10-05/11) - UKFirstLook Event (10/10-11/10) & GameMania (11/11) - NetherlandsGamestop (27/10-12/11) & Milan Games Week - ItalyMicromania Stores (2/11-22/11) - FranceFNAC & GameMania (12/11-?) - Belgium Various Stores including GAME (06/12-??) - Spain",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "10 October 2015",
+        "endDate": "22 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " フーパ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Mighty",
+        "ID": "07185",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Taiwanese Movie Distribution",
+        "type": "In-Life",
+        "location": "Taiwan",
+        "startDate": "3 November 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Hoopa ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Manesh",
+        "ID": "08195",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Singapore - Hoopa Distribution",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "21 August 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 후파 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "영화관",
+        "ID": "12235",
+        "ability": "Magician",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyperspace Hole",
+          "Nasty Plot",
+          "Psychic",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa  Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "23 December 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "pokedexID": "202",
+  "species": "Wobbuffet",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Wobbuffet  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Jessie",
+        "ID": "06214",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Counter",
+          "Mirror Coat",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Day Italy",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "21 June 2014",
+        "endDate": "22 June 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ソーナンス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ヌケッタ",
+        "ID": "12063",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Counter",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Tretta Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 December 2013",
+        "endDate": "12 February 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ソーナンス  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60505",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Counter",
+          "Mirror Coat",
+          "Safeguard",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 6",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 April 2006",
+        "endDate": "7 May 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ソーナンス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "サンデ－",
+        "ID": "50701",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Counter",
+          "Mirror Coat",
+          "Safeguard",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 July 2005",
+        "endDate": "21 August 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

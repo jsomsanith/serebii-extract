@@ -1,0 +1,114 @@
+{
+  "pokedexID": "889",
+  "species": "Zamazenta",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zamazenta ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Arthur",
+        "ID": "211022",
+        "ability": "Dauntless Shield",
+        "item": "Rusted Shield",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Close Combat",
+          "Iron Defense",
+          "Wide Guard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Gamestop Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "12 November 2021",
+        "endDate": "26 November 2021",
+        "gamesAvailable": "Sword"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ザマゼンタ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ガラル",
+        "ID": "211022",
+        "ability": "Dauntless Shield",
+        "item": "Rusted Shield",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Close Combat",
+          "Iron Defense",
+          "Wide Guard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Special Store Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "22 October 2021",
+        "endDate": "18 November 2021",
+        "gamesAvailable": "Sword"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zamazenta ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Arthur",
+        "ID": "211022",
+        "ability": "Dauntless Shield",
+        "item": "Rusted Shield",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Close Combat",
+          "Iron Defense",
+          "Wide Guard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Gamestop DistributionUK: GAME (In-Store and online)Germany, Austria, Switzerland: Gamestop (In-Store only)Ireland: Gamestop (In-store & Online)Spain: GAME (In-Store & Online), FNAC (In-Store)France: Micromania (In-Store & Online)Italy: Gamestop (Online)Belgium, Netherlands: GameMania (In-Store & Online)Denmark: Nintendopusheren (In-Store), NØRDCON (October 23rd/24th), Proshop (In-Store & Online)Sweden, Norway, Finland: Proshop (Online), Spel & Sï¿½nt ",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "22 October 2021",
+        "endDate": "18 November 2021",
+        "gamesAvailable": "Sword"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 자마젠타 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ガラル",
+        "ID": "211022",
+        "ability": "Dauntless Shield",
+        "item": "Rusted Shield",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Close Combat",
+          "Iron Defense",
+          "Wide Guard"
+        ]
+      },
+      "event": {
+        "description": "PokÃ©mon Brilliant Diamond & Shining Pearl Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 November 2021",
+        "endDate": "31 December 2021",
+        "gamesAvailable": "Sword"
+      }
+    }
+  ]
+}

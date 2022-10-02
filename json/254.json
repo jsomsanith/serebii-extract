@@ -1,0 +1,33 @@
+{
+  "pokedexID": "254",
+  "species": "Sceptile",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ジュカイン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Overgrow",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 March 2012",
+        "endDate": "1 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

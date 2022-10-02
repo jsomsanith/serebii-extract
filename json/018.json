@@ -1,0 +1,33 @@
+{
+  "pokedexID": "018",
+  "species": "Pidgeot",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ピジョット  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 61,
+        "OT": "ブルー",
+        "ID": "02276",
+        "ability": "Keen Eye",
+        "item": "No Item",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 61",
+        "moves": [
+          "Whirlwind",
+          "Wing Attack",
+          "Sky Attack",
+          "Mirror Move"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Blue's Pidgeot",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

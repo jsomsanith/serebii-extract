@@ -1,0 +1,33 @@
+{
+  "pokedexID": "357",
+  "species": "Tropius",
+  "events": [
+    {
+      "pokemon": {
+        "name": " トロピウス  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 53,
+        "OT": "しょこたん ",
+        "ID": "02027",
+        "ability": "Chlorophyll",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 53",
+        "moves": [
+          "Air Slash",
+          "Synthesis",
+          "Sunny Day",
+          "Solar Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sunday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "2 February 2007",
+        "endDate": "12 February 2007",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    }
+  ]
+}

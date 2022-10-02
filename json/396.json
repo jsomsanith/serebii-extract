@@ -1,0 +1,33 @@
+{
+  "pokedexID": "396",
+  "species": "Starly",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ムックル  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "だいすき",
+        "ID": "08311",
+        "ability": "Keen Eye",
+        "item": "No Item",
+        "pokemonDescription": "Mild Nature.Date of Receiving Day-Care Couple. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Tackle",
+          "Growl",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Daisuki Club Party",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 February 2008",
+        "endDate": "21 February 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

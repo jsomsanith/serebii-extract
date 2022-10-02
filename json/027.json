@@ -1,0 +1,60 @@
+{
+  "pokedexID": "027",
+  "species": "Sandshrew",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 모래두지  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "썬문",
+        "ID": "170503",
+        "ability": "Snow Cloak",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Rapid Spin",
+          "Ice Ball",
+          "Powder Snow",
+          "Bide"
+        ]
+      },
+      "event": {
+        "description": "Toonverse & Pokémon Sun & Moon Collaboration - Code: 2ALOLAFORM7",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "9 May 2017",
+        "endDate": "30 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Sandshrew  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 12,
+        "OT": "JEREMY",
+        "ID": "13579",
+        "ability": "Sand Veil",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 12",
+        "moves": [
+          "Scratch",
+          "Defense Curl",
+          "Sand Attack",
+          "Vital Throw"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "pokedexID": "647",
+  "species": "Keldeo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "10016",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 October 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "10016",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 October 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "10016",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "1 October 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 케르디오 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "속성클리어",
+        "ID": "02055",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Strategy Guide Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "25 February 2015",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ケルディオ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "12014",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap Campaign - 7 Codes Redeemed",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2014",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2013",
+        "ID": "01163",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sacred Sword",
+          "Hydro Pump",
+          "Aqua Jet",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Second Chance Event",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "25 January 2013",
+        "endDate": "12 February 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2013",
+        "ID": "01163",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sacred Sword",
+          "Hydro Pump",
+          "Aqua Jet",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Second Chance Event",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "25 January 2013",
+        "endDate": "12 February 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "HVR2013",
+        "ID": "01163",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sacred Sword",
+          "Hydro Pump",
+          "Aqua Jet",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Movie tie-in",
+        "type": "Wi-Fi",
+        "location": "France",
+        "startDate": "16 January 2013",
+        "endDate": "12 February 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2013",
+        "ID": "01163",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sacred Sword",
+          "Hydro Pump",
+          "Aqua Jet",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Second Chance Event",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "25 January 2013",
+        "endDate": "12 February 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "SMR2012",
+        "ID": "08272",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Promotion",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "27 August 2012",
+        "endDate": "6 October 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ケルディオ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "しょこたん",
+        "ID": "06232",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 12. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "Kyurem VS The Sacred Swordsman Keldeo Pre-order",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "23 June 2012",
+        "endDate": "31 August 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "SMR2012VER2012EST2012ETE2012",
+        "ID": "08272",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "GAME, GameStop (UK)Movie tie-in",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "1 September 2012",
+        "endDate": "11 October 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Keldeo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "SMR2012",
+        "ID": "08272",
+        "ability": "Justified",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Aqua Jet",
+          "Leer",
+          "Double Kick",
+          "Bubble Beam"
+        ]
+      },
+      "event": {
+        "description": "GAME, GameStop (UK)Movie tie-in",
+        "type": "In-Life",
+        "location": "Oceania",
+        "startDate": "15 September 2012",
+        "endDate": "10 October 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pokedexID": "461",
+  "species": "Weavile",
+  "events": [
+    {
+      "pokemon": {
+        "name": " マニューラ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "アカギ",
+        "ID": "09286 ",
+        "ability": "Pressure",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 48",
+        "moves": [
+          "Night Slash",
+          "Ice Punch",
+          "Brick Break",
+          "X-scissor"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Cyrus' Weavile",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Weavile  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "WORLD09",
+        "ID": "08159",
+        "ability": "Pressure",
+        "item": "Focus Sash",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Fake Out",
+          "Ice Shard",
+          "Night Slash",
+          "Brick Break"
+        ]
+      },
+      "event": {
+        "description": "World's Championships",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "15 August 2009",
+        "endDate": "15 August 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    }
+  ]
+}

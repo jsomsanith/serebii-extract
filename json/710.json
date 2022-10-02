@@ -1,0 +1,114 @@
+{
+  "pokedexID": "710",
+  "species": "Pumpkaboo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バケッチャ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "10105",
+        "ability": "Pickup or Frisk  or Insomnia ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Trick-or-treat",
+          "Astonish",
+          "Scary Face",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Halloween Celebration",
+        "type": "In Life",
+        "location": "Japan",
+        "startDate": "10 October 2015",
+        "endDate": "1 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pumpkaboo  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Spooky2014",
+        "ID": "10014",
+        "ability": "Pickup or Frisk  or Insomnia ",
+        "item": "Rocky Helmet",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Trick-or-treat",
+          "Astonish",
+          "Scary Face",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Halloween Celebration",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 October 2014",
+        "endDate": "31 October 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pumpkaboo  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Spooky2014Horreur 2014Grusel 2014Tenebre 2014Tétrico 2014",
+        "ID": "10014",
+        "ability": "Pickup or Frisk  or Insomnia ",
+        "item": "Rocky Helmet",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Trick-or-treat",
+          "Astonish",
+          "Scary Face",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Halloween Celebration",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 October 2014",
+        "endDate": "31 October 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pumpkaboo  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Spooky2014",
+        "ID": "10014",
+        "ability": "Pickup or Frisk  or Insomnia ",
+        "item": "Rocky Helmet",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Trick-or-treat",
+          "Astonish",
+          "Scary Face",
+          "Shadow Sneak"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Halloween Celebration",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "1 October 2014",
+        "endDate": "31 October 2014",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "pokedexID": "500",
+  "species": "Emboar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Emboar  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "01295",
+        "ability": "Reckless",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "Hold Back",
+          "Head Smash",
+          "Take Down"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  - Emboar Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "29 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エンブオー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "プレゼント",
+        "ID": "01165",
+        "ability": "Reckless",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "Hold Back",
+          "Head Smash",
+          "Take Down"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Get☆TV - Emboar Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Emboar  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PresentRegaloGeschenk",
+        "ID": "01295",
+        "ability": "Reckless",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "Hold Back",
+          "Head Smash",
+          "Take Down"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  - Emboar Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "29 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Emboar  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "01295",
+        "ability": "Reckless",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flare Blitz",
+          "Hold Back",
+          "Head Smash",
+          "Take Down"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  - Emboar Distribution",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "29 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エンブオー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCO",
+        "ID": "06193",
+        "ability": "Blaze",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Flare Blitz",
+          "Hammer Arm",
+          "Wild Charge",
+          "Head Smash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Osaka",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 June 2013",
+        "endDate": "25 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

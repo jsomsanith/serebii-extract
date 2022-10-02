@@ -1,0 +1,303 @@
+{
+  "pokedexID": "484",
+  "species": "Palkia",
+  "events": [
+    {
+      "pokemon": {
+        "name": " パルキア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "アラモス",
+        "ID": "070714",
+        "ability": "Telepathy",
+        "item": "Lustrous Orb",
+        "pokemonDescription": "Hasty Nature.Date of Receiving a 2022 Pokémon Movie. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Spacial Rend",
+          "Hydro Pump",
+          "Aura Sphere",
+          "Earth Power"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Movie Fest - Special Distribution (The Rise of Darkrai)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 August 2022",
+        "endDate": "30 September 2022",
+        "gamesAvailable": "Sword"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "020218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Aura Sphere",
+          "Aqua Tail",
+          "Spacial Rend",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Gamestop",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 February 2018",
+        "endDate": "28 February 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "020218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Spacial Rend",
+          "Aura Sphere",
+          "Draco Meteor",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Gamestop",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 February 2018",
+        "endDate": "28 February 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "020218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Aura Sphere",
+          "Aqua Tail",
+          "Spacial Rend",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - GAME (UK)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "2 February 2018",
+        "endDate": "28 February 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "020218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Spacial Rend",
+          "Aura Sphere",
+          "Draco Meteor",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - GAME (UK)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "2 February 2018",
+        "endDate": "28 February 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 펄기아 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "아라모스",
+        "ID": "180606",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aura Sphere",
+          "Aqua Tail",
+          "Spacial Rend",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Rise of Darkrai Tie-In Event",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "6 June 2018",
+        "endDate": "31 August 2018",
+        "gamesAvailable": "Sun, Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " パルキア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "デセルシティ",
+        "ID": "06205",
+        "ability": "Telepathy",
+        "item": "Lustrous Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Earth Power",
+          "Aura Sphere",
+          "Spacial Rend",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 펄기아 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "데세르시티",
+        "ID": "11205",
+        "ability": "Telepathy",
+        "item": "Lustrous Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Earth Power",
+          "Aura Sphere",
+          "Spacial Rend",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa  Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "20 November 2015",
+        "endDate": "27 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09093",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Hydro Pump",
+          "Draco Meteor",
+          "Spacial Rend",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "9 September 2013",
+        "endDate": "29 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09133",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Hydro Pump",
+          "Draco Meteor",
+          "Spacial Rend",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "13 September 2013",
+        "endDate": "26 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Palkia ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SUM2013",
+        "ID": "09133",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Hydro Pump",
+          "Draco Meteor",
+          "Spacial Rend",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "EB Games / JB Hi-Fi Distribution",
+        "type": "In-Life",
+        "location": "Oceania",
+        "startDate": "13 September 2013",
+        "endDate": "26 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

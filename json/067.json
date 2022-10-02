@@ -1,0 +1,60 @@
+{
+  "pokedexID": "067",
+  "species": "Machoke",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ゴーリキー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Guts or No Guard ",
+        "item": "Fighting Gem",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Low Sweep",
+          "Foresight",
+          "Seismic Toss",
+          "Revenge"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Machoke  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 38,
+        "OT": "JEREMY",
+        "ID": "24680",
+        "ability": "Guts",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 38",
+        "moves": [
+          "Seismic Toss",
+          "Foresight",
+          "Revenge",
+          "Vital Throw"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

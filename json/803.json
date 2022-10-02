@@ -1,0 +1,114 @@
+{
+  "pokedexID": "803",
+  "species": "Poipole",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Poipole ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ultra",
+        "ID": "091718",
+        "ability": "Beast Boost",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Venom Drench",
+          "Nasty Plot",
+          "Poison Jab",
+          "Dragon Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Dragon Majesty Tie-In (US: Gamestop)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "17 September 2018",
+        "endDate": "7 October 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ベベノム ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ウルトラ",
+        "ID": "180302",
+        "ability": "Beast Boost",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Venom Drench",
+          "Nasty Plot",
+          "Poison Jab",
+          "Dragon Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon TCG Tie-In - Most stores in Japan",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "2 March 2018",
+        "endDate": "9 April 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Poipole ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ultra",
+        "ID": "091718",
+        "ability": "Beast Boost",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Venom Drench",
+          "Nasty Plot",
+          "Poison Jab",
+          "Dragon Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Dragon Majesty Tie-InUK: SmythsEU: Newsletter",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "17 September 2018",
+        "endDate": "15 October 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 베베놈 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "울트라",
+        "ID": "180331",
+        "ability": "Beast Boost",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Venom Drench",
+          "Nasty Plot",
+          "Poison Jab",
+          "Dragon Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Spring League Tie In",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "31 March 2018",
+        "endDate": "2 April 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

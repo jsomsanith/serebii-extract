@@ -1,0 +1,33 @@
+{
+  "pokedexID": "612",
+  "species": "Haxorus",
+  "events": [
+    {
+      "pokemon": {
+        "name": " オノノクス  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 59,
+        "OT": "アイリス",
+        "ID": "06232",
+        "ability": "Mold Breaker",
+        "item": "Focus Sash",
+        "pokemonDescription": "Naive Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 59",
+        "moves": [
+          "Earthquake",
+          "Dual Chop",
+          "X-scissor",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Iris' Haxorus",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "pokedexID": "250",
+  "species": "Ho-Oh",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Burn Up",
+          "Sacred Fire",
+          "Extrasensory",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Brave Bird",
+          "Earthquake",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Burn Up",
+          "Sacred Fire",
+          "Extrasensory",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Brave Bird",
+          "Earthquake",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ホウオウ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "テンセイざん",
+        "ID": "170715",
+        "ability": "Pressure",
+        "item": "Sacred Ash",
+        "pokemonDescription": "Any Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Brave Bird",
+          "Recover",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - CoroCoro Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 July 2017",
+        "endDate": "14 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ホウオウ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "PCキョウト",
+        "ID": "03166",
+        "ability": "Pressure",
+        "item": "Sacred Ash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sacred Fire",
+          "Brave Bird",
+          "Recover",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Kyoto - Opening Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 March 2016",
+        "endDate": "8 May 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "14 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ho-Oh ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Fire Blast",
+          "Sunny Day",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Ho-Oh ",
+        "shiny": false,
+        "level": 70,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Navel Rock. Met at Lv. 70",
+        "moves": [
+          "Swift",
+          "Sunny Day",
+          "Fire Blast",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Rocks America",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 September 2005",
+        "endDate": "22 October 2005",
+        "gamesAvailable": "Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ホウオウ ",
+        "shiny": false,
+        "level": 70,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Navel Rock. Met at Lv. 70",
+        "moves": [
+          "Swift",
+          "Sunny Day",
+          "Fire Blast",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 July 2004",
+        "endDate": "4 September 2004",
+        "gamesAvailable": "Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

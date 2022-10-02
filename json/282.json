@@ -1,0 +1,87 @@
+{
+  "pokedexID": "282",
+  "species": "Gardevoir",
+  "events": [
+    {
+      "pokemon": {
+        "name": " サーナイト  ♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "キミア",
+        "ID": "06176",
+        "ability": "Synchronize",
+        "item": "Gardevoirite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 16. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Stored Power",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Kimia's Gardevoir Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 June 2016",
+        "endDate": "8 July 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 가디안  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "09206",
+        "ability": "Synchronize",
+        "item": "Gardevoirite",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dazzling Gleam",
+          "Moonblast",
+          "Stored Power",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY&Z Distribution. Code: NEWEPISODE",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "20 September 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サーナイト  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Trace",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hypnosis",
+          "Thunderbolt",
+          "Focus Blast",
+          "Psychic"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "23 April 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

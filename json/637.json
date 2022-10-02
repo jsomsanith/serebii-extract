@@ -1,0 +1,33 @@
+{
+  "pokedexID": "637",
+  "species": "Volcarona",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ウルガモス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 77,
+        "OT": "アデク",
+        "ID": "09180",
+        "ability": "Flame Body",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 77",
+        "moves": [
+          "Bug Buzz",
+          "Overheat",
+          "Hyper Beam",
+          "Quiver Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Alder's Volcarona",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

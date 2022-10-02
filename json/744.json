@@ -1,0 +1,222 @@
+{
+  "pokedexID": "744",
+  "species": "Rockruff",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Thunder Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "North America",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Fire Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "North America",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イワンコ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Thunder Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イワンコ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Fire Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Thunder Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "Europe",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Fire Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "Europe",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Thunder Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "Oceania",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rockruff  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Own Tempo",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Bite",
+          "Fire Fang",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ultra Sun & Ultra Moon - Dusk Form Lycanroc Gift",
+        "type": "Online",
+        "location": "Oceania",
+        "startDate": "17 November 2017",
+        "endDate": "10 January 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    }
+  ]
+}

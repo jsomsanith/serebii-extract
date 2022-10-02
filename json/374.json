@@ -1,0 +1,141 @@
+{
+  "pokedexID": "374",
+  "species": "Beldum",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Beldum ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Steven",
+        "ID": "11214",
+        "ability": "Clear Body",
+        "item": "Metagrossite",
+        "pokemonDescription": "Any Nature.Date of Receiving An online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hold Back",
+          "Iron Head",
+          "Zen Headbutt",
+          "Iron Defense"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Early Purchaser Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "21 November 2014",
+        "endDate": "14 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ダンバル ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ダイゴ",
+        "ID": "11214",
+        "ability": "Clear Body",
+        "item": "Metagrossite",
+        "pokemonDescription": "Any Nature.Date of Receiving An online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hold Back",
+          "Iron Head",
+          "Zen Headbutt",
+          "Iron Defense"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Early Purchaser Distribution",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "21 November 2014",
+        "endDate": "14 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Beldum ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Steven",
+        "ID": "11214",
+        "ability": "Clear Body",
+        "item": "Metagrossite",
+        "pokemonDescription": "Any Nature.Date of Receiving An online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hold Back",
+          "Iron Head",
+          "Zen Headbutt",
+          "Iron Defense"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Early Purchaser Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "28 November 2014",
+        "endDate": "14 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Beldum ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Steven",
+        "ID": "11214",
+        "ability": "Clear Body",
+        "item": "Metagrossite",
+        "pokemonDescription": "Any Nature.Date of Receiving An online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hold Back",
+          "Iron Head",
+          "Zen Headbutt",
+          "Iron Defense"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Early Purchaser Distribution",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "21 November 2014",
+        "endDate": "14 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 메탕 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "성호",
+        "ID": "11214",
+        "ability": "Clear Body",
+        "item": "Metagrossite",
+        "pokemonDescription": "Any Nature.Date of Receiving An online present. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hold Back",
+          "Iron Head",
+          "Zen Headbutt",
+          "Iron Defense"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Early Purchaser Distribution",
+        "type": "Wi-Fi",
+        "location": "South Korea",
+        "startDate": "28 November 2014",
+        "endDate": "14 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

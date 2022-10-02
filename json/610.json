@@ -1,0 +1,114 @@
+{
+  "pokedexID": "610",
+  "species": "Axew",
+  "events": [
+    {
+      "pokemon": {
+        "name": " キバゴ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "アイリス",
+        "ID": "08103",
+        "ability": "Rivalry",
+        "item": "No Item",
+        "pokemonDescription": "Naive Nature.Date of Receiving Pokémon Cartoon. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Dragon Rage",
+          "Scratch",
+          "Outrage",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Best Wishes Tie-in - Iris' Axew",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 August 2013",
+        "endDate": "6 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Axew  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Mold Breaker",
+        "item": "No Item",
+        "pokemonDescription": "Naive Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Dragon Rage",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us Egg Giveaway - Iris' Axew",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "27 April 2011",
+        "endDate": "31 May 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " キバゴ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 10,
+        "OT": "サーチャー",
+        "ID": "03191",
+        "ability": "Mold Breaker",
+        "item": "Soothe Bell",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Dragon Rage",
+          "Return",
+          "Endure",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Pokémon BW Searcher Training Centre",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 March 2011",
+        "endDate": "8 May 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " キバゴ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Mold Breaker",
+        "item": "No Item",
+        "pokemonDescription": "Naive Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Scratch",
+          "Dragon Rage",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Egg Giveaway - Iris' Kibago",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "17 December 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

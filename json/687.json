@@ -1,0 +1,33 @@
+{
+  "pokedexID": "687",
+  "species": "Malamar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Malamar  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Shigeshige",
+        "ID": "08055",
+        "ability": "Contrary",
+        "item": "Assault Vest",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Superpower",
+          "Knock Off",
+          "Facade",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Morimoto's MalamarGamescom (Germany - 05/08-09/08)Milan Games Week (23/10 - 25/10)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "5 August 2015",
+        "endDate": "25 October 2015",
+        "gamesAvailable": "OmegaRuby"
+      }
+    }
+  ]
+}

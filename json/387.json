@@ -1,0 +1,85 @@
+{
+  "pokedexID": "387",
+  "species": "Turtwig",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Turtwig  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Withdraw",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon HOME Distribution - Deposit from Brilliant Diamond & Shining Pearl",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "18 May 2022",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Turtwig  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Withdraw",
+          "Absorb",
+          "Stockpile"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Black 2 & White 2 - Walmart Promotion",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "6 December 2012",
+        "endDate": "31 July 20113",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ナエトル  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Withdraw",
+          "Absorb",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pia",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "29 October 2010",
+        "endDate": "30 November 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

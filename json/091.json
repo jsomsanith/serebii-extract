@@ -1,0 +1,33 @@
+{
+  "pokedexID": "091",
+  "species": "Cloyster",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Cloyster  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Abram",
+        "ID": "01203",
+        "ability": "Skill Link",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Icicle Spear",
+          "Rock Blast",
+          "Hidden Power",
+          "Razor Shell"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC Winter Regionals - Abram's Cloyster",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "20 January 2013",
+        "endDate": "20 January 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

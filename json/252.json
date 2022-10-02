@@ -1,0 +1,59 @@
+{
+  "pokedexID": "252",
+  "species": "Treecko",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  キモリ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unburden",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Pound",
+          "Leer",
+          "Absorb",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Black & White Guide",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "24 November 2010",
+        "endDate": "31 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " キモリ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "51126",
+        "ability": "Overgrow",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Pound",
+          "Leer",
+          "Absorb",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 1",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 November 2005",
+        "endDate": "11 December 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

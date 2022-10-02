@@ -1,0 +1,168 @@
+{
+  "pokedexID": "773",
+  "species": "Silvally",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Silvally ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Aether",
+        "ID": "102317",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally GX Tie-In - Gamestop (US), EB Games (Canada)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "23 October 2017",
+        "endDate": "13 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " シルヴァディ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "エーテル",
+        "ID": "170922",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "22 September 2017",
+        "endDate": "16 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Silvally ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Aether",
+        "ID": "102317",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally GX Tie-In - GAME (UK/ES), Micromania (FR), Gamestop (DE)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 November 2017",
+        "endDate": "16 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Silvally ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Aether",
+        "ID": "102317",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally GX Tie-In - EB Games (Australia)",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "23 October 2017",
+        "endDate": "13 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Silvally ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Aether",
+        "ID": "??",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally Gift - Preorder Ultra Sun & Ultra Moon",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "22 September 2017",
+        "endDate": "16 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 실버디 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "",
+        "ID": "??",
+        "ability": "RKS System",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "?? Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Multi-attack",
+          "Parting Shot",
+          "Punishment",
+          "Scary Face"
+        ]
+      },
+      "event": {
+        "description": "Shiny Silvally Gift - Preorder Ultra Sun & Ultra Mooon",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "11 October 2017",
+        "endDate": "15 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

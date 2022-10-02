@@ -1,0 +1,33 @@
+{
+  "pokedexID": "645",
+  "species": "Landorus",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ランドさま  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ヒャダイン",
+        "ID": "14818",
+        "ability": "Sand Force",
+        "item": "Assault Vest",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokemon TV program. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Earthquake",
+          "Knock Off",
+          "U-turn",
+          "Rock Tomb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Japan Championships 2016 Qualifiers Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "24 May 2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

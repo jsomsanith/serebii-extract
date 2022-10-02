@@ -1,0 +1,194 @@
+{
+  "pokedexID": "255",
+  "species": "Torchic",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Torchic  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "10123",
+        "ability": "Speed Boost",
+        "item": "Blazikenite",
+        "pokemonDescription": "Any Nature.Date of Receiving Online Present. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Mega Blaziken Event",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "12 October 2013",
+        "endDate": "15 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " アチャモ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "10123",
+        "ability": "Speed Boost",
+        "item": "Blazikenite",
+        "pokemonDescription": "Any Nature.Date of Receiving Online Present. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Mega Blaziken Event",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "12 October 2013",
+        "endDate": "15 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Torchic  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "10123",
+        "ability": "Speed Boost",
+        "item": "Blazikenite",
+        "pokemonDescription": "Any Nature.Date of Receiving Online Present. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Mega Blaziken Event",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "12 October 2013",
+        "endDate": "15 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Torchic  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "10123",
+        "ability": "Speed Boost",
+        "item": "Blazikenite",
+        "pokemonDescription": "Any Nature.Date of Receiving Online Present. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Mega Blaziken Event",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "12 October 2013",
+        "endDate": "15 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 아차모  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "10123",
+        "ability": "Speed Boost",
+        "item": "Blazikenite",
+        "pokemonDescription": "Any Nature.Date of Receiving Online Present. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Mega Blaziken Event",
+        "type": "Wi-Fi",
+        "location": "South Korea",
+        "startDate": "12 October 2013",
+        "endDate": "15 January 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  アチャモ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Speed Boost",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Black & White Guide",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "24 November 2010",
+        "endDate": "31 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " アチャモ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "51126",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Scratch",
+          "Growl",
+          "Focus Energy",
+          "Ember"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 1",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 November 2005",
+        "endDate": "11 December 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

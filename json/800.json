@@ -1,0 +1,60 @@
+{
+  "pokedexID": "800",
+  "species": "Necrozma",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ネクロズマ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ひみつ",
+        "ID": "000132",
+        "ability": "Prism Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 75",
+        "moves": [
+          "Light Screen",
+          "Substitute",
+          "Moonlight",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Sword & Shield Secret Member Club Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "6 September 2019",
+        "endDate": "14 November 2019",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 네크로즈마 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "이클립스",
+        "ID": "191115 ",
+        "ability": "Prism Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 75",
+        "moves": [
+          "Light Screen",
+          "Substitute",
+          "Moonlight",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield Pre-Order Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "27 September 2019",
+        "endDate": "14 November 2019",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pokedexID": "704",
+  "species": "Goomy",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ヌメラ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sap Sipper or Hydration ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Body Slam",
+          "Dragon Pulse",
+          "Counter",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Easter Egg Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2017",
+        "endDate": "9 April 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 미끄메라  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sap Sipper or Hydration ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\na lovely place. Hatched at Location",
+        "moves": [
+          "Body Slam",
+          "Dragon Pulse",
+          "Counter",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pop-up Store Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "29 April 2017",
+        "endDate": "7 May 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "pokedexID": "378",
+  "species": "Regice",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Regice ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Amnesia",
+          "Ice Beam",
+          "Hail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "North America",
+        "startDate": "4 March 2016",
+        "endDate": "31 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レジアイス ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Amnesia",
+          "Ice Beam",
+          "Hail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "4 March 2016",
+        "endDate": "31 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regice ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Amnesia",
+          "Ice Beam",
+          "Hail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "4 March 2016",
+        "endDate": "31 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レジアイス ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 40,
+        "OT": "ハドウ",
+        "ID": "50901",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 40",
+        "moves": [
+          "Curse",
+          "Superpower",
+          "Ancient Power",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 September 2005",
+        "endDate": "25 September 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

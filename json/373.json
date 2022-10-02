@@ -1,0 +1,114 @@
+{
+  "pokedexID": "373",
+  "species": "Salamence",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ボーマンダ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dragon Dance",
+          "Dragon Claw",
+          "Outrage",
+          "Aerial Ace"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "23 April 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ボーマンダ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さいきょう",
+        "ID": "02158",
+        "ability": "Intimidate",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hydro Pump",
+          "Stone Edge",
+          "Fire Blast",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Strongest Pokémon - 5th",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 February 2008",
+        "endDate": "14 March 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Salamence  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Intimidate",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Protect",
+          "Dragon Breath",
+          "Scary Face",
+          "Fly"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Dragon Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "29 September 2003",
+        "endDate": "3 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Salamence  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Intimidate",
+        "item": "Dragon Scale",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Protect",
+          "Dragon Breath",
+          "Scary Face",
+          "Fly"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Dragon Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "29 September 2003",
+        "endDate": "3 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

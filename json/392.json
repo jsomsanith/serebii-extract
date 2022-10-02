@@ -1,0 +1,60 @@
+{
+  "pokedexID": "392",
+  "species": "Infernape",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Infernape  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Jade",
+        "ID": "01286",
+        "ability": "Iron Fist",
+        "item": "Nugget",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 88",
+        "moves": [
+          "Fire Blast",
+          "Close Combat",
+          "Fire Punch",
+          "Focus Punch"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Hong Kong Distribution - Year of the Monkey",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "28 January 2016",
+        "endDate": "4 February 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゴウカザル  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCN",
+        "ID": "06123",
+        "ability": "Blaze",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fire Blast",
+          "Close Combat",
+          "U-turn",
+          "Grass Knot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Nagoya",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 June 2013",
+        "endDate": "18 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

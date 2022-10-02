@@ -1,0 +1,60 @@
+{
+  "pokedexID": "044",
+  "species": "Gloom",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Gloom  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Chlorophyll",
+        "item": "Leaf Stone",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Sleep Powder",
+          "Acid",
+          "Moonlight",
+          "Petal Dance"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Evolution Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "30 August 2003",
+        "endDate": "1 September 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Gloom  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Chlorophyll",
+        "item": "Sun Stone",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Sleep Powder",
+          "Acid",
+          "Moonlight",
+          "Petal Dance"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Evolution Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "30 August 2003",
+        "endDate": "1 September 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

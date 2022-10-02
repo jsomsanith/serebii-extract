@@ -1,0 +1,33 @@
+{
+  "pokedexID": "865",
+  "species": "Sirfetch'd",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ネギガナイト  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "200705",
+        "ability": "Steadfast",
+        "item": "Leek",
+        "pokemonDescription": "Brave Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Meteor Assault",
+          "Brutal Swing",
+          "Fury Cutter",
+          "Detect"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Masters Eight Tournament Tie-in. Code: H1SSATSUNEG1",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 September 2022",
+        "endDate": "22 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

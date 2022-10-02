@@ -1,0 +1,87 @@
+{
+  "pokedexID": "122",
+  "species": "Mr. Mime",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Mr. Mime  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Copycat",
+          "Encore",
+          "Ice Shard",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "22 May 2020",
+        "endDate": "28 May 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " バリヤード  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Copycat",
+          "Encore",
+          "Ice Shard",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "22 May 2020",
+        "endDate": "28 May 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mr. Mime  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Ice Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Copycat",
+          "Encore",
+          "Ice Shard",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "22 May 2020",
+        "endDate": "28 May 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

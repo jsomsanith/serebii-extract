@@ -1,0 +1,60 @@
+{
+  "pokedexID": "745",
+  "species": "Lycanroc",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Lycanroc  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Rocky",
+        "ID": "051517",
+        "ability": "No Guard",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Stone Edge",
+          "Fire Fang",
+          "Sucker Punch",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Gamestop Guardians Rising Tie In Event",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "15 May 2017",
+        "endDate": "5 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lycanroc  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Rocky",
+        "ID": "051517",
+        "ability": "No Guard",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Stone Edge",
+          "Fire Fang",
+          "Sucker Punch",
+          "Swords Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Guardians Rising Tie In Evnet",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "5 May 2017",
+        "endDate": "12 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

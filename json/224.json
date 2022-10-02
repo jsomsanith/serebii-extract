@@ -1,0 +1,60 @@
+{
+  "pokedexID": "224",
+  "species": "Octillery",
+  "events": [
+    {
+      "pokemon": {
+        "name": " オクタン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ごるこ",
+        "ID": "05138",
+        "ability": "Suction Cups",
+        "item": "Focus Band",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Octazooka",
+          "Ice Beam",
+          "Signal Beam",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch - Daisuki Club",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "13 May 2008",
+        "endDate": "26 May 2008",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " オクタン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ごるこ",
+        "ID": "10147",
+        "ability": "Suction Cups",
+        "item": "Focus Band",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Octazooka",
+          "Ice Beam",
+          "Signal Beam",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sunday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 October 2007",
+        "endDate": "31 October 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

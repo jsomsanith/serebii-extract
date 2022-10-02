@@ -1,0 +1,114 @@
+{
+  "pokedexID": "280",
+  "species": "Ralts",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ラルトス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Telepathy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Growl",
+          "Encore",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 April 2016",
+        "endDate": "30 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ラルトス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Telepathy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Growl",
+          "Encore",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 January 2015",
+        "endDate": "1 March 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ラルトス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Synchronize or Trace ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Growl",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 5th Anniv.",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2003",
+        "endDate": "18 May 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ラルトス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Synchronize or Trace ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Growl",
+          "Charm",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 5th Anniv.",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2003",
+        "endDate": "18 May 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

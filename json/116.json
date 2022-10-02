@@ -1,0 +1,33 @@
+{
+  "pokedexID": "116",
+  "species": "Horsea",
+  "events": [
+    {
+      "pokemon": {
+        "name": " タッツー  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Swift Swim or Sniper ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokemon Center. Hatched at Location",
+        "moves": [
+          "Bubble",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Year of the Dragon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 January 2012",
+        "endDate": "5 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

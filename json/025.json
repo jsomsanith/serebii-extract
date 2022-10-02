@@ -1,0 +1,3973 @@
+{
+  "pokedexID": "025",
+  "species": "Pikachu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "??",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. ??",
+        "moves": [
+          "Fly",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Scarlet & Violet - Pre-Purchase Distribution",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "18 November 2022",
+        "endDate": "28 February 2023",
+        "gamesAvailable": "Scarlet, Violet"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "970401",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a 2022 Pokémon Movie. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Movie Fest - Special Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "11 August 2022",
+        "endDate": "30 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 25,
+        "OT": "GF",
+        "ID": "210227",
+        "ability": "Lightning Rod",
+        "item": "Light Ball",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Sing",
+          "Encore",
+          "Celebrate",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon P25 Music Distribution - Code: P25MUS1C",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "25 February 2021",
+        "endDate": "25 March 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 21,
+        "OT": "KIBO",
+        "ID": "210101",
+        "ability": "Static",
+        "item": "Comet Shard",
+        "pokemonDescription": "Brave Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 21",
+        "moves": [
+          "Thunderbolt",
+          "Swift",
+          "Wish",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon KIBO - Space Sunrise Gift",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "1 January 2021",
+        "endDate": "15 January 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: K1NP1KA1855",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "30 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: ULTRAP1KA",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "23 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: KAL0SP1KA",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "18 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KABESTW1SH",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "16 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: V0LTTACKLEP1KA",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KAADVANCE",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: 1CH00SEY0U",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "23 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "Ash",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KACHUGET",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "29 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: K1NP1KA1855",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "30 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: ULTRAP1KA",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "23 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: KAL0SP1KA",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KABESTW1SH",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: V0LTTACKLEP1KA",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KAADVANCE",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "2 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: 1CH00SEY0U",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "23 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "サトシ",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KACHUGET",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "29 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: K1NP1KA1855",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "30 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: ULTRAP1KA",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "23 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: KAL0SP1KA",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "18 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KABESTW1SH",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "16 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: V0LTTACKLEP1KA",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KAADVANCE",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "2 October 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: 1CH00SEY0U",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "23 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "AshSacha",
+        "ID": "201023",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon TV Program. Apparently had a fateful encounter at Lv. 25",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electroweb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gift - Code: P1KACHUGET",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "29 September 2020",
+        "endDate": "30 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "PCSG",
+        "ID": "200301",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Celebrate",
+          "Play Nice",
+          "Thunder Shock",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Singapore - Birthday Distribution",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "1 March 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Bullseye",
+        "ID": "190511",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Double Kick",
+          "Double Team",
+          "Thunder"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pass - Target Distribution",
+        "type": "Serial Code",
+        "location": "United States",
+        "startDate": "11 May 2019",
+        "endDate": "23 June 2019",
+        "gamesAvailable": "Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "ポケセン",
+        "ID": "191115",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Celebrate",
+          "Play Nice",
+          "Thunder Shock",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Birthday Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 November 2019",
+        "endDate": "14 November 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 피카츄  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "베스트프렌드",
+        "ID": "190511",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Helping Hand"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Purchase Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "1 May 2019",
+        "endDate": "31 May 2019",
+        "gamesAvailable": "Let's Go, Pikachu!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "120516",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 19",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGO19PIKACHU",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "011814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETS17GOPIKACHU",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "021211",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 13",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - 13LETSGOPIKACHU",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "060407",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 9",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU09",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "091303",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU06",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "120516",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 19",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGO19PIKACHU",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "011814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETS17GOPIKACHU",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "021211",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 13",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - 13LETSGOPIKACHU",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "060407",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 9",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU09",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "091303",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU06",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケカフェ",
+        "ID": "180314",
+        "ability": "Static",
+        "item": "Lemonade",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Celebrate",
+          "Sweet Scent",
+          "Counter",
+          "Refresh"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Cafï¿½ Tokyo DX - Opening Gift - All Pokï¿½mon Centers",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 March 2018",
+        "endDate": "28 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "トウホク2018",
+        "ID": "201803",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Bestow",
+          "Hold Hands",
+          "Return",
+          "Play Nice"
+        ]
+      },
+      "event": {
+        "description": "Pokémon with You - Donation Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "5 March 2017",
+        "endDate": "3 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "120516",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 19",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGO19PIKACHU",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "011814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETS17GOPIKACHU",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "021211",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 13",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - 13LETSGOPIKACHU",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "060407",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 9",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU09",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "091303",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Let's Go - Tie In-Distribution - LETSGOPIKACHU06",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 November 2018",
+        "endDate": "30 November 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Satoshi",
+        "ID": "970401",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a Pokémon Movie. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "15 April 2018",
+        "endDate": "31 July 2018",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "170715",
+        "ability": "Static",
+        "item": "Pretty Feather",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 21",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Theatre Distribution",
+        "type": "QR Code",
+        "location": "North America",
+        "startDate": "5 November 2017",
+        "endDate": "6 November 2017",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "120516",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 19",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "24 October 2017",
+        "endDate": "30 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "011814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "17 October 2017",
+        "endDate": "23 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "021211",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 13",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "10 October 2017",
+        "endDate": "16 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "060407",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 9",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 October 2017",
+        "endDate": "9 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "091303",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "26 September 2017",
+        "endDate": "2 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "090898",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 September 2017",
+        "endDate": "25 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "カーニバル",
+        "ID": "170814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Event 17. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Growl",
+          "Quick Attack",
+          "Thunder Shock",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 August 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "カーニバル",
+        "ID": "170809",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Event 17. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Hold Hands",
+          "Play Nice",
+          "Teeter Dance",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2017",
+        "endDate": "15 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "170715",
+        "ability": "Static",
+        "item": "Pretty Feather",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 21",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Theatre Distribution (Ga-Olé Disc)",
+        "type": "QR Code",
+        "location": "Japan",
+        "startDate": "15 July 2017",
+        "endDate": "30 September 2017",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "161117",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(28/06-17/07 & 27/09-09/10)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "28 June 2017",
+        "endDate": "9 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "131017",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(14/06-26/06 & 13/09-25/09)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "14 June 2017",
+        "endDate": "25 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "100923",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 14",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(31/05-12/06 & 30/08-11/09)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "31 May 2017",
+        "endDate": "11 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "060928",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(17/05-29/05 & 16/08-28/08)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 May 2017",
+        "endDate": "28 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "021121",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(03/05-15/05 & 02/08-14/08)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "03 May 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "970401",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution(15/04-01/05 & 19/07-31/07)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 April 2017",
+        "endDate": "31 July 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "トウホク",
+        "ID": "201703",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Bestow",
+          "Hold Hands",
+          "Return",
+          "Play Nice"
+        ]
+      },
+      "event": {
+        "description": "Pokémon with You - Donation Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "11 March 2017",
+        "endDate": "31 March 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "170715",
+        "ability": "Static",
+        "item": "Pretty Feather",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 21",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Theatre Distribution",
+        "type": "QR Code",
+        "location": "Europe",
+        "startDate": "5 November 2017",
+        "endDate": "6 November 2017",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "120516",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 19",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "24 October 2017",
+        "endDate": "30 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "011814",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 17",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "17 October 2017",
+        "endDate": "23 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "021211",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 13",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "10 October 2017",
+        "endDate": "16 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "060407",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 9",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Volt Tackle"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 October 2017",
+        "endDate": "9 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "091303",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 6",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Iron Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "26 September 2017",
+        "endDate": "2 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "AshSacha",
+        "ID": "090898",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Thunder",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Tie In-Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "19 September 2017",
+        "endDate": "25 September 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "161118",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Growl",
+          "Sand Attack",
+          "Baby-doll Eyes"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Birthday Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 November 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メガトウキョー",
+        "ID": "12124",
+        "ability": "Lightning Rod",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Thunder",
+          "Substitute",
+          "Play Nice",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 June 2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "healball",
+        "shiny": false,
+        "level": null,
+        "OT": "トウホク",
+        "ID": "20163",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Bestow",
+          "Hold Hands",
+          "Return",
+          "Play Nice"
+        ]
+      },
+      "event": {
+        "description": "Pokémon with You - Donation Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "11 March 2016",
+        "endDate": "11 April 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "オンライン",
+        "ID": "02056",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fly",
+          "Surf",
+          "Agility",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Online Opening",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 February 2016",
+        "endDate": "22 May 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "P-Cafe",
+        "ID": "05276",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Play Nice",
+          "Charm",
+          "Nuzzle",
+          "Sweet Kiss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Café Singapore",
+        "type": "In-Life",
+        "location": "Singapore",
+        "startDate": "27 May 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "08215",
+        "ability": "Lightning Rod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fake Out",
+          "Encore",
+          "Volt Tackle",
+          "Endeavor"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Pikachu Cup Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "1 September 2015",
+        "endDate": "29 October 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "12205",
+        "ability": "Static",
+        "item": "Rare Candy",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 99",
+        "moves": [
+          "Happy Hour",
+          "Play Nice",
+          "Hold Hands",
+          "Flash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon with You - Fukushima Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 December 2015",
+        "endDate": "20 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "08215",
+        "ability": "Lightning Rod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fake Out",
+          "Encore",
+          "Volt Tackle",
+          "Endeavor"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Pikachu Cup Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 September 2015",
+        "endDate": "30 October 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "08245",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Naughty Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Movie Tie-in: Ash's Pikachu",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "24 August 2015",
+        "endDate": "30 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ダンサー♪  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ヨコハマ",
+        "ID": "08085",
+        "ability": "Static",
+        "item": "Persim Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Teeter Dance",
+          "Play Nice",
+          "Tail Whip",
+          "Nuzzle"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreachu - Special Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "8 August 2015",
+        "endDate": "16 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "00711",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Naughty Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "7-11 Seven Spot Movie Tie-in: Ash's Pikachu",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 July 2015",
+        "endDate": "31 July 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "P-Cafe",
+        "ID": "01095",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Play Nice",
+          "Charm",
+          "Nuzzle",
+          "Sweet Kiss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Café ΩRuby&αSapphire Opening",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 January 2015",
+        "endDate": "28 February 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "08215",
+        "ability": "Lightning Rod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fake Out",
+          "Encore",
+          "Volt Tackle",
+          "Endeavor"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Pikachu Cup Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "1 September 2015",
+        "endDate": "30 October 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Satay King",
+        "ID": "08095",
+        "ability": "Static",
+        "item": "Sweet Heart",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Play Nice",
+          "Charm",
+          "Nuzzle",
+          "Sweet Kiss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Satay King Event",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "9 August 2015",
+        "endDate": "27 September 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 피카츄  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "08215",
+        "ability": "Lightning Rod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Fake Out",
+          "Encore",
+          "Volt Tackle",
+          "Endeavor"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Pikachu Cup Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "1 September 2015",
+        "endDate": "30 October 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 피카츄  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "초보트레이너",
+        "ID": "10095",
+        "ability": "Static",
+        "item": "Persim Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Teeter Dance",
+          "Play Nice",
+          "Tail Whip",
+          "Nuzzle"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Let Chu Go Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "10 September 2015",
+        "endDate": "18 October 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メガトウキョー",
+        "ID": "12124",
+        "ability": "Lightning Rod",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Thunder",
+          "Substitute",
+          "Play Nice",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Mega Tokyo Opening Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 December 2014",
+        "endDate": "16 January 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10014",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Growl",
+          "Play Nice",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2014",
+        "endDate": "30 September 2015",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " パシフィコ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Focus Band",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Surf",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Minato Mirai Event (PacificCo)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ♥♥ピカ♥♥  ♀",
+        "pokeball": "healball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Heart Scale",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Heart Stamp",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Female Pikachu Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " せんちょう  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Surf",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Minato Mirai Event (Sea Parks)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " あかレンガ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Sea Incense",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Surf",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Minato Mirai Event (Red Brick Warehouse)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " コスモW  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Comet Shard",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Surf",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Minato Mirai Event (Cosmo World)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ランドマーク  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "みなとみらい",
+        "ID": "08094",
+        "ability": "Static",
+        "item": "Air Balloon",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Surf",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu - Minato Mirai Event (Landmark Tower)",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ウチダアツト",
+        "ID": "00022",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 22",
+        "moves": [
+          "Quick Attack",
+          "Electro Ball",
+          "Double Team",
+          "Mega Kick"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Get☆TV Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 June 2014",
+        "endDate": "15 June 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10123",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Growl",
+          "Play Nice",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 October 2013",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "サトシ",
+        "ID": "08103",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon Cartoon. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Quick Attack",
+          "Iron Tail",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Best Wishes Tie-in - Ash's Pikachu",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 August 2013",
+        "endDate": "6 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCT",
+        "ID": "05293",
+        "ability": "Lightningrod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Volt Tackle",
+          "Quick Attack",
+          "Feint",
+          "Volt Switch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Tokyo",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "29 May 2013",
+        "endDate": "4 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WORLD12",
+        "ID": "08122",
+        "ability": "Lightningrod",
+        "item": "Light Ball",
+        "pokemonDescription": "Timid Nature.Date of Receiving Worlds 2012. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fly",
+          "Thunderbolt",
+          "Grass Knot",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championships",
+        "type": "In-Life",
+        "location": "Hawaii",
+        "startDate": "12 August 2012",
+        "endDate": "12 August 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ピカチュウ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Lightningrod",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Tail Whip",
+          "Thunder Wave",
+          "Headbutt"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Summer League 2012",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "19 September 2012",
+        "endDate": "31 January 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "トウホク",
+        "ID": "03232",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunder",
+          "Volt Tackle",
+          "Grass Knot",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Pikachu Festival",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "23 March 2012",
+        "endDate": "8 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さくら",
+        "ID": "03012",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Extreme Speed",
+          "Thunderbolt",
+          "Grass Knot",
+          "Brick Break"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Bullet Trains",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 March 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Pikachu  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Lightningrod",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Tail Whip",
+          "Thunder Wave",
+          "Headbutt"
+        ]
+      },
+      "event": {
+        "description": "UK: Amazon.co.uk PurchaseGermany: Pokémon Toys 'R' Us Purchase",
+        "type": "Global Link",
+        "location": "United KingdomGermany",
+        "startDate": "8 November 2012",
+        "endDate": "30 May 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "SMR2012VER2012EST2012",
+        "ID": "07012",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunder",
+          "Volt Tackle",
+          "Grass Knot",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Day",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "18 August 2012",
+        "endDate": "29 September 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "éTé2012",
+        "ID": "07012",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunder",
+          "Volt Tackle",
+          "Grass Knot",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Japan Expo",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "5 July 2012",
+        "endDate": "8 July 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachuピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "Fesおまつり",
+        "ID": "05112",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunder",
+          "Volt Tackle",
+          "Grass Knot",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pika Pika Carnival",
+        "type": "In-Life",
+        "location": "Singapore",
+        "startDate": "11 May 2012",
+        "endDate": "20 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Ash",
+        "ID": "01301",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Volt Tackle",
+          "Iron Tail",
+          "Quick Attack",
+          "Thunderbolt"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "31 January 2011",
+        "endDate": "13 February 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "AAASKE48チサアミーゴELTわっしょい",
+        "ID": "07301",
+        "ability": "Lightningrod",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Sing",
+          "Teeter Dance",
+          "Encore",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "a-nation For Life",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "30 July 2011",
+        "endDate": "28 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ANA",
+        "ID": "07181",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fly",
+          "Iron Tail",
+          "Electro Ball",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "ANA Flights",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 July 2011",
+        "endDate": "30 September 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 20,
+        "OT": "セブン",
+        "ID": "08200",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Docile Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Present",
+          "Quick Attack",
+          "Thunder Shock",
+          "Tail Whip"
+        ]
+      },
+      "event": {
+        "description": "7-11 Giveaway",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 August 2010",
+        "endDate": "5 September 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "サトシ",
+        "ID": "07150",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Wi-Fi Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Volt Tackle",
+          "Iron Tail",
+          "Quick Attack",
+          "Thunderbolt"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "15 July 2010",
+        "endDate": "10 August 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 20,
+        "OT": "NZone",
+        "ID": "07310",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Bashful Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Present",
+          "Quick Attack",
+          "Thunder Shock",
+          "Tail Whip"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Zone",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "31 July 2010",
+        "endDate": "27 August 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "ヨコハマ",
+        "ID": "12269",
+        "ability": "Static",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Mild Nature.Date of Receiving PC Yokohama. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Surf",
+          "Thunder",
+          "Protect",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 December 2009",
+        "endDate": "25 December 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 20,
+        "OT": "アリオ",
+        "ID": "11219",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Bashful Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Present",
+          "Quick Attack",
+          "Thunder Wave",
+          "Tail Whip"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Zone",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 November 2009",
+        "endDate": "23 November 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "キョウト",
+        "ID": "10039",
+        "ability": "Static",
+        "item": "Soothe Bell",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Last Resort",
+          "Present",
+          "Thunderbolt",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Kyoto Cross Media Experience",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "3 October 2009",
+        "endDate": "4 October 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "おねむり",
+        "ID": "02079",
+        "ability": "Static",
+        "item": "Chesto Berry",
+        "pokemonDescription": "Relaxed Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rest",
+          "Sleep Talk",
+          "Yawn",
+          "Snore"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 February 2009",
+        "endDate": "15 March 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 20,
+        "OT": "Nzone",
+        "ID": "10278",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Bashful Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Present",
+          "Quick Attack",
+          "Thunder Shock",
+          "Tail Whip"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Zone",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "14 November 2008",
+        "endDate": "27 November 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 20,
+        "OT": "Hayley",
+        "ID": "01000",
+        "ability": "Static",
+        "item": "Shuca Berry",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Trophy Garden. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Grass Knot",
+          "Thunderbolt",
+          "Flash",
+          "Double Team"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "9 May 2008",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "ヨコハマ",
+        "ID": "12268",
+        "ability": "Static",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Modest Nature.Date of Receiving PC Yokohama. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Surf",
+          "Thunder",
+          "Protect",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 December 2008",
+        "endDate": "25 December 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 40,
+        "OT": "ヨコハマ",
+        "ID": "10108",
+        "ability": "Static",
+        "item": "Shell Bell",
+        "pokemonDescription": "Modest Nature.Date of Receiving PC Yokohama. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Surf",
+          "Thunder",
+          "Protect",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Yokohama",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2008",
+        "endDate": "3 November 2008",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 20,
+        "OT": "マック",
+        "ID": "05308",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Bashful Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Quick Attack",
+          "Thunder Shock",
+          "Tail Whip",
+          "Present"
+        ]
+      },
+      "event": {
+        "description": "McDonalds",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "30 May 2008",
+        "endDate": "19 June 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "TCGWC",
+        "ID": "08107",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Surf",
+          "Thunderbolt",
+          "Light Screen",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "World Championship",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2007",
+        "endDate": "13 August 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "PKTOPIA",
+        "ID": "06257",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Surf",
+          "Volt Tackle",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "25 June 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "PKTOPIA",
+        "ID": "12077",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Surf",
+          "Volt Tackle",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "2 December 2007",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Fly"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ポケトピア",
+        "ID": "12146",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Fateful Encounter. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Surf",
+          "Volt Tackle",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Revolution",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "14 December 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60505",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 6",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 April 2006",
+        "endDate": "7 May 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60321",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 5",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 March 2006",
+        "endDate": "9 April 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "24 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thunderbolt",
+          "Thunder",
+          "Light Screen",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "サッポロ",
+        "ID": "50701",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Surf",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Opening",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 July 2005",
+        "endDate": "21 August 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "GW",
+        "ID": "50425",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Fly",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Store",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 April 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ヨコハマ",
+        "ID": "50319",
+        "ability": "Static",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Growl",
+          "Thunder Wave",
+          "Surf"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Festival GW",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "19 March 2005",
+        "endDate": "3 April 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ANA",
+        "ID": "41205",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Fly",
+          "Tail Whip",
+          "Growl",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "ANA Terminal Opening",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "5 December 2004",
+        "endDate": "25 December 2004",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Pikachu  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Static",
+        "item": "Thunder Stone",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Thunderbolt",
+          "Agility",
+          "Thunder",
+          "Light Screen"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Evolution Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "30 August 2003",
+        "endDate": "1 September 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピカチュウ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "コロシアム",
+        "ID": "31121",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Thunder Shock",
+          "Growl",
+          "Tail Whip",
+          "Thunder Wave"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Colosseum Bonus Disc",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "21 November 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

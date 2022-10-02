@@ -1,0 +1,299 @@
+{
+  "pokedexID": "448",
+  "species": "Lucario",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ルカリオ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "200412",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Aura Sphere",
+          "Bullet Punch",
+          "Reversal",
+          "Steel Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Masters Eight Tournament Tie-in. Code: ",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 September 2022",
+        "endDate": "29 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルカリオ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "ソウジ",
+        "ID": "170715",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Aura Sphere",
+          "High Jump Kick",
+          "Dragon Pulse",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Soji's Lucario - 7-11 Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 August 2017",
+        "endDate": "20 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 루카리오  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "민준",
+        "ID": "171209",
+        "ability": "Steadfast",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving a Pokémon Movie. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Aura Sphere",
+          "High Jump Kick",
+          "Dragon Pulse",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Sorrel's Lucario - Code: ICHOOSEYOU448",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "9 December 2017",
+        "endDate": "31 January 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルカリオ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "0101601096011660123601306",
+        "ability": "Steadfast or Inner Focus ",
+        "item": "Lucarionite",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Close Combat",
+          "Aura Sphere",
+          "Flash Cannon",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Event Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 January 2016",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Lucario  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Detect",
+          "Metal Claw",
+          "Counter",
+          "Bullet Punch"
+        ]
+      },
+      "event": {
+        "description": "Target Game Purchase",
+        "type": "Global Link",
+        "location": "America",
+        "startDate": "12 January 2012",
+        "endDate": "27 September 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルカリオ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PC",
+        "ID": "06012",
+        "ability": "Justified",
+        "item": "Persim Berry",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Bullet Punch",
+          "Close Combat",
+          "Stone Edge",
+          "Shadow Claw"
+        ]
+      },
+      "event": {
+        "description": "Tag Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 June 2012",
+        "endDate": "22 June 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Lucario  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Detect",
+          "Metal Claw",
+          "Counter",
+          "Bullet Punch"
+        ]
+      },
+      "event": {
+        "description": "Eurogamer Giveaway",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "1 March 2012",
+        "endDate": "23 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Lucario  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Detect",
+          "Metal Claw",
+          "Counter",
+          "Bullet Punch"
+        ]
+      },
+      "event": {
+        "description": "Eurogamer Giveaway",
+        "type": "Global Link",
+        "location": "Oceania",
+        "startDate": "1 March 2012",
+        "endDate": "23 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ルカリオ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Detect",
+          "Metal Claw",
+          "Counter",
+          "Bullet Punch"
+        ]
+      },
+      "event": {
+        "description": "Weekly Famitsu Magazine",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "22 December 2011",
+        "endDate": "31 January 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lucario  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "WORLD08",
+        "ID": "08178",
+        "ability": "Inner Focus",
+        "item": "Leftovers",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Force Palm",
+          "Bone Rush",
+          "Sunny Day",
+          "Blaze Kick"
+        ]
+      },
+      "event": {
+        "description": "World's Championships",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 August 2008",
+        "endDate": "17 August 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " LUCARIO  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PALCITY",
+        "ID": "07157",
+        "ability": "Steadfast",
+        "item": "Metal Coat",
+        "pokemonDescription": "Modest Nature.Date of Receiving Pokémon Event 07. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aura Sphere",
+          "Dark Pulse",
+          "Dragon Pulse",
+          "Water Pulse"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta - Pal City",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 July 2007",
+        "endDate": "2 September 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

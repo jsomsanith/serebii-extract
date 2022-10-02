@@ -1,0 +1,33 @@
+{
+  "pokedexID": "175",
+  "species": "Togepi",
+  "events": [
+    {
+      "pokemon": {
+        "name": " トゲピー  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 20,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Serene Grace",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 20",
+        "moves": [
+          "Metronome",
+          "Charm",
+          "Sweet Kiss",
+          "Yawn"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Colosseum e-card",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "25 December 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

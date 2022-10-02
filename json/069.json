@@ -1,0 +1,87 @@
+{
+  "pokedexID": "069",
+  "species": "Bellsprout",
+  "events": [
+    {
+      "pokemon": {
+        "name": " マダツボミ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Chlorophyll",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Vine Whip",
+          "Growth",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マダツボミ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Chlorophyll",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Vine Whip",
+          "Teeter Dance",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マダツボミ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Chlorophyll",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Vine Whip",
+          "Teeter Dance",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Battle Tour",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "24 March 2004",
+        "endDate": "4 April 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

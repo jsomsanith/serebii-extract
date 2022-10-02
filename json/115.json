@@ -1,0 +1,114 @@
+{
+  "pokedexID": "115",
+  "species": "Kangaskhan",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Kangaskhan  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2015 Spring",
+        "ID": "04035",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Return",
+          "Earthquake",
+          "Sucker Punch"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Taiwan/Hong Kong - Facebook Promotion",
+        "type": "Serial Code",
+        "location": "Hong KongTaiwan",
+        "startDate": "3 April 2015",
+        "endDate": "8 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガルーラ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "05264",
+        "ability": "Scrappy",
+        "item": "Kangaskhanite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Return",
+          "Earthquake",
+          "Sucker Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 May 2014",
+        "endDate": "21 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガルーラ  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Early Bird or Scrappy ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Comet Punch",
+          "Leer",
+          "Bite",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Kangaskhan  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Early Bird or Scrappy ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Yawn",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "16 December 2004",
+        "endDate": "2 January 2005",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

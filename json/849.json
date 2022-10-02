@@ -1,0 +1,60 @@
+{
+  "pokedexID": "849",
+  "species": "Toxtricity",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Toxtricity  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Rock Star",
+        "ID": "210219",
+        "ability": "Punk Rock",
+        "item": "Throat Spray",
+        "pokemonDescription": "Rash Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Overdrive",
+          "Sludge Wave",
+          "Boomburst",
+          "Rising Voltage"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Shining Fates Tie-InGamestop (US)EBGames (Canada)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 February 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Toxtricity  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Rock Star",
+        "ID": "210219",
+        "ability": "Punk Rock",
+        "item": "Throat Spray",
+        "pokemonDescription": "Rash Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Overdrive",
+          "Sludge Wave",
+          "Boomburst",
+          "Rising Voltage"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Shining Fates Tie-InGamestop (Italy)MicroMania (France)GameMania (Netherlands/Belgium)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "19 February 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

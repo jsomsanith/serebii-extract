@@ -1,0 +1,60 @@
+{
+  "pokedexID": "128",
+  "species": "Tauros",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ケンタロス  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Intimidate or Anger Point ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Tail Whip",
+          "Rage",
+          "Horn Attack"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tauros  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 25,
+        "OT": "JEREMY",
+        "ID": "13579",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 25",
+        "moves": [
+          "Rage",
+          "Horn Attack",
+          "Scary Face",
+          "Pursuit"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

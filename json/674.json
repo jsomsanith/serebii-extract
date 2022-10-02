@@ -1,0 +1,60 @@
+{
+  "pokedexID": "674",
+  "species": "Pancham",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ヤンチャム  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "セレナ",
+        "ID": "08175",
+        "ability": "Mold Breaker",
+        "item": "Black Glasses",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Arm Thrust",
+          "Stone Edge",
+          "Dark Pulse",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Movie Tie-in: Serena's Pancham",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2015",
+        "endDate": "23 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヤンチャム  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "セレナ",
+        "ID": "00711",
+        "ability": "Mold Breaker",
+        "item": "Black Glasses",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Arm Thrust",
+          "Stone Edge",
+          "Dark Pulse",
+          " "
+        ]
+      },
+      "event": {
+        "description": "7-11 Seven Spot Movie Tie-in: Serena's Pancham",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 July 2015",
+        "endDate": "31 July 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

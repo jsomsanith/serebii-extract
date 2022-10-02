@@ -1,0 +1,33 @@
+{
+  "pokedexID": "559",
+  "species": "Scraggy",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ズルッグ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 1,
+        "OT": "サトシ",
+        "ID": "01281",
+        "ability": "Moxie",
+        "item": "Muscle Band",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Headbutt",
+          "Leer",
+          "High Jump Kick",
+          "Low Kick"
+        ]
+      },
+      "event": {
+        "description": "Ash's Scraggy Event",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "28 January 2011",
+        "endDate": "10 February 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

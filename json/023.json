@@ -1,0 +1,60 @@
+{
+  "pokedexID": "023",
+  "species": "Ekans",
+  "events": [
+    {
+      "pokemon": {
+        "name": " アーボ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Intimidate or Shed Skin ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Wrap",
+          "Leer",
+          "Poison Sting",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ekans  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 14,
+        "OT": "JEREMY",
+        "ID": "24680",
+        "ability": "Shed skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 14",
+        "moves": [
+          "Leer",
+          "Wrap",
+          "Poison Sting",
+          "Bite"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

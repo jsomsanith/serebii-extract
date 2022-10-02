@@ -1,0 +1,33 @@
+{
+  "pokedexID": "341",
+  "species": "Corphish",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ヘイガニ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hyper Cutter or Shell Armor ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Bubble",
+          "Water Sport",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

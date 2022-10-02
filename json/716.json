@@ -1,0 +1,249 @@
+{
+  "pokedexID": "716",
+  "species": "Xerneas",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Geomancy",
+          "Horn Leech",
+          "Night Slash",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Fairy Aura",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Focus Blast",
+          "Grass Knot",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Geomancy",
+          "Horn Leech",
+          "Night Slash",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Fairy Aura",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Focus Blast",
+          "Grass Knot",
+          "Moonblast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XYZ",
+        "ID": "05116",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Moonblast",
+          "Aromatherapy",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Fates Collide Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "11 May 2016",
+        "endDate": "17 May 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Xerneas ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "DescartesCartesio",
+        "ID": "05026",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Moonblast",
+          "Aromatherapy",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Sweden/Finland/Norway Gift) El Corte Inglés - Portgual (28/05-29/05)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "13 May 2016",
+        "endDate": "18 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 제르네아스 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "04206",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Moonblast",
+          "Aromatherapy",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in Distribution. Code: POKEMONXYZ ",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "20  2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 제르네아스 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "03226",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Moonblast",
+          "Aromatherapy",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in Distribution. Code: TUE05PM ",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "22 March 2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゼルネアス ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "10295",
+        "ability": "Fairy Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Geomancy",
+          "Moonblast",
+          "Aromatherapy",
+          "Focus Blast"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in Distribution. Code: MOKUYO7JI ",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "29 October 2015",
+        "endDate": "12 January 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

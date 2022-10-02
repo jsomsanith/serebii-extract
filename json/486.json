@@ -1,0 +1,330 @@
+{
+  "pokedexID": "486",
+  "species": "Regigigas",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 레지기가스 ",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 100,
+        "OT": "전이마을",
+        "ID": "220601",
+        "ability": "Slow Start",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Giratina & The Sky Warrior Distribution",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "1 June 2022",
+        "endDate": "31 July 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 레지기가스 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "전이마을",
+        "ID": "220601",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Giratina & The Sky Warrior Distribution",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "1 June 2022",
+        "endDate": "31 July 2022",
+        "gamesAvailable": "Brilliant Diamond, Shining Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Slow Start",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Zen Headbutt",
+          "Revenge",
+          "Dizzy Punch",
+          "Confuse Ray"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "16 March 2018",
+        "endDate": "30 June 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Slow Start",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Crush Grip",
+          "Drain Punch",
+          "Zen Headbutt",
+          "Heavy Slam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Trainer Club Newsletter ",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "16 March 2018",
+        "endDate": "30 June 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Slow Start",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Zen Headbutt",
+          "Revenge",
+          "Dizzy Punch",
+          "Confuse Ray"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 March 2018",
+        "endDate": "24 March 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Slow Start",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Crush Grip",
+          "Drain Punch",
+          "Zen Headbutt",
+          "Heavy Slam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 March 2018",
+        "endDate": "24 March 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "TRU",
+        "ID": "03089",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 March 2009",
+        "endDate": "21 March 2009",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "EUETE09",
+        "ID": "07189",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "18 September 2009",
+        "endDate": "2 November 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "EUSMR09",
+        "ID": "07189",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "25 July 2009",
+        "endDate": "4 October 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "ESTEU09",
+        "ID": "07189",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "18 July 2009",
+        "endDate": "19 July 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Regigigas ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "EUVER09",
+        "ID": "07189",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Movie Giveaway",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "11 July 2009",
+        "endDate": "30 August 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レジギガス ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "テンイむら",
+        "ID": "07198",
+        "ability": "Slow Start",
+        "item": "Custap Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 08. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Iron Head",
+          "Rock Slide",
+          "Icy Wind",
+          "Crush Grip"
+        ]
+      },
+      "event": {
+        "description": "Movie",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2008",
+        "endDate": "31 August 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

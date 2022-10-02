@@ -1,0 +1,330 @@
+{
+  "pokedexID": "666",
+  "species": "Vivillon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ビビヨン  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "08014",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 May 2016",
+        "endDate": "31 May 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014éTé 2014VERANO 2014",
+        "ID": "08064",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Online - Special Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "6 August 2014",
+        "endDate": "12 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GTS",
+        "ID": "00108",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An online Present. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Gust",
+          "Light Screen",
+          "Struggle Bug",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon GTS - 100 million milestone distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "7 July 2014",
+        "endDate": "31 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビビヨン  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "08014",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Special Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 August 2014",
+        "endDate": "31 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ビビヨン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GTS",
+        "ID": "00108",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An online Present. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Gust",
+          "Light Screen",
+          "Struggle Bug",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon GTS - 100 million milestone distribution",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "7 July 2014",
+        "endDate": "31 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014éTé 2014VERANO 2014",
+        "ID": "08134",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  - Special Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "29 August 2014",
+        "endDate": "8 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014éTé 2014VERANO 2014",
+        "ID": "08134",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Gamescom - Special Distribution",
+        "type": "Serial Code",
+        "location": "Germany",
+        "startDate": "14 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GTS",
+        "ID": "00108",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An online Present. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Gust",
+          "Light Screen",
+          "Struggle Bug",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon GTS - 100 million milestone distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "7 July 2014",
+        "endDate": "31 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Paris",
+        "ID": "06014",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Paris - Special Distribution",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "4 June 2014",
+        "endDate": "21 June 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014éTé 2014VERANO 2014",
+        "ID": "08134",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Stun Spore",
+          "Gust",
+          "Light Screen",
+          "Struggle Bug"
+        ]
+      },
+      "event": {
+        "description": "Pokémon  - Special Distribution",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "29 August 2014",
+        "endDate": "8 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Vivillon  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GTS",
+        "ID": "00108",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An online Present. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Gust",
+          "Light Screen",
+          "Struggle Bug",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon GTS - 100 million milestone distribution",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "7 July 2014",
+        "endDate": "31 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 비비용  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GTS",
+        "ID": "00108",
+        "ability": "Shield Dust or Compoundeyes ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An online Present. Apparently had a fateful encounter at Lv. 12",
+        "moves": [
+          "Gust",
+          "Light Screen",
+          "Struggle Bug",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon GTS - 100 million milestone distribution",
+        "type": "Wi-Fi",
+        "location": "South Korea",
+        "startDate": "7 July 2014",
+        "endDate": "31 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

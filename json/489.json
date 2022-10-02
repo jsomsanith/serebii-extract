@@ -1,0 +1,87 @@
+{
+  "pokedexID": "489",
+  "species": "Phione",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Phione ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Hayley",
+        "ID": "01000",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Grass Knot",
+          "Rain Dance",
+          "Rest",
+          "Surf"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "9 May 2008",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " フィオネ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ユカリ",
+        "ID": "01000",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Grass Knot",
+          "Rain Dance",
+          "Rest",
+          "Surf"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "25 March 2008",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Phione ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "HayleyEulalieEukaliaGiuliaEulalia",
+        "ID": "01000",
+        "ability": "Hydration",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Grass Knot",
+          "Rain Dance",
+          "Rest",
+          "Surf"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "4 June 2008",
+        "endDate": "No End Date",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

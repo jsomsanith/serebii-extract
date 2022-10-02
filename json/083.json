@@ -1,0 +1,33 @@
+{
+  "pokedexID": "083",
+  "species": "Farfetch'd",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Farfetch'd  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Keen Eye or Inner Focus ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Yawn",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "16 December 2004",
+        "endDate": "2 January 2005",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "pokedexID": "137",
+  "species": "Porygon",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  Porygon ",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Analytic",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Conversion",
+          "Sharpen",
+          "Psybeam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Global Link Renewal Gift",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "12 July 2011",
+        "endDate": "18 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Porygon ",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Analytic",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Conversion",
+          "Sharpen",
+          "Psybeam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Global Link Renewal Gift",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "19 July 2011",
+        "endDate": "18 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Porygon ",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Analytic",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Conversion",
+          "Sharpen",
+          "Psybeam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Global Link Renewal Gift",
+        "type": "Global Link",
+        "location": "Oceania",
+        "startDate": "12 July 2011",
+        "endDate": "27 September 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ポリゴン ",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Analytic",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Conversion",
+          "Sharpen",
+          "Psybeam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon BW Multiplayer Guide Book",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "18 May 2011",
+        "endDate": "26 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

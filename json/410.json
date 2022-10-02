@@ -1,0 +1,33 @@
+{
+  "pokedexID": "410",
+  "species": "Shieldon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " タテトプス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "キャンプ",
+        "ID": "07192",
+        "ability": "Sturdy",
+        "item": "Shuca Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Metal Sound",
+          "Take Down",
+          "Body Slam",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Adventure Camp",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 July 2012",
+        "endDate": "21 July 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

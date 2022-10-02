@@ -1,0 +1,33 @@
+{
+  "pokedexID": "560",
+  "species": "Scrafty",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Scrafty  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WORLD11",
+        "ID": "08141",
+        "ability": "Moxie",
+        "item": "Leftovers",
+        "pokemonDescription": "Brave Nature.Date of Receiving Worlds 2011. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fire Punch",
+          "Payback",
+          "Drain Punch",
+          "Substitute"
+        ]
+      },
+      "event": {
+        "description": "Worlds Championship 2011 Gift",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "14 August 2011",
+        "endDate": "14 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

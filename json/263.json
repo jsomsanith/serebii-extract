@@ -1,0 +1,330 @@
+{
+  "pokedexID": "263",
+  "species": "Zigzagoon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Extreme Speed",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "12 July 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "SAPHIRE",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 March 2004",
+        "endDate": "22 April 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "RUBY",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 March 2004",
+        "endDate": "22 April 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Extreme Speed",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "14 May 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "SAPHIRE",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "17 March 2004",
+        "endDate": "17 July 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "SAPHIRE",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "17 March 2004",
+        "endDate": "17 July 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "RUBY",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "17 March 2004",
+        "endDate": "27 July 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "RUBY",
+        "ID": "30317",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Berry Fix",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "17 March 2004",
+        "endDate": "27 July 2007",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zigzagoon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Extreme Speed",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Australia",
+        "startDate": "16 July 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジグザグマ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "サファイア",
+        "ID": "21121",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Repair Program",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 November 2003",
+        "endDate": "18 November 2006",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジグザグマ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "ルビ－ ",
+        "ID": "21121",
+        "ability": "Pickup",
+        "item": "Liechi Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 5",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Repair Program",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 November 2003",
+        "endDate": "28 November 2006",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジグザグマ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pickup",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Extreme Speed",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "30 May 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

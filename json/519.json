@@ -1,0 +1,60 @@
+{
+  "pokedexID": "519",
+  "species": "Pidove",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Pidove  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Super Luck",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Gust",
+          "Quick Attack",
+          "Air Cutter",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us Egg Giveaway - Ash's Pidove",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "27 April 2011",
+        "endDate": "31 May 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マメパト  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 1,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Super Luck",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Gust",
+          "Quick Attack",
+          "Air Cutter",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Egg Giveaway - Ash's Pidove",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "17 December 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

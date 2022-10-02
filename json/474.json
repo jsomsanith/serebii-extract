@@ -1,0 +1,33 @@
+{
+  "pokedexID": "474",
+  "species": "Porygon-Z",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 폴리곤Z ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "정상윤",
+        "ID": "210807",
+        "ability": "Adaptability",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hyper Beam",
+          "Thunderbolt",
+          "Dark Pulse",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Cup 2021 Gift Jeong Sang-yoon's Porygon-Z - 1STPTCCHAMP",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "21 August 2021",
+        "endDate": "22 August 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

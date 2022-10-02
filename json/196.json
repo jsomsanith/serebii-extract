@@ -1,0 +1,246 @@
+{
+  "pokedexID": "196",
+  "species": "Espeon",
+  "events": [
+    {
+      "pokemon": {
+        "name": " エーフィ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "170513",
+        "ability": "Magic Bounce",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Eevee's Colourful Friends Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "13 May 2017",
+        "endDate": "23 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 에브이  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "포켓몬스토어",
+        "ID": "170715",
+        "ability": "Magic Bounce",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Psychic",
+          "Dazzling Gleam",
+          "Shadow Ball",
+          "Reflect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Eevee Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "15 July 2017",
+        "endDate": "23 July 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エーフィ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10014",
+        "ability": "Synchronize",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Tail Whip",
+          "Sand Attack",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2014",
+        "endDate": "30 September 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エーフィ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン♪",
+        "ID": "10123",
+        "ability": "Synchronize",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Celebrate",
+          "Tail Whip",
+          "Sand Attack",
+          "Confusion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Birthday Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 October 2013",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Espeon  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Magic Bounce",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Helping Hand",
+          "Sand Attack"
+        ]
+      },
+      "event": {
+        "description": "Befriend A Pokémon",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "19 May 2011",
+        "endDate": "19 July 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Espeon  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Magic Bounce",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Helping Hand",
+          "Sand Attack"
+        ]
+      },
+      "event": {
+        "description": "Befriend A Pokémon",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "19 May 2011",
+        "endDate": "19 July 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  エーフィ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Magic Bounce",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Helping Hand",
+          "Sand Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Labyrinth",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "20 October 2010",
+        "endDate": "31 January 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Espeon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Synchronize",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Psybeam",
+          "Psych Up",
+          "Psychic",
+          "Morning Sun"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Espeon  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Synchronize",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Psybeam",
+          "Psych Up",
+          "Psychic",
+          "Morning Sun"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

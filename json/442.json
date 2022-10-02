@@ -1,0 +1,33 @@
+{
+  "pokedexID": "442",
+  "species": "Spiritomb",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ミカルゲ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 61,
+        "OT": "シロナ",
+        "ID": "09286",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 61",
+        "moves": [
+          "Dark Pulse",
+          "Psychic",
+          "Silver Wind",
+          "Embargo"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Cynthia's Spiritomb",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

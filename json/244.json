@@ -1,0 +1,519 @@
+{
+  "pokedexID": "244",
+  "species": "Entei",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "042218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Stomp",
+          "Bite",
+          "Swagger",
+          "Lava Plume"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: Target (22/04-29/04)Canada - Trainer Club NewsletterChile - MicroplayPeru - Masgamers",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 April 2018",
+        "endDate": "29 April 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "042218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Stone Edge",
+          "Iron Head",
+          "Flame Charge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: Target (22/04-29/04)Canada - Trainer Club NewsletterChile - MicroplayPeru - Masgamers",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 April 2018",
+        "endDate": "29 April 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "042218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Stomp",
+          "Bite",
+          "Swagger",
+          "Lava Plume"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "4 April 2018",
+        "endDate": "25 April 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "042218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Stone Edge",
+          "Iron Head",
+          "Flame Charge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "4 April 2018",
+        "endDate": "25 April 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 앤테이 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "코리안리그",
+        "ID": "181222",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Sacred Fire",
+          "Stone Edge",
+          "Iron Head",
+          "Flame Charge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "22 December 2018",
+        "endDate": "23 December 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WIN2011",
+        "ID": "02141",
+        "ability": "Pressure",
+        "item": "Custap Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Flare Blitz",
+          "Howl",
+          "Extreme Speed",
+          "Crush Claw"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "14 February 2011",
+        "endDate": "20 February 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "GAMESTP",
+        "ID": "01171",
+        "ability": "Pressure",
+        "item": "Custap Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Flare Blitz",
+          "Howl",
+          "Extreme Speed",
+          "Crush Claw"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Giveaway",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 January 2011",
+        "endDate": "23 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WIN2011INV2011HVR2011",
+        "ID": "02141",
+        "ability": "Pressure",
+        "item": "Custap Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Flare Blitz",
+          "Howl",
+          "Extreme Speed",
+          "Crush Claw"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "14 February 2011",
+        "endDate": "20 February 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WIN2011",
+        "ID": "02141",
+        "ability": "Pressure",
+        "item": "Custap Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Flare Blitz",
+          "Howl",
+          "Extreme Speed",
+          "Crush Claw"
+        ]
+      },
+      "event": {
+        "description": "Wi-Fi",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "14 February 2011",
+        "endDate": "20 February 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エンテイ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "クラウン",
+        "ID": "06180",
+        "ability": "Pressure",
+        "item": "Custap Berry",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Movie 10. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Flare Blitz",
+          "Howl",
+          "Extreme Speed",
+          "Crush Claw"
+        ]
+      },
+      "event": {
+        "description": "Movie",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 June 2010",
+        "endDate": "30 August 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "24 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Entei ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Fire Spin",
+          "Stomp",
+          "Flamethrower",
+          "Swagger"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "pokedexID": "035",
+  "species": "Clefairy",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ピッピ  ♂",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 15,
+        "OT": "おつきみ２２",
+        "ID": "220910",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Swift",
+          "Moonblast",
+          "Zen Headbutt",
+          "Shadow Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Center Japan - Clefairy Promotion",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "3 September 2022",
+        "endDate": "11 September 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ピッピ  ♂",
+        "pokeball": "moonball",
+        "shiny": false,
+        "level": 15,
+        "OT": "おつきみ２２",
+        "ID": "220910",
+        "ability": "Cute Charm",
+        "item": "Moon Stone",
+        "pokemonDescription": "Modest Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Metronome",
+          "Moonblast",
+          "Zen Headbutt",
+          "Moonlight"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Center Japan - Clefairy Promotion",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "3 September 2022",
+        "endDate": "11 September 2022",
+        "gamesAvailable": "Sword, Shield, Brilliant Diamond, Shining Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Clefairy  ♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Jirawiwat",
+        "ID": "220618",
+        "ability": "Friend Guard",
+        "item": "Eviolite",
+        "pokemonDescription": "Bold Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Protect",
+          "Helping Hand",
+          "Follow Me",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Singapore Championships Livestream Distribution",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "18 June 2022",
+        "endDate": "19 June 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

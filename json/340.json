@@ -1,0 +1,33 @@
+{
+  "pokedexID": "340",
+  "species": "Whiscash",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ナマズン  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 51,
+        "OT": " やまもと ",
+        "ID": "03217",
+        "ability": "Oblivious",
+        "item": "Rindo Berry",
+        "pokemonDescription": "Gentle Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 51",
+        "moves": [
+          "Earthquake",
+          "Aqua Tail",
+          "Zen Headbutt",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sunday",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 March 2007",
+        "endDate": "9 April 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    }
+  ]
+}

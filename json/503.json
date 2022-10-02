@@ -1,0 +1,141 @@
+{
+  "pokedexID": "503",
+  "species": "Samurott",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Samurott  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "02105",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Razor Shell",
+          "Hold Back",
+          "Confide",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Samurott Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "10 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ダイケンキ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "プレゼント",
+        "ID": "01165",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Razor Shell",
+          "Hold Back",
+          "Confide",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro February - Samurott Distribution (Code: POKEMON503)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 January 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Samurott  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PresentRegaloGeschenk",
+        "ID": "02105",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Razor Shell",
+          "Hold Back",
+          "Confide",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Samurott Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "10 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Samurott  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Present",
+        "ID": "02105",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Razor Shell",
+          "Hold Back",
+          "Confide",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Samurott Distribution",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "10 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ダイケンキ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCF",
+        "ID": "06263",
+        "ability": "Torrent",
+        "item": "Expert Belt",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Hydro Pump",
+          "Ice Beam",
+          "Megahorn",
+          "Superpower"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center 15th Anniversary - Fukuoka",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "26 June 2013",
+        "endDate": "2 July 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

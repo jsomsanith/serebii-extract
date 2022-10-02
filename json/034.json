@@ -1,0 +1,33 @@
+{
+  "pokedexID": "034",
+  "species": "Nidoking",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ニドキング  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サカキ",
+        "ID": "180120",
+        "ability": "Poison Point",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 68",
+        "moves": [
+          "Earthquake",
+          "Poison Jab",
+          "Throat Chop",
+          "Aqua Tail"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Giovanni's Nidoking Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

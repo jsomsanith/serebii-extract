@@ -1,0 +1,490 @@
+{
+  "pokedexID": "249",
+  "species": "Lugia",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Skill Swap",
+          "Aeroblast",
+          "Extrasensory",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aeroblast",
+          "Earth Power",
+          "Psychic",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルギア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "フウラシティ",
+        "ID": "180413",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving 2018 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aeroblast",
+          "Hurricane",
+          "Defog",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Everyone's Story - Prebooking Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "13 April 2018",
+        "endDate": "12 July 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Skill Swap",
+          "Aeroblast",
+          "Extrasensory",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "110218",
+        "ability": "Pressure",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aeroblast",
+          "Earth Power",
+          "Psychic",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " November 2018",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルギア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "フウラシティ",
+        "ID": "180413",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving 2018 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aeroblast",
+          "Hurricane",
+          "Defog",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Everyone's Story - Prebooking Distribution",
+        "type": "Serial Code",
+        "location": "Taiwan",
+        "startDate": "1 November 2018",
+        "endDate": "6 December 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 루기아 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "후우라시티",
+        "ID": "181219",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving 2018 Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Aeroblast",
+          "Hurricane",
+          "Defog",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Everyone's Story - Prebooking Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "2 November 2018",
+        "endDate": "9 December 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルギア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "09075",
+        "ability": "Pressure",
+        "item": "Leftovers",
+        "pokemonDescription": "Timid Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aeroblast",
+          "Hydro Pump",
+          "Dragon Rush",
+          "Ice Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Movie Tie-in: Lugia",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 September 2015",
+        "endDate": "13 September 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルギア ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "７　ＳＰＯＴ",
+        "ID": "00711",
+        "ability": "Pressure",
+        "item": "Leftovers",
+        "pokemonDescription": "Timid Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aeroblast",
+          "Hydro Pump",
+          "Dragon Rush",
+          "Ice Beam"
+        ]
+      },
+      "event": {
+        "description": "7-11 Seven Spot Movie Tie-in: Lugia",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 August 2015",
+        "endDate": "16 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "24 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Lugia ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Rain Dance",
+          "Swift"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Lugia ",
+        "shiny": false,
+        "level": 70,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Navel Rock. Met at Lv. 70",
+        "moves": [
+          "Swift",
+          "Rain Dance",
+          "Hydro Pump",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Rocks America",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "17 September 2005",
+        "endDate": "22 October 2005",
+        "gamesAvailable": "Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ルギア ",
+        "shiny": false,
+        "level": 70,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Navel Rock. Met at Lv. 70",
+        "moves": [
+          "Swift",
+          "Rain Dance",
+          "Hydro Pump",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 July 2004",
+        "endDate": "4 September 2004",
+        "gamesAvailable": "Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

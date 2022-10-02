@@ -1,0 +1,33 @@
+{
+  "pokedexID": "854",
+  "species": "Sinistea",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Sinistea ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WCS22",
+        "ID": "220818",
+        "ability": "Cursed Body",
+        "item": "Moomoo Milk",
+        "pokemonDescription": "Any Nature.Date of Receiving WCS 2022. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Memento",
+          "Metronome",
+          "Aromatherapy",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon World Championships Distribution",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "18 August 2022",
+        "endDate": "21 August 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

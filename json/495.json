@@ -1,0 +1,33 @@
+{
+  "pokedexID": "495",
+  "species": "Snivy",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ツタージャ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 5,
+        "OT": "トウホク",
+        "ID": "12041",
+        "ability": "Overgrow",
+        "item": "Muscle Band",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Growth",
+          "Synthesis",
+          "Energy Ball",
+          "Aromatherapy"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Touhoku Opening",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "4 December 2011",
+        "endDate": "18 December 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

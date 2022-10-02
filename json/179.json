@@ -1,0 +1,87 @@
+{
+  "pokedexID": "179",
+  "species": "Mareep",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 메리프  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "완전전국도감",
+        "ID": "06055",
+        "ability": "Static",
+        "item": "Ampharosite",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Hold Back",
+          "Tackle",
+          "Thunder Wave",
+          "Thunder Shock"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS National Pokédex Guide Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "15 September 2015",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メリープ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60505",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Thunder Shock",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 6",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 April 2006",
+        "endDate": "7 May 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メリープ  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 37,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 37",
+        "moves": [
+          "Thunder",
+          "Thunder Shock",
+          "Thunder Wave",
+          "Cotton Spore"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Colosseum e-card",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "25 December 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "pokedexID": "058",
+  "species": "Growlithe",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Growlithe  ♂/♀",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 26,
+        "OT": "Teresca Roca",
+        "ID": "270222",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 26",
+        "moves": [
+          "Play Rough",
+          "Bite",
+          "Fire Fang",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Legends Arceus - Gamestop Distribution",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "25 February 2022",
+        "endDate": "13 March 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Growlithe  ♂/♀",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 26,
+        "OT": "Teresca Roca",
+        "ID": "270222",
+        "ability": "Justified",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 26",
+        "moves": [
+          "Play Rough",
+          "Bite",
+          "Fire Fang",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Legends Arceus DistributionGAME - UK/SpainMicromania - FranceGamestop - DE/ITGameMania - Netherlands",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "4 March 2022",
+        "endDate": "4 April 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 가디  ♂/♀",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Hisuiヒスイ히스이",
+        "ID": "220721",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Fire Fang",
+          "Rock Slide",
+          "Rock Smash",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "PokÃ©mon Legends Arceus Anime VOD Release Distribution",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "27 July 2022",
+        "endDate": "No End Date",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガーディ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Intimidate or Flash Fire ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Bite",
+          "Roar",
+          "Ember",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Growlithe  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 32,
+        "OT": "JEREMY",
+        "ID": "24680",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 32",
+        "moves": [
+          "Leer",
+          "Odor Sleuth",
+          "Take Down",
+          "Flame Wheel"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

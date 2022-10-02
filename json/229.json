@@ -1,0 +1,33 @@
+{
+  "pokedexID": "229",
+  "species": "Houndoom",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 헬가  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Flash Fire",
+        "item": "Houndoominite",
+        "pokemonDescription": "Timid Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flamethrower",
+          "Dark Pulse",
+          "Solar Beam",
+          "Sludge Bomb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    }
+  ]
+}

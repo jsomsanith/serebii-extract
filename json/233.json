@@ -1,0 +1,33 @@
+{
+  "pokedexID": "233",
+  "species": "Porygon2",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Porygon2 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "VGC20",
+        "ID": "200822",
+        "ability": "Download",
+        "item": "Eviolite",
+        "pokemonDescription": "Sassy Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Recover",
+          "Trick Room",
+          "Ice Beam",
+          "Thunderbolt"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Players Cup Gift - Code: PKMNPLAYERSCUP",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "22 August 2020",
+        "endDate": "23 August 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pokedexID": "145",
+  "species": "Zapdos",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WildワイルドSauvageT.SelvaggNaturSilvestre",
+        "ID": "220311",
+        "ability": "Defiant",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Thunderous Kick",
+          "Drill Peck",
+          "Reversal",
+          "Focus Energy"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon International Challenge 2022 - March Entry Gift",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "14 March 2022",
+        "endDate": "15 April 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "05026",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Discharge",
+          "Thunder Shock",
+          "Rain Dance",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "3 May 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サンダー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "03016",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Discharge",
+          "Thunder Shock",
+          "Rain Dance",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 March 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "03116",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Discharge",
+          "Thunder Shock",
+          "Rain Dance",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Legendary Bird Gift:Spain - Official Magazine #283Italy - VideoGameWorld (12/03)Belgium - FACTS (02/04-03/04)UK - Smyths Toy Stores (22/03-11/04)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "12 March 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Aldora",
+        "ID": "03116",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Discharge",
+          "Thunder Shock",
+          "Rain Dance",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "3 May 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 썬더 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "포켓몬영화",
+        "ID": "04296",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Discharge",
+          "Thunder Shock",
+          "Rain Dance",
+          "Agility"
+        ]
+      },
+      "event": {
+        "description": "Legendary Bird Gift:Olleh TV: OLLEHTVPOKEMON",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "2 May 2016",
+        "endDate": "31 July 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Detect",
+          "Drill Peck",
+          "Charge"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zapdos ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Detect",
+          "Drill Peck",
+          "Charge"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

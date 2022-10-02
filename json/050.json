@@ -1,0 +1,33 @@
+{
+  "pokedexID": "050",
+  "species": "Diglett",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 디그다  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "썬문",
+        "ID": "170502",
+        "ability": "Tangling Hair",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Mud-slap",
+          "Astonish",
+          "Growl",
+          "Metal Claw"
+        ]
+      },
+      "event": {
+        "description": "Toonverse & Pokémon Sun & Moon Collaboration - Code: NOTHAIR",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "2 May 2017",
+        "endDate": "30 June 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

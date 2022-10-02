@@ -1,0 +1,222 @@
+{
+  "pokedexID": "648",
+  "species": "Meloetta",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Worlds18",
+        "ID": "082418",
+        "ability": "Serene Grace",
+        "item": "Metronome",
+        "pokemonDescription": "Any Nature.Date of Receiving WCS 2018. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Celebrate",
+          "Relic Song",
+          "Round",
+          "Sing"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championships 2018 Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "24 August 2018",
+        "endDate": "26 August 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メロエッタ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ゼンリョク",
+        "ID": "171201",
+        "ability": "Serene Grace",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Sing",
+          "Psychic",
+          "Close Combat",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 December 2017",
+        "endDate": "30 April 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "12016",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Quick Attack",
+          "Confusion",
+          "Round",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 December 2016",
+        "endDate": "24 December 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "12016",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Quick Attack",
+          "Confusion",
+          "Round",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 December 2016",
+        "endDate": "24 December 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "SPR2013",
+        "ID": "03013",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Round",
+          "Teeter Dance",
+          "Psychic",
+          "Close Combat"
+        ]
+      },
+      "event": {
+        "description": "Gamestop (US) & EB Games (CA)",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "4 March 2013",
+        "endDate": "24 March 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "SPR2013",
+        "ID": "03013",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Round",
+          "Teeter Dance",
+          "Psychic",
+          "Close Combat"
+        ]
+      },
+      "event": {
+        "description": "GAME (UK), Toys 'R' Us (Germany), Micromania and FNAC (France)",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "22 March 2013",
+        "endDate": "19 April 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Meloetta ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "SPR2013",
+        "ID": "03013",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely Place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Round",
+          "Teeter Dance",
+          "Psychic",
+          "Close Combat"
+        ]
+      },
+      "event": {
+        "description": "Hoyt Cinemas (AU - 23/02-24/02), EB Games & JB HiFi (AU - 04/03-12/04)",
+        "type": "In-Life",
+        "location": "Oceania",
+        "startDate": "4 March 2013",
+        "endDate": "12 April 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メロエッタ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "えいがかん",
+        "ID": "07142",
+        "ability": "Serene Grace",
+        "item": "PP Max",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 12. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Quick Attack",
+          "Confusion",
+          "Round",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Kyurem VS The Sacred Swordsman Keldeo - Movie Giveaway",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 July 2012",
+        "endDate": "30 September 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

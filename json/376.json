@@ -1,0 +1,299 @@
+{
+  "pokedexID": "376",
+  "species": "Metagross",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 메타그로스 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "정수웅",
+        "ID": "180915",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Head",
+          "Ice Punch",
+          "Bullet Punch",
+          "Stomping Tantrum"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta Tie-in - Suwoong Cheong's Metagross",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "15 September 2018",
+        "endDate": "26 September 2018",
+        "gamesAvailable": "Moon, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Metagross ",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ray",
+        "ID": "05113",
+        "ability": "Clear Body",
+        "item": "Lum Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Faraway Place. Apparently had a fateful encounter at Lv. 45",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Earthquake",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC Nationals - Ray's Metagross",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "5 July 2013",
+        "endDate": "7 July 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Metagross ",
+        "shiny": false,
+        "level": 45,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 45",
+        "moves": [
+          "Psychic",
+          "Meteor Mash",
+          "Hammer Arm",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Driftveil Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "30 May 2013",
+        "endDate": "25 July 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Metagross ",
+        "shiny": false,
+        "level": 45,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 45",
+        "moves": [
+          "Iron Defense",
+          "Agility",
+          "Hammer Arm",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Driftveil Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "30 May 2013",
+        "endDate": "25 July 2013",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メタグロス ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 58,
+        "OT": "ダイゴ",
+        "ID": "11212",
+        "ability": "Clear Body",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Serious Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 58",
+        "moves": [
+          "Earthquake",
+          "Hyper Beam",
+          "Psychic",
+          "Meteor Mash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Steven's Metagross",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Metagross ",
+        "pokeball": "pokeball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ray",
+        "ID": "05113",
+        "ability": "Clear Body",
+        "item": "Lum Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Faraway Place. Apparently had a fateful encounter at Lv. 45",
+        "moves": [
+          "Meteor Mash",
+          "Zen Headbutt",
+          "Earthquake",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "okémon VGC Spring Regionals - Ray's Metagross",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "11 May 2013",
+        "endDate": "2 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Metagross ",
+        "shiny": false,
+        "level": 45,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 45",
+        "moves": [
+          "Psychic",
+          "Meteor Mash",
+          "Hammer Arm",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Driftveil Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "30 May 2013",
+        "endDate": "25 July 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Metagross ",
+        "shiny": false,
+        "level": 45,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Light Metal",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 45",
+        "moves": [
+          "Iron Defense",
+          "Agility",
+          "Hammer Arm",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Driftveil Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "30 May 2013",
+        "endDate": "25 July 2013",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メタグロス ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PC",
+        "ID": "09152",
+        "ability": "Clear Body",
+        "item": "Choice Band",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Bullet Punch",
+          "Zen Headbutt",
+          "Hammer Arm",
+          "Ice Punch"
+        ]
+      },
+      "event": {
+        "description": "Single Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 September 2012",
+        "endDate": "27 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メタグロス ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Clear Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Meteor Mash",
+          "Earthquake",
+          "Bullet Punch",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "23 April 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " メタグロス ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 62,
+        "OT": "レッド",
+        "ID": "02109",
+        "ability": "Clear Body",
+        "item": "Occa Berry",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 62",
+        "moves": [
+          "Bullet Punch",
+          "Meteor Mash",
+          "Hammer Arm",
+          "Zen Headbutt"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranch - Daisuki Club",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "10 February 2009",
+        "endDate": "23 February 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    }
+  ]
+}

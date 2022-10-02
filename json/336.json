@@ -1,0 +1,87 @@
+{
+  "pokedexID": "336",
+  "species": "Seviper",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ハブネーク  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60321",
+        "ability": "Shed Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Wrap",
+          "Lick",
+          "Bite",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 5",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 March 2006",
+        "endDate": "9 April 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Seviper  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "PCNYcPCNYd",
+        "ID": "000001-01000",
+        "ability": "Shed Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 30",
+        "moves": [
+          "Poison Tail",
+          "Screech",
+          "Glare",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "10 July 2004",
+        "endDate": "10 July 2004",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Seviper  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 18,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Shed Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 18",
+        "moves": [
+          "Wrap",
+          "Lick",
+          "Bite",
+          "Poison Tail"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Christmas",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 December 2003",
+        "endDate": "25 December 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

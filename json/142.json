@@ -1,0 +1,60 @@
+{
+  "pokedexID": "142",
+  "species": "Aerodactyl",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Aerodactyl  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Worlds19",
+        "ID": "081619",
+        "ability": "Unnerve",
+        "item": "Rare Bone",
+        "pokemonDescription": "Any Nature.Date of Receiving WCS 2019. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Celebrate",
+          "Ancient Power",
+          "Rock Polish",
+          "Wide Guard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 2019 World Championships Distribution - Washington D.C.",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "16 August 2019",
+        "endDate": "18 August 2019",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " プテラ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "キャンプ",
+        "ID": "07192",
+        "ability": "Pressure",
+        "item": "Babiri Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Steel Wing",
+          "Ice Fang",
+          "Fire Fang",
+          "Thunder Fang"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Adventure Camp",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 July 2012",
+        "endDate": "21 July 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

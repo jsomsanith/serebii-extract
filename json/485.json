@@ -1,0 +1,195 @@
+{
+  "pokedexID": "485",
+  "species": "Heatran",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Crunch",
+          "Scary Face",
+          "Lava Plume",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "16 March 2018",
+        "endDate": "30 June 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Flash Fire",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Magma Storm",
+          "Heat Wave",
+          "Earth Power",
+          "Flash Cannon"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution - Trainer Club Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "16 March 2018",
+        "endDate": "30 June 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Crunch",
+          "Scary Face",
+          "Lava Plume",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 March 2018",
+        "endDate": "24 March 2018",
+        "gamesAvailable": "Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "030118",
+        "ability": "Flash Fire",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Magma Storm",
+          "Heat Wave",
+          "Earth Power",
+          "Flash Cannon"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 March 2018",
+        "endDate": "24 March 2018",
+        "gamesAvailable": "Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Oblivia",
+        "ID": "03060",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Eruption",
+          "Magma Storm",
+          "Earth Power",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "14 October 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒードラン  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "オブリビア",
+        "ID": "03060",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Eruption",
+          "Magma Storm",
+          "Earth Power",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "18 March 2010",
+        "endDate": "17 May 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Heatran  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Oblivia",
+        "ID": "03060",
+        "ability": "Flash Fire",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Ranger. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Eruption",
+          "Magma Storm",
+          "Earth Power",
+          "Ancient Power"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Ranger: Guardian Signs",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "28 November 2010",
+        "endDate": "11 January 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

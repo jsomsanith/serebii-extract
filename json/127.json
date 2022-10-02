@@ -1,0 +1,60 @@
+{
+  "pokedexID": "127",
+  "species": "Pinsir",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Pinsir  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SUM2014",
+        "ID": "08134",
+        "ability": "Hyper Cutter or Mold Breaker ",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "X-scissor",
+          "Earthquake",
+          "Stone Edge",
+          "Return"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mega Stone Event",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "13 August 2014",
+        "endDate": "17 September 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 쁘사이저  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Moxie",
+        "item": "Pinsirite",
+        "pokemonDescription": "Jolly Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Earthquake",
+          "Swords Dance",
+          "Feint",
+          "Quick Attack"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    }
+  ]
+}

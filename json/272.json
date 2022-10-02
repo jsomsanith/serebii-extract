@@ -1,0 +1,60 @@
+{
+  "pokedexID": "272",
+  "species": "Ludicolo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Ludicolo  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "Toler",
+        "ID": "04143",
+        "ability": "Swift Swim",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Calm Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Scald",
+          "Giga Drain",
+          "Ice Beam",
+          "Sunny Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC Spring Regionals - Toler's Ludicolo",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "14 April 2013",
+        "endDate": "14 April 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ルンパッパ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Swift Swim",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fake Out",
+          "Hydro Pump",
+          "Ice Beam",
+          "Giga Drain"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "2 April 2012",
+        "endDate": "22 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

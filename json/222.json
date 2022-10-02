@@ -1,0 +1,141 @@
+{
+  "pokedexID": "222",
+  "species": "Corsola",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Corsola  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Astonish",
+          "Disable",
+          "Spite"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "5 June 2020",
+        "endDate": "11 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サニーゴ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Astonish",
+          "Disable",
+          "Spite"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "5 June 2020",
+        "endDate": "11 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Corsola  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cursed Body",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Astonish",
+          "Disable",
+          "Spite"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "5 June 2020",
+        "endDate": "11 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サニーゴ  ♀",
+        "pokeball": "ultraball",
+        "shiny": false,
+        "level": null,
+        "OT": "はじめ",
+        "ID": "180114",
+        "ability": "Hustle",
+        "item": "No Item",
+        "pokemonDescription": "Serious Nature.Date of Receiving a Pokémon TV program. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Tackle",
+          "Power Gem",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Dragon King Tournament - NicoNico Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "14 January 2018",
+        "endDate": "14 January 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " サニーゴ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Hustle or Natural Cure ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Mud Sport",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

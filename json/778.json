@@ -1,0 +1,141 @@
+{
+  "pokedexID": "778",
+  "species": "Mimikyu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Mimikyu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "PGL",
+        "ID": "102618",
+        "ability": "Disguise",
+        "item": "Rare Candy",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Mimic",
+          "Snatch",
+          "Trick",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Ultra Spooky Cup - Entry Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "13 November 2018",
+        "endDate": "20 December 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミミッキュ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "PGL",
+        "ID": "181026",
+        "ability": "Disguise",
+        "item": "Rare Candy",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Mimic",
+          "Snatch",
+          "Trick",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Ultra Spooky Cup - Entry Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "13 November 2018",
+        "endDate": "20 December 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mimikyu  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "PGL",
+        "ID": "102618",
+        "ability": "Disguise",
+        "item": "Rare Candy",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Mimic",
+          "Snatch",
+          "Trick",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Ultra Spooky Cup - Entry Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "13 November 2018",
+        "endDate": "20 December 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミミッキュ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "170922",
+        "ability": "Disguise",
+        "item": "Rare Candy",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Center. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Astonish",
+          "Play Rough",
+          "Copycat",
+          "Substitute"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Shiny Ghost Party Tie-In Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 September 2017",
+        "endDate": "16 November 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミミッキュ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "カーニバル",
+        "ID": "170814",
+        "ability": "Disguise",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Event 17. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Copycat",
+          "Baby-doll Eyes",
+          "Splash",
+          "Astonish"
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 August 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

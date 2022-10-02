@@ -1,0 +1,87 @@
+{
+  "pokedexID": "306",
+  "species": "Aggron",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 보스로라  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Rock Head",
+        "item": "Aggronite",
+        "pokemonDescription": "Brave Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Iron Head",
+          "Earthquake",
+          "Head Smash",
+          "Rock Slide"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Aggron  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Sturdy or Rock Head ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 100",
+        "moves": [
+          "Iron Tail",
+          "Protect",
+          "Metal Sound",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Halloween",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 October 2003",
+        "endDate": "31 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Aggron  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Sturdy or Rock Head ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Take Down",
+          "Iron Tail",
+          "Protect",
+          "Metal Sound"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Halloween",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 October 2003",
+        "endDate": "31 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

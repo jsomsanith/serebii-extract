@@ -1,0 +1,951 @@
+{
+  "pokedexID": "006",
+  "species": "Charizard",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Charizard  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "Leonardo",
+        "ID": "211031",
+        "ability": "Solar Power",
+        "item": "Life Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Heat Wave",
+          "Blast Burn",
+          "Hurricane",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Global Exhibition - Leonardo Bonanomi's Charizard.Code: GL0BALCHAMP2021",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "31 October 2021",
+        "endDate": "3 November 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "지우",
+        "ID": "200930",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Flamethrower",
+          "Dragon Tail",
+          "Slash",
+          "Seismic Toss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mewtwo Strikes Back EVOLUTION - Watch Gift - Ash's Charizard",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "30 September 2020",
+        "endDate": "30 September 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Bullseye",
+        "ID": "100117",
+        "ability": "Blaze",
+        "item": "Red Card",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Dragon Dance",
+          "Flare Blitz",
+          "Fly",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Charizard GX Tie-in - Target Exclusive Distribution",
+        "type": "Serial Code",
+        "location": "United States",
+        "startDate": "1 October 2017",
+        "endDate": "14 October 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "サトシ",
+        "ID": "170715",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Flamethrower",
+          "Dragon Rage",
+          "Slash",
+          "Seismic Toss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Ash's Charizard - 7-11 Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 August 2017",
+        "endDate": "20 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "コロコロ",
+        "ID": "565640",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Dragon Claw",
+          "Dragon Rage",
+          "Fly",
+          "Flare Blitz"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro April 2017 Issue - No. 1 Pokï¿½mon Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 March 2017",
+        "endDate": "14 May 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "지우",
+        "ID": "170715",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a Pokémon Movie. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Flamethrower",
+          "Dragon Rage",
+          "Slash",
+          "Seismic Toss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Pokémon Pop-Up Store Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "15 December 2017",
+        "endDate": "31 December 2017",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "04286",
+        "ability": "Solar Power",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Flare Blitz",
+          "Blast Burn",
+          "Scary Face",
+          "Fire Pledge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "28 April 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メガトウキョー",
+        "ID": "12124",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 January 2016",
+        "endDate": "31 January 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "マオ",
+        "ID": "11195",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Serious Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Flamethrower",
+          "Ember",
+          "Fire Spin",
+          "Flame Burst"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Expo Gym Event",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 November 2015",
+        "endDate": "7 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SPRING 2015",
+        "ID": "04015",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "GAME UK Distribution",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "3 April 2015",
+        "endDate": "3 July 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Glurak  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "FRÜHL. 2015 ",
+        "ID": "04015",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Germany Distribution",
+        "type": "Serial Code",
+        "location": "Germany",
+        "startDate": "1 April 2015",
+        "endDate": "3 July 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メガトウキョー",
+        "ID": "08085",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Roost"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mega Battle Festival Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "8 August 2015",
+        "endDate": "9 August 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "올레 tv",
+        "ID": "04305",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Roost"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Olleh TV Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "10 May 2015",
+        "endDate": "14 June 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メガトウキョー",
+        "ID": "12124",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Overheat",
+          "Solar Beam",
+          "Focus Blast",
+          "Hold Hands"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Mega Tokyo Opening Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 December 2014",
+        "endDate": "16 January 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "コロコロ",
+        "ID": "03154",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro March Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 March 2014",
+        "endDate": "29 August 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " リザードン  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "コロコロ",
+        "ID": "03154",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro March Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 March 2014",
+        "endDate": "29 August 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Glurak  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GAMESTOP14",
+        "ID": "08134",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "German Gamestop - Flashfire Tie-in",
+        "type": "Serial Code",
+        "location": "Germany",
+        "startDate": "1 September 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Glurak  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GAMESTOP14",
+        "ID": "08134",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "German Gamestop - Flashfire Tie-in",
+        "type": "Serial Code",
+        "location": "Germany",
+        "startDate": "1 September 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GAME 2014",
+        "ID": "07114",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution - Flashfire Tie-in",
+        "type": "In-Life",
+        "location": "United Kingdom",
+        "startDate": "11 July 2014",
+        "endDate": "10 August 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GAME 2014",
+        "ID": "07114",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution - Flashfire Tie-in",
+        "type": "In-Life",
+        "location": "United Kingdom",
+        "startDate": "11 July 2014",
+        "endDate": "10 August 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "07274",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Official Facebook Promotion",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "27 July 2014",
+        "endDate": "10 August 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "07274",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "Official Facebook Promotion",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "27 July 2014",
+        "endDate": "10 August 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "올레 tv",
+        "ID": "07264",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Town Event",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "26 July 2014",
+        "endDate": "26 July 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "올레 tv",
+        "ID": "07264",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Town Event",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "26 July 2014",
+        "endDate": "26 July 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "올레 tv",
+        "ID": "04114",
+        "ability": "Blaze",
+        "item": "Charizardite X",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Dragon Rage",
+          "Fire Fang",
+          "Air Slash",
+          "Dragon Claw"
+        ]
+      },
+      "event": {
+        "description": "Olleh TV Website Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "11 April 2014",
+        "endDate": "31 May 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 리자몽  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "올레 tv",
+        "ID": "04114",
+        "ability": "Blaze",
+        "item": "Charizardite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Fire Fang",
+          "Flame Burst",
+          "Air Slash",
+          "Inferno"
+        ]
+      },
+      "event": {
+        "description": "Olleh TV Website Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "11 April 2014",
+        "endDate": "31 May 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Netherlands",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "14 October 2006",
+        "endDate": "19 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " DRACAUFEU  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "26 September 2006",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " GLURAK  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10JAHRE",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "24 September 2006",
+        "endDate": "5 November 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANIV",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Spain",
+        "startDate": "27 June 2006",
+        "endDate": "27 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNI",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "Italy",
+        "startDate": "23 June 2006",
+        "endDate": "25 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Charizard  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10ANNIV",
+        "ID": "06227",
+        "ability": "Blaze",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Wing Attack",
+          "Slash",
+          "Dragon Rage",
+          "Fire Spin"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "UK",
+        "startDate": "10 June 2006",
+        "endDate": "10 June 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

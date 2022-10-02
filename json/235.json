@@ -1,0 +1,87 @@
+{
+  "pokedexID": "235",
+  "species": "Smeargle",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ドーブル  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ＡＤサカイ",
+        "ID": "11195",
+        "ability": "Own Tempo",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Jolly Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 40",
+        "moves": [
+          "Sketch",
+          "Fury Swipes",
+          "Seismic Toss",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Expo Gym Event",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 November 2015",
+        "endDate": "7 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Smeargle  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WORLD13",
+        "ID": "08113",
+        "ability": "Technician",
+        "item": "Silk Scarf",
+        "pokemonDescription": "Jolly Nature.Date of Receiving Worlds 2013. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "False Swipe",
+          "Spore",
+          "Mean Look",
+          "Odor Sleuth"
+        ]
+      },
+      "event": {
+        "description": "Pokémon VGC 2013 Finals - Ultimate Smeargle",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "10 August 2013",
+        "endDate": "11 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ドーブル  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60505",
+        "ability": "Own Tempo or Technician ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Sketch",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 6",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "22 April 2006",
+        "endDate": "7 May 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

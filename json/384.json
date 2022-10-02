@@ -1,0 +1,330 @@
+{
+  "pokedexID": "384",
+  "species": "Rayquaza",
+  "events": [
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "07066",
+        "ability": "Air Lock",
+        "item": "Comet Shard",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dragon Ascent",
+          "Draco Meteor",
+          "Fly",
+          "Celebrate"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Skytree Town Opening Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 July 2016",
+        "endDate": "4 September 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WHF15",
+        "ID": "01185",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An Event Site. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Twister",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Hiroshima - Repeat Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 February 2015",
+        "endDate": "29 February 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rayquaza ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Galileo",
+        "ID": "08055",
+        "ability": "Air Lock",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Ascent",
+          "Dragon Claw",
+          "Extreme Speed",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Ancient Origins - Shiny Rayquaza Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "12 August 2015",
+        "endDate": "14 September 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "コロコロ",
+        "ID": "03145",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An Event Site. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Twister",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 March 2015",
+        "endDate": "12 April 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WHF15",
+        "ID": "01185",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An Event Site. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Twister",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "World Hobby Fair '15 Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 January 2015",
+        "endDate": "8 February 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rayquaza ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "GalileoGalilée",
+        "ID": "08055",
+        "ability": "Air Lock",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Ascent",
+          "Dragon Claw",
+          "Extreme Speed",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Ancient Origins - Shiny Rayquaza Distribution(Smyths - UK 24/8-20/9)(?? - Germany - 31/8-28/9)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "24 August 2015",
+        "endDate": "28 September 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rayquaza ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Nintendo HK",
+        "ID": "09115",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An Event Site. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Dragon Dance",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Nintendo Hong Kong Shiny Rayquaza Distribution",
+        "type": "Serial Code",
+        "location": "Hong Kong",
+        "startDate": "11 September 2015",
+        "endDate": "31 October 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rayquaza ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Galileo",
+        "ID": "08055",
+        "ability": "Air Lock",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Ascent",
+          "Dragon Claw",
+          "Extreme Speed",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "EB Games Shiny Rayquaza Distribution",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "10 August 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Rayquaza ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "SG Summer'15",
+        "ID": "03145",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving An Event Site. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Twister",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Maxsoft Distribution",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "6 May 2015",
+        "endDate": "31 July 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 레쿠쟈 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "포켓몬타운15 ",
+        "ID": "05025",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Thunder",
+          "Twister",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Spring Carnival",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "2 May 2015",
+        "endDate": "5 May 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ノブナガ",
+        "ID": "03172",
+        "ability": "Air Lock",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Faraway Place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Dragon Pulse",
+          "Ancient Power",
+          "Outrage",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon + Nobunaga's Ambition Tie-in",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "17 March 2012",
+        "endDate": "16 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " レックウザ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "せんきょ",
+        "ID": "02102",
+        "ability": "Air Lock",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Extreme Speed",
+          "Hyper Beam",
+          "Dragon Pulse",
+          "V-create"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Popularity Poll Winner",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 February 2012",
+        "endDate": "27 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

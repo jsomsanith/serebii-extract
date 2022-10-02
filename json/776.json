@@ -1,0 +1,87 @@
+{
+  "pokedexID": "776",
+  "species": "Turtonator",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バクガメス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "カキ",
+        "ID": "170626",
+        "ability": "Shell Armor",
+        "item": "Moomoo Milk",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon animated show. Apparently had a fateful encounter at Lv. 27",
+        "moves": [
+          "Flamethrower",
+          "Shell Trap",
+          "Dragon Tail",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Festival 2017 - Kiawe's Turtonator",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 June 2017",
+        "endDate": "4 July 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " バクガメス  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokémon Center. Hatched at Location",
+        "moves": [
+          "Flamethrower",
+          "Body Slam",
+          "Wide Guard",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Easter Egg Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2017",
+        "endDate": "9 April 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 폭거북스  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shell Armor",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\na lovely place. Hatched at Location",
+        "moves": [
+          "Flamethrower",
+          "Body Slam",
+          "Wide Guard",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pop-up Store Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "29 April 2017",
+        "endDate": "7 May 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

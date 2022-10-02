@@ -1,0 +1,301 @@
+{
+  "pokedexID": "393",
+  "species": "Piplup",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Piplup  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Defiant",
+        "item": "No Item",
+        "pokemonDescription": "Modest Nature.Date of Receiving Pokï¿½mon HOME. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Pound",
+          "Growl",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon HOME Distribution - Deposit from Brilliant Diamond & Shining Pearl",
+        "type": "Wi-Fi",
+        "location": "Global",
+        "startDate": "18 May 2022",
+        "endDate": "No End Date",
+        "gamesAvailable": "HOME"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂/♀",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 15,
+        "OT": "プロポチャ",
+        "ID": "220205",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Bubble",
+          "Baby-doll Eyes",
+          "Roost",
+          "Double-edge"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Center Mega Tokyo, Osaka & Kanazawa - Pocha Marche Distribution",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "5 February 2022",
+        "endDate": "24 February 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "プロポチャ",
+        "ID": "220205",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Hydro Pump",
+          "Pluck",
+          "Work Up",
+          "Attract"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Center Mega Tokyo, Osaka & Kanazawa - Pocha Marche Distribution",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "5 February 2022",
+        "endDate": "24 February 2022",
+        "gamesAvailable": "Brilliant Diamond, Shining Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 팽도리  ♂",
+        "pokeball": "legendspokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "빛나",
+        "ID": "",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Liquidation",
+          "Bubble",
+          "Water Pulse",
+          "Aerial Ace"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Giratina & The Sky Warrior - Dawn's Piplup Pokémon Store Distribution",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "1 June 2022",
+        "endDate": "31 July 2022",
+        "gamesAvailable": "Legends: Arceus"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 팽도리  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "빛나",
+        "ID": "",
+        "ability": "Torrent",
+        "item": "Everstone",
+        "pokemonDescription": "Hardy Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Hydro Pump",
+          "Bubble Beam",
+          "Whirlpool",
+          "Peck"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Giratina & The Sky Warrior - Dawn's Piplup Pokémon Store Distribution",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "1 June 2022",
+        "endDate": "31 July 2022",
+        "gamesAvailable": "Brilliant Diamond, Shining Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "マコト",
+        "ID": "170715",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": "Hardy Nature.Date of Receiving 2017 Pokémon Movie. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Hydro Pump",
+          "Bubble Beam",
+          "Whirlpool",
+          "Drill Peck"
+        ]
+      },
+      "event": {
+        "description": "Pokémon I Choose You - Makoto's Piplup - 7-11 Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "1 August 2017",
+        "endDate": "20 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "はままつちょ",
+        "ID": "12074",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 7",
+        "moves": [
+          "Pound",
+          "Growl",
+          "Return",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Tokyo - Closing Commemoration",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 December 2014",
+        "endDate": "6 December 2014",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Piplup  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Defiant",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Pound",
+          "Growl",
+          "Bubble",
+          "Feather Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Black 2 & White 2 - Walmart Promotion",
+        "type": "Global Link",
+        "location": "USA",
+        "startDate": "6 December 2012",
+        "endDate": "31 July 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "リサイタル",
+        "ID": "07202",
+        "ability": "Torrent",
+        "item": "Metronome",
+        "pokemonDescription": "Any Nature.Date of Receiving Wi-Fi Gift. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Sing",
+          "Round",
+          "Feather Dance",
+          "Peck"
+        ]
+      },
+      "event": {
+        "description": "Meloetta's Sparkling Recital Wi-Fi Giveaway",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "20 July 2012",
+        "endDate": "9 August 2012",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポッチャマ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "サーチャー",
+        "ID": "04282",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Hydro Pump",
+          "Feather Dance",
+          "Water Sport",
+          "Peck"
+        ]
+      },
+      "event": {
+        "description": "BW Searcher 2012",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "28 April 2012",
+        "endDate": "6 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ポッチャマ  ♂",
+        "shiny": false,
+        "level": 10,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Defiant",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 10",
+        "moves": [
+          "Pound",
+          "Growl",
+          "Bubble",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Pia",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "29 October 2010",
+        "endDate": "30 November 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "pokedexID": "300",
+  "species": "Skitty",
+  "events": [
+    {
+      "pokemon": {
+        "name": " エネコ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60321",
+        "ability": "Cute Charm or Normalize ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Growl",
+          "Tackle",
+          "Tail Whip",
+          "Attract"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 5",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "21 March 2006",
+        "endDate": "9 April 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エネコ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cute Charm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Growl",
+          "Tackle",
+          "Tail Whip",
+          "Rollout"
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Skitty  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cute Charm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "USA",
+        "startDate": "12 July 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Skitty  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cute Charm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "14 May 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Skitty  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cute Charm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Australia",
+        "startDate": "16 July 2004",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エネコ  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Cute Charm",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Tail Whip",
+          "Pay Day"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Box",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "30 May 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

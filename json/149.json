@@ -1,0 +1,408 @@
+{
+  "pokedexID": "149",
+  "species": "Dragonite",
+  "events": [
+    {
+      "pokemon": {
+        "name": " カイリュー  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "200126",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Jolly Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Dragon Claw",
+          "Draco Meteor",
+          "Hurricane",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Masters Eight Tournament Tie-in. Code: UM1N0KESH1N",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 August 2022",
+        "endDate": "8 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Lance",
+        "ID": "03046",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 62",
+        "moves": [
+          "Agility",
+          "Slam",
+          "Barrier",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Kanto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "15 March 2016",
+        "endDate": "27 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイリュー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ワタル",
+        "ID": "03046",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 62",
+        "moves": [
+          "Agility",
+          "Slam",
+          "Barrier",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Kanto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 March 2016",
+        "endDate": "28 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "LancePeterSiegfried",
+        "ID": "03046",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 62",
+        "moves": [
+          "Agility",
+          "Slam",
+          "Barrier",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Kanto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "15 March 2016",
+        "endDate": "27 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 망나뇽  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "목호",
+        "ID": "03046",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 62",
+        "moves": [
+          "Agility",
+          "Slam",
+          "Barrier",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Kanto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "15 March 2016",
+        "endDate": "28 April 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "JUN2015",
+        "ID": "06225",
+        "ability": "Multiscale",
+        "item": "Lum Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 55",
+        "moves": [
+          "Dragon Dance",
+          "Outrage",
+          "Hurricane",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Distribution - Roaring Skies Celebration",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "22 June 2015",
+        "endDate": "12 July 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Dragonite  ♂",
+        "shiny": false,
+        "level": 55,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 55",
+        "moves": [
+          "Dragon Rush",
+          "Safeguard",
+          "Wing Attack",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Nimbasa Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "2 April 2013",
+        "endDate": "27 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイリュー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ワタル",
+        "ID": "11219",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Brave Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fire Blast",
+          "Safeguard",
+          "Outrage",
+          "Hyper Beam"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Lance's Dragonite",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  カイリュー  ♂",
+        "shiny": false,
+        "level": 55,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 55",
+        "moves": [
+          "Dragon Rush",
+          "Safeguard",
+          "Wing Attack",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Best Wishes Series 2 Episode N - Iris' Dragonite",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "14 March 2013",
+        "endDate": "25 March 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Dragonite  ♂",
+        "shiny": false,
+        "level": 55,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Multiscale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 55",
+        "moves": [
+          "Dragon Rush",
+          "Safeguard",
+          "Wing Attack",
+          "Extreme Speed"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Nimbasa Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "25 April 2013",
+        "endDate": "27 June 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイリュー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PC",
+        "ID": "09152",
+        "ability": "Multiscale",
+        "item": "Lum Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Extreme Speed",
+          "Fire Punch",
+          "Dragon Dance",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Single Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 September 2012",
+        "endDate": "27 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "TRU",
+        "ID": "11088",
+        "ability": "Inner Focus",
+        "item": "Yache Berry",
+        "pokemonDescription": "Mild Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Draco Meteor",
+          "Thunderbolt",
+          "Outrage",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 November 2008",
+        "endDate": "9 November 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カイリュー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さいきょう",
+        "ID": "01158",
+        "ability": "Inner Focus",
+        "item": "Yache Berry",
+        "pokemonDescription": "Mild Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Draco Meteor",
+          "Thunderbolt",
+          "Outrage",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Strongest Pokémon - 4th",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 January 2008",
+        "endDate": "14 February 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Safeguard",
+          "Wing Attack",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Dragonite  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Agility",
+          "Safeguard",
+          "Wing Attack",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

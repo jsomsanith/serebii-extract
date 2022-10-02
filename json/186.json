@@ -1,0 +1,33 @@
+{
+  "pokedexID": "186",
+  "species": "Politoed",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ニョロトノ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ヤマモト",
+        "ID": "09293",
+        "ability": "Drizzle",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Calm Nature.Date of Receiving Gear Station. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Scald",
+          "Ice Beam",
+          "Perish Song",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Smash Yamamoto's Politoed - Pokémon Center Giveaway",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "29 September 2013",
+        "endDate": "6 October 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

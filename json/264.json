@@ -1,0 +1,60 @@
+{
+  "pokedexID": "264",
+  "species": "Linoone",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 직구리  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK15",
+        "ID": "03055",
+        "ability": "Pickup or Gluttony ",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Extreme Speed",
+          "Helping Hand",
+          "Baby-doll Eyes",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Series Qualification Tournament - Korea Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "12 March 2015",
+        "endDate": "31 May 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " マッスグマ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ジャンフェス",
+        "ID": "12204",
+        "ability": "Pickup or Gluttony ",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Extreme Speed",
+          "Helping Hand",
+          "Baby-doll Eyes",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Jump Festa 2015 Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 December 2014",
+        "endDate": "20 December 2014",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

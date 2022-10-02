@@ -1,0 +1,114 @@
+{
+  "pokedexID": "160",
+  "species": "Feraligatr",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Feraligatr  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sheer Force",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ice Punch",
+          "Crunch",
+          "Waterfall",
+          "Screech"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "North America",
+        "startDate": "27 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " オーダイル  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sheer Force",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ice Punch",
+          "Crunch",
+          "Waterfall",
+          "Screech"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "27 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Feraligatr  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sheer Force",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ice Punch",
+          "Crunch",
+          "Waterfall",
+          "Screech"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "27 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Feraligatr  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Sheer Force",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Ice Punch",
+          "Crunch",
+          "Waterfall",
+          "Screech"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Oceania",
+        "startDate": "27 February 2015",
+        "endDate": "30 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

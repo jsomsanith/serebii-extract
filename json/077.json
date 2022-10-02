@@ -1,0 +1,87 @@
+{
+  "pokedexID": "077",
+  "species": "Ponyta",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Ponyta  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Anticipation",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Confusion",
+          "Fairy Wind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "29 May 2020",
+        "endDate": "4 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ポニータ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Anticipation",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Confusion",
+          "Fairy Wind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "29 May 2020",
+        "endDate": "4 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Ponyta  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 15,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Anticipation",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving an online present. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Tackle",
+          "Growl",
+          "Confusion",
+          "Fairy Wind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sword & Shield ",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "29 May 2020",
+        "endDate": "4 June 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

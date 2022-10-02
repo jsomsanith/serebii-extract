@@ -1,0 +1,33 @@
+{
+  "pokedexID": "262",
+  "species": "Mightyena",
+  "events": [
+    {
+      "pokemon": {
+        "name": " グラエナ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "アオギリ",
+        "ID": "180120",
+        "ability": "Intimidate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 64",
+        "moves": [
+          "Crunch",
+          "Fire Fang",
+          "Ice Fang",
+          "Thunder Fang"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Archie's Mightyena Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

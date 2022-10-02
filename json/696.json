@@ -1,0 +1,141 @@
+{
+  "pokedexID": "696",
+  "species": "Tyrunt",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Tyrunt  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "01235",
+        "ability": "Sturdy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Roar",
+          "Stomp"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Battle of Hoenn Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "17 February 2015",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " チゴラス  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "01235",
+        "ability": "Sturdy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Roar",
+          "Stomp"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Battle of Hoenn Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 February 2015",
+        "endDate": "1 May 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tyrunt  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "01235",
+        "ability": "Sturdy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Roar",
+          "Stomp"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Battle of Hoenn Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "17 February 2015",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tyrunt  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "01235",
+        "ability": "Sturdy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Roar",
+          "Stomp"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Battle of Hoenn Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "17 February 2015",
+        "endDate": "30 April 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 티고라스  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "PGL",
+        "ID": "01235",
+        "ability": "Sturdy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Tail Whip",
+          "Tackle",
+          "Roar",
+          "Stomp"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS Battle of Hoenn Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "17 February 2015",
+        "endDate": "1 May 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

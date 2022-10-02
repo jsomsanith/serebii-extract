@@ -1,0 +1,33 @@
+{
+  "pokedexID": "332",
+  "species": "Cacturne",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Cacturne  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 45,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Sand Veil",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 45",
+        "moves": [
+          "Ingrain",
+          "Feint Attack",
+          "Spikes",
+          "Needle Arm"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Monster Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "18 October 2003",
+        "endDate": "24 October 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

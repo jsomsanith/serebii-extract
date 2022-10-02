@@ -1,0 +1,33 @@
+{
+  "pokedexID": "620",
+  "species": "Mienshao",
+  "events": [
+    {
+      "pokemon": {
+        "name": " コジョンド  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "フラダリ",
+        "ID": "180120",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 65",
+        "moves": [
+          "Fake Out",
+          "Dual Chop",
+          "High Jump Kick",
+          "U-turn"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Lysandre's Mienshao Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

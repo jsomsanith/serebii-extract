@@ -1,0 +1,33 @@
+{
+  "pokedexID": "563",
+  "species": "Cofagrigus",
+  "events": [
+    {
+      "pokemon": {
+        "name": " デスカーン  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ゲーチス",
+        "ID": "180120",
+        "ability": "Mummy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Will-o-wisp",
+          "Shadow Ball",
+          "Power Split",
+          "Dark Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Ghetsis' Cofagrigus Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

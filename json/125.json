@@ -1,0 +1,141 @@
+{
+  "pokedexID": "125",
+  "species": "Electabuzz",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Electabuzz  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SPRING 2014",
+        "ID": "04014",
+        "ability": "Vital Spirit",
+        "item": "Electirizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Low Kick",
+          "Shock Wave",
+          "Light Screen",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "GAME Distribution Event (UK, Spain, France)FNAC Distribution (Portugal)GameMania (NL)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 April 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Electabuzz  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "SPRING 2014",
+        "ID": "04014",
+        "ability": "Vital Spirit",
+        "item": "Electirizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Lovely place. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Low Kick",
+          "Shock Wave",
+          "Light Screen",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "EB Games, JB Hifi & Target Distribution Event",
+        "type": "Serial Code",
+        "location": "Australia",
+        "startDate": "4 April 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エレブー  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "めいじろうおおくまほうせいめいがくセントポルせいしゃこまざわはくもんYNUとうかいミカエルいちだいまちかねすえかわロンクーもみじ",
+        "ID": "10100",
+        "ability": "Static",
+        "item": "Electirizer",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Low Kick",
+          "Swift",
+          "Shock Wave",
+          "Light Screen"
+        ]
+      },
+      "event": {
+        "description": "Trade for Evolution!",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 October 2010",
+        "endDate": "28 November 2010",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エレブー  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "フェスタ",
+        "ID": "11256",
+        "ability": "Static",
+        "item": "Electirizer",
+        "pokemonDescription": "Naughty Nature.Date of Receiving Pokémon Festa 06. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Low Kick",
+          "Shock Wave",
+          "Light Screen",
+          "Thunder Punch"
+        ]
+      },
+      "event": {
+        "description": "PokéFesta",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "25 November 2006",
+        "endDate": "31 January 2007",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " エレブー  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Static",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Quick Attack",
+          "Leer",
+          "Thunder Punch",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

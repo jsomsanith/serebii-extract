@@ -1,0 +1,33 @@
+{
+  "pokedexID": "131",
+  "species": "Lapras",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ラプラス  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Water Absorb or Shell Armor  or Hydration ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokï¿½mon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Surf",
+          "Ice Beam",
+          "Ancient Power",
+          "Bulldoze"
+        ]
+      },
+      "event": {
+        "description": "World Hobby Fair - Max Raid Battle Experience Corner",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "19 January 2020",
+        "endDate": "21 January 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

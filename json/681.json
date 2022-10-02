@@ -1,0 +1,33 @@
+{
+  "pokedexID": "681",
+  "species": "Aegislash",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Aegislash  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WORLD14",
+        "ID": "08164",
+        "ability": "Stance Change",
+        "item": "Weakness Policy",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Worlds 2014. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Wide Guard",
+          "King's Shield",
+          "Shadow Ball",
+          "Flash Cannon"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championships 2014 - Washington D.C.",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "16 August 2014",
+        "endDate": "17 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pokedexID": "721",
+  "species": "Volcanion",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Volcanion ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "Mythical22",
+        "ID": "220909",
+        "ability": "Water Absorb",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Steam Eruption",
+          "Flare Blitz",
+          "Incinerate",
+          "Haze"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Mythical DistributionUK - GAMEFrance - Micromania",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "9 September 2022",
+        "endDate": "30 September 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 볼케니온 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "어드벤처",
+        "ID": "210426",
+        "ability": "Water Absorb",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Steam Eruption",
+          "Flare Blitz",
+          "Incinerate",
+          "Haze"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "26 April 2021",
+        "endDate": "31 October 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ボルケニオン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 60,
+        "OT": "ゲッチャレ",
+        "ID": "201120",
+        "ability": "Water Absorb",
+        "item": "No Item",
+        "pokemonDescription": " Nature.Date of Receiving Pokï¿½mon Event. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Steam Eruption",
+          "Flare Blitz",
+          "Incinerate",
+          "Haze"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mythical Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 November 2020",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Volcanion ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Helen",
+        "ID": "10016",
+        "ability": "Water Absorb",
+        "item": "Assault Vest",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Steam Eruption",
+          "Overheat",
+          "Hydro Pump",
+          "Explosion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion and the Mechanical Marvel Tie-In - Gamestop (US)",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "10 October 2016",
+        "endDate": "31 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ボルケニオン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ネーベル",
+        "ID": "04166",
+        "ability": "Water Absorb",
+        "item": "Rage Candy Bar",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 16. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Steam Eruption",
+          "Overheat",
+          "Hydro Pump",
+          "Mist"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion & The Ingenious Magearna Prebooking Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 April 2016",
+        "endDate": "30 September 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Volcanion ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Helen",
+        "ID": "10016",
+        "ability": "Water Absorb",
+        "item": "Assault Vest",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Steam Eruption",
+          "Overheat",
+          "Hydro Pump",
+          "Explosion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion and the Mechanical Marvel Tie-In - Gamestop (IT/DK/FI)Mï¿½ller (Germany)Gamestop, Neo Tokyo, Gamzone and Spillsjappa (Norway)Bart Smit, Intertoys & ToysXL (NL) Dreamland & Broze et Fun (BE)GAME (UK)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "1 October 2016",
+        "endDate": "30 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Volcanion ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Nebel",
+        "ID": "11036",
+        "ability": "Water Absorb",
+        "item": "Assault Vest",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Steam Eruption",
+          "Overheat",
+          "Hydro Pump",
+          "Explosion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion and the Mechanical Marvel Tie-In",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "11 November 2016",
+        "endDate": "31 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Volcanion ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Helen",
+        "ID": "10016",
+        "ability": "Water Absorb",
+        "item": "Assault Vest",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Steam Eruption",
+          "Overheat",
+          "Hydro Pump",
+          "Explosion"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion and the Mechanical Marvel Tie-In - EBGames",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "10 October 2016",
+        "endDate": "30 October 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

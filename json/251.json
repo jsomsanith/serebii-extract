@@ -1,0 +1,627 @@
+{
+  "pokedexID": "251",
+  "species": "Celebi",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Jungle",
+        "ID": "211006",
+        "ability": "Natural Cure",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Quirky Nature.Date of Receiving a Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Magical Leaf",
+          "Future Sight",
+          "Life Dew",
+          "Heal Bell"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Secrets of the Jungle",
+        "type": "Serial Code",
+        "location": "North AmericaEurope",
+        "startDate": "7 October 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 세레비 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "???",
+        "ID": "???",
+        "ability": "Natural Cure",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Quirky Nature.Date of Receiving 2020 Pokémon Movie. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Magical Leaf",
+          "Future Sight",
+          "Life Dew",
+          "Heal Bell"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Coco - Distribution",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "15 September 2021",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "オコヤのもりJungleGinglaDschungelSelva",
+        "ID": "200807",
+        "ability": "Natural Cure",
+        "item": "Lucky Egg",
+        "pokemonDescription": "Quirky Nature.Date of Receiving 2020 Pokï¿½mon Movie. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Magical Leaf",
+          "Future Sight",
+          "Life Dew",
+          "Heal Bell"
+        ]
+      },
+      "event": {
+        "description": "Pokémon the Movie Coco - Prebooking Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "7 August 2020",
+        "endDate": "24 December 2020",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ilex",
+        "ID": "101500",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto Region. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gold & Silver - Special Purchase Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "22 September 2017",
+        "endDate": "21 September 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ウバメ",
+        "ID": "112199",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto Region. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gold & Silver - Special Purchase Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "22 September 2017",
+        "endDate": "21 September 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ilex",
+        "ID": "040601",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto Region. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gold & Silver - Special Purchase Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "22 September 2017",
+        "endDate": "21 September 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "??",
+        "ID": "??",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto Region. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gold & Silver - Special Purchase Gift",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "22 September 2017",
+        "endDate": "21 September 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 세레비 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "너도밤나무",
+        "ID": "042402",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto Region. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Gold & Silver - Special Purchase Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "22 September 2017",
+        "endDate": "28 September 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "03016",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Confusion",
+          "Recover",
+          "Heal Bell",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "1 March 2016",
+        "endDate": "24 March 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "03016",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Confusion",
+          "Recover",
+          "Heal Bell",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 March 2016",
+        "endDate": "24 March 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "GF",
+        "ID": "03016",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Confusion",
+          "Recover",
+          "Heal Bell",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon 20th Anniversary",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "1 March 2016",
+        "endDate": "24 March 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "luxuryball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Recover",
+          "Heal Bell",
+          "Safeguard",
+          "Hold Back"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "North America",
+        "startDate": "4 February 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "luxuryball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Recover",
+          "Heal Bell",
+          "Safeguard",
+          "Hold Back"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "4 February 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "luxuryball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Recover",
+          "Heal Bell",
+          "Safeguard",
+          "Hold Back"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Oceania",
+        "startDate": "4 February 2014",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "luxuryball",
+        "shiny": false,
+        "level": null,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Link. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Recover",
+          "Heal Bell",
+          "Safeguard",
+          "Hold Back"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Bank Distribution",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "25 December 2013",
+        "endDate": "30 September 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2011",
+        "ID": "02211",
+        "ability": "Natural Cure",
+        "item": "Jaboca Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Recover",
+          "Nasty Plot",
+          "Healing Wish"
+        ]
+      },
+      "event": {
+        "description": "Gamestop Giveaway ",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "21 February 2011",
+        "endDate": "7 March 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2011",
+        "ID": "02211",
+        "ability": "Natural Cure",
+        "item": "Jaboca Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Recover",
+          "Nasty Plot",
+          "Healing Wish"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Black & White Tour",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "5 February 2011",
+        "endDate": "20 March 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "WIN2011INV2011HVR2011",
+        "ID": "01211",
+        "ability": "Natural Cure",
+        "item": "Jaboca Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Recover",
+          "Nasty Plot",
+          "Healing Wish"
+        ]
+      },
+      "event": {
+        "description": "GAME - UK (19/02-27/02)GAME - Spain & Portugal (01/02 - 03/03)Spaceworld - Norway (14/02 - 04/03)Gamestop & Toys 'R' Us - Denmark (14/02 - 04/03)Black & White Tour - Germany (14/02 - 27/02)GAME - France (01/02 - 03/03)Fnac-Stores - Belgium (26/02)",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "1 February 2011",
+        "endDate": "4 March 2011",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "えいがかん",
+        "ID": "07100",
+        "ability": "Natural Cure",
+        "item": "Jaboca Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 10. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Leaf Storm",
+          "Recover",
+          "Nasty Plot",
+          "Healing Wish"
+        ]
+      },
+      "event": {
+        "description": "Movie",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "10 July 2010",
+        "endDate": "30 September 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Celebi ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "00010",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Ancient Power",
+          "Future Sight",
+          "Baton Pass",
+          "Perish Song"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "ミツリン",
+        "ID": "60720",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Leech Seed",
+          "Recover",
+          "Heal Bell",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Jungle Tours",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 July 2006",
+        "endDate": "3 September 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 30,
+        "OT": "ポケパ－ク",
+        "ID": "60623",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 30",
+        "moves": [
+          "Heal Bell",
+          "Safeguard",
+          "Ancient Power",
+          "Future Sight"
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Taiwan",
+        "startDate": "23 June 2006",
+        "endDate": "24 September 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " セレビィ ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "アゲト",
+        "ID": "31121",
+        "ability": "Natural Cure",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Confusion",
+          "Recover",
+          "Heal Bell",
+          "Safeguard"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Colosseum Bonus Disc",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "21 November 2003",
+        "endDate": "No End Date",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

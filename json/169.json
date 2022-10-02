@@ -1,0 +1,60 @@
+{
+  "pokedexID": "169",
+  "species": "Crobat",
+  "events": [
+    {
+      "pokemon": {
+        "name": " クロバット  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "マツブサ",
+        "ID": "180120",
+        "ability": "Inner Focus",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 64",
+        "moves": [
+          "Air Slash",
+          "Toxic",
+          "Dark Pulse",
+          "Sludge Bomb"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center/Store - Maxie's Crobat Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "20 January 2018",
+        "endDate": "11 March 2018",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Crobat  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 30,
+        "OT": "WORLD10",
+        "ID": "08150",
+        "ability": "Inner Focus",
+        "item": "Life Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 30",
+        "moves": [
+          "Heat Wave",
+          "Air Slash",
+          "Sludge Bomb",
+          "Super Fang"
+        ]
+      },
+      "event": {
+        "description": "World's Championship",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "15 August 2010",
+        "endDate": "15 August 2010",
+        "gamesAvailable": "Diamond, Pearl, Platinum, HeartGold, SoulSilver"
+      }
+    }
+  ]
+}

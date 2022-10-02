@@ -1,0 +1,276 @@
+{
+  "pokedexID": "718",
+  "species": "Zygarde",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "060218",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Land's Wrath",
+          "Glare",
+          "Safeguard",
+          "Dragon Breath"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "1 June 2018",
+        "endDate": "24 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "060218",
+        "ability": "Aura Break",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thousand Arrows",
+          "Outrage",
+          "Extreme Speed",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "1 June 2018",
+        "endDate": "24 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "060218",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Land's Wrath",
+          "Glare",
+          "Safeguard",
+          "Dragon Breath"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 June 2018",
+        "endDate": "22 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "060218",
+        "ability": "Aura Break",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thousand Arrows",
+          "Outrage",
+          "Extreme Speed",
+          "Dragon Dance"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "1 June 2018",
+        "endDate": "22 June 2018",
+        "gamesAvailable": "Sun, Moon, Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 지가르데 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "제너레이션즈",
+        "ID": "180620",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Crunch",
+          "Earthquake",
+          "Camouflage",
+          "Dragon Pulse"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Generations Tie-In Event",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "20 June 2018",
+        "endDate": "31 July 2018",
+        "gamesAvailable": "Moon, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XYZ",
+        "ID": "05026",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Land's Wrath",
+          "Extreme Speed",
+          "Glare",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Fates Collide Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "29 April 2016",
+        "endDate": "8 May 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "DescartesCartesio",
+        "ID": "05026",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Land's Wrath",
+          "Extreme Speed",
+          "Glare",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "29 April 2016",
+        "endDate": "26 May 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zygarde ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Descartes",
+        "ID": "05026",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Land's Wrath",
+          "Extreme Speed",
+          "Glare",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Distribution",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "29 April 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 지가르데 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "03196",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Land's Wrath",
+          "Extreme Speed",
+          "Glare",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in -Distribution.",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "19 March 2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ジガルデ ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "11125",
+        "ability": "Aura Break",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Land's Wrath",
+          "Extreme Speed",
+          "Glare",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in Distribution. Code: MEGAMEGA",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "12 November 2015",
+        "endDate": "12 January 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

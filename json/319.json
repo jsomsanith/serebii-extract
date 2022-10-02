@@ -1,0 +1,60 @@
+{
+  "pokedexID": "319",
+  "species": "Sharpedo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " サメハダー  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "アオギリ",
+        "ID": "11214",
+        "ability": "Rough Skin",
+        "item": "Sharpedonite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 43",
+        "moves": [
+          "Scary Face",
+          "Slash",
+          "Poison Fang",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Boss Pokémon Distribution - Archie's Sharpedo",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "1 October 2016",
+        "endDate": "11 November 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Sharpedo  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WORLD15",
+        "ID": "08215",
+        "ability": "Speed Boost",
+        "item": "Sharpedonite",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Worlds 2015. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Aqua Jet",
+          "Crunch",
+          "Ice Fang",
+          "Destiny Bond"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championships 2015",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "21 August 2015",
+        "endDate": "23 August 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

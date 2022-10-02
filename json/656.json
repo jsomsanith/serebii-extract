@@ -1,0 +1,33 @@
+{
+  "pokedexID": "656",
+  "species": "Froakie",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ケロマツ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "はままつちょ",
+        "ID": "12074",
+        "ability": "Torrent",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving PC Tokyo. Apparently had a fateful encounter at Lv. 7",
+        "moves": [
+          "Pound",
+          "Growl",
+          "Bubble",
+          "Return"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Tokyo - Closing Commemoration",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "7 December 2014",
+        "endDate": "7 December 2014",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

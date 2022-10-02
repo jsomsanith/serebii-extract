@@ -1,0 +1,141 @@
+{
+  "pokedexID": "241",
+  "species": "Miltank",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Miltank  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Whitney",
+        "ID": "05276",
+        "ability": "Scrappy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto region. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Rollout",
+          "Attract",
+          "Stomp",
+          "Milk Drink"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Johto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "7 June 2016",
+        "endDate": "31 July 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミルタンク  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "アカネ",
+        "ID": "05276",
+        "ability": "Scrappy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto region. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Rollout",
+          "Attract",
+          "Stomp",
+          "Milk Drink"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Johto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "7 June 2016",
+        "endDate": "1 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Miltank  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WhitneyBlancheBiankaChiaraBlanca",
+        "ID": "05276",
+        "ability": "Scrappy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto region. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Rollout",
+          "Attract",
+          "Stomp",
+          "Milk Drink"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Johto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "7 June 2016",
+        "endDate": "1 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Miltank  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Whitney",
+        "ID": "05276",
+        "ability": "Scrappy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto region. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Rollout",
+          "Attract",
+          "Stomp",
+          "Milk Drink"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Johto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "7 June 2016",
+        "endDate": "1 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 밀탱크  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "꼭두",
+        "ID": "05276",
+        "ability": "Scrappy",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Johto region. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Rollout",
+          "Attract",
+          "Stomp",
+          "Milk Drink"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Johto Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "7 June 2016",
+        "endDate": "1 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

@@ -2,25 +2,25 @@ import fs from 'fs';
 import path from 'path';
 import fetch from 'node-fetch';
 
-const TARGET_HTML_PATH = './html';
-const SEREBII_EVENT_URL_TEMPLATE = 'https://www.serebii.net/events/dex/{pokedexId}.shtml';
-const PLACEHOLDER = '{pokedexId}';
-const MAX_POKEDEX_ID = 898;
+const SEREBII_EVENT_URL_TEMPLATE = 'https://www.serebii.net/events/dex/{pokedexID}.shtml';
+const PLACEHOLDER = '{pokedexID}';
+export const EVENT_HTML_PATH = './html';
+export const MAX_POKEDEX_ID = 898;
 
 (async () => {
-	if (!fs.existsSync(TARGET_HTML_PATH)) {
-		fs.mkdirSync(TARGET_HTML_PATH);
+	if (!fs.existsSync(EVENT_HTML_PATH)) {
+		fs.mkdirSync(EVENT_HTML_PATH);
 	}
 
 	for (let i = 1; i <= MAX_POKEDEX_ID; i++) {
-		const pokedexId = String(i).padStart(3, '0');
-		const serebiiUrl = SEREBII_EVENT_URL_TEMPLATE.replace(PLACEHOLDER, '150');
-		console.log(`${pokedexId}: Fetching ${serebiiUrl}`);
+		const pokedexID = String(i).padStart(3, '0');
+		const serebiiUrl = SEREBII_EVENT_URL_TEMPLATE.replace(PLACEHOLDER, pokedexID);
+		console.log(`${pokedexID}: Fetching ${serebiiUrl}`);
 		const res = await fetch(serebiiUrl);
 		const serebiiDom = await res.text();
 
-		const eventDexFilePath = path.join(TARGET_HTML_PATH, `${pokedexId}.shtml`);
+		const eventDexFilePath = path.join(EVENT_HTML_PATH, `${pokedexID}.shtml`);
 		fs.writeFileSync(eventDexFilePath, serebiiDom);
-		console.log(`${pokedexId}: saved in ${eventDexFilePath}\n`);
+		console.log(`${pokedexID}: saved in ${eventDexFilePath}\n`);
 	}
 })();

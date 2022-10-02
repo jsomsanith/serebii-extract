@@ -1,0 +1,220 @@
+{
+  "pokedexID": "248",
+  "species": "Tyranitar",
+  "events": [
+    {
+      "pokemon": {
+        "name": " バンギラス  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ヤミらみこ",
+        "ID": "03866",
+        "ability": "Sand Stream",
+        "item": "Life Orb",
+        "pokemonDescription": "Adamant Nature.Date of Receiving Route 7. Apparently had a fateful encounter at Lv. 55",
+        "moves": [
+          "Crunch",
+          "Rock Slide",
+          "Low Kick",
+          "Protect"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center Event - Kotone Yasue's Tyranitar",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "6 November 2015",
+        "endDate": "7 December 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " バンギラス  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "06094",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Stone Edge",
+          "Crunch",
+          "Earthquake",
+          "Ice Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Mega Evolution Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "9 June 2014",
+        "endDate": "21 July 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 마기라스  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WCSK14",
+        "ID": "07064",
+        "ability": "Sand Stream",
+        "item": "Tyranitarite",
+        "pokemonDescription": "Jolly Nature.Date of Receiving A Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rock Slide",
+          "Earthquake",
+          "Crunch",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Pokémon World Championship Qualifier Gift",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "6 July 2014",
+        "endDate": "6 July 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Tyranitar  ♂",
+        "shiny": false,
+        "level": 55,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 55",
+        "moves": [
+          "Payback",
+          "Crunch",
+          "Earthquake",
+          "Seismic Toss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Castelia Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "14 March 2013",
+        "endDate": "23 May 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Tyranitar  ♂",
+        "shiny": false,
+        "level": 55,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Unnerve",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 55",
+        "moves": [
+          "Payback",
+          "Crunch",
+          "Earthquake",
+          "Seismic Toss"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Castelia Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "14 March 2013",
+        "endDate": "23 May 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " バンギラス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PC",
+        "ID": "09152",
+        "ability": "Sand Stream",
+        "item": "Focus Sash",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Fire Blast",
+          "Ice Beam",
+          "Stone Edge",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "Single Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 September 2012",
+        "endDate": "27 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tyranitar  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIV",
+        "ID": "06808",
+        "ability": "Sandstream",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thrash",
+          "Scary Face",
+          "Crunch",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "Bryant Park",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "8 August 2006",
+        "endDate": "8 August 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tyranitar  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 70,
+        "OT": "10 ANIv",
+        "ID": "00010",
+        "ability": "Sand Stream",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 70",
+        "moves": [
+          "Thrash",
+          "Scary Face",
+          "Crunch",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "10th Anniversary",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 February 2006",
+        "endDate": "23 July 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "pokedexID": "571",
+  "species": "Zoroark",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Zoroark  ♂/♀",
+        "pokeball": "ultraball",
+        "shiny": false,
+        "level": null,
+        "OT": "Sly",
+        "ID": "11045",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sludge Bomb",
+          "Dark Pulse",
+          "Flamethrower",
+          "Sucker Punch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon BREAKThrough - Zoroark Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "4 November 2015",
+        "endDate": "20 November 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゾロアーク  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "サダ",
+        "ID": "11195",
+        "ability": "Illusion",
+        "item": "Expert Belt",
+        "pokemonDescription": "Naughty Nature.Date of Receiving a Pokémon Event. Apparently had a fateful encounter at Lv. 45",
+        "moves": [
+          "Scary Face",
+          "Fury Swipes",
+          "Nasty Plot",
+          "Punishment"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Expo Gym Event",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 November 2015",
+        "endDate": "7 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zoroark  ♂/♀",
+        "pokeball": "ultraball",
+        "shiny": false,
+        "level": null,
+        "OT": "Sly",
+        "ID": "11065",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Sludge Bomb",
+          "Dark Pulse",
+          "Flamethrower",
+          "Sucker Punch"
+        ]
+      },
+      "event": {
+        "description": "Sly Zoroark",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "6 November 2015",
+        "endDate": "22 November 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zoroark  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "EVENT11",
+        "ID": "09161",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Quirky Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Agility",
+          "Embargo",
+          "Punishment",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Zoroark Month - Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "18 September 2011",
+        "endDate": "25 September 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゾロアーク  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ポケスマ!",
+        "ID": "01161",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Quirky Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Agility",
+          "Embargo",
+          "Punishment",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Smash Event",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "15 February 2011",
+        "endDate": "14 March 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゾロアーク  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "ポケスマ!",
+        "ID": "01161",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Quirky Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Agility",
+          "Embargo",
+          "Punishment",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "World Hobby Fair",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 January 2011",
+        "endDate": "6 February 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zoroark  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "SMR2011éTé2011",
+        "ID": "06011",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Quirky Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Agility",
+          "Embargo",
+          "Punishment",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Day (Greece: 11th June-19th June)Pokémon Day (Italy: 18th June-19th June)Pokémon Day (Netherlands: 27th August-28th August)GAME (France: June 20th-August 20th)",
+        "type": "In-Life",
+        "location": "Europe",
+        "startDate": "11 June 2011",
+        "endDate": "28 August 2011",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Zoroark  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "EVENT011",
+        "ID": "09161",
+        "ability": "Illusion",
+        "item": "No Item",
+        "pokemonDescription": "Quirky Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Agility",
+          "Embargo",
+          "Punishment",
+          "Snarl"
+        ]
+      },
+      "event": {
+        "description": "EB Games/GAME/Toys 'R' Us",
+        "type": "In-Life",
+        "location": "Australia",
+        "startDate": "16 September 2011",
+        "endDate": "16 October 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

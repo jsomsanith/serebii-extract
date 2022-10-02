@@ -1,0 +1,110 @@
+{
+  "pokedexID": "575",
+  "species": "Gothorita",
+  "events": [
+    {
+      "pokemon": {
+        "name": "  Gothorita  ♂",
+        "shiny": false,
+        "level": 32,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 32",
+        "moves": [
+          "Psyshock",
+          "Flatter",
+          "Future Sight",
+          "Mirror Coat"
+        ]
+      },
+      "event": {
+        "description": "Pokémon B2W2 National Pokédex Guide Book",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "19 November 2012",
+        "endDate": "No End Date",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ゴチミル  ♂",
+        "shiny": false,
+        "level": 32,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 32",
+        "moves": [
+          "Psyshock",
+          "Flatter",
+          "Future Sight",
+          "Imprison"
+        ]
+      },
+      "event": {
+        "description": "Pokémon B2W2 Guide Book - iOS/Android",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "14 December 2012",
+        "endDate": "31 August 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  ゴチミル  ♂",
+        "shiny": false,
+        "level": 32,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 32",
+        "moves": [
+          "Psyshock",
+          "Flatter",
+          "Future Sight",
+          "Mirror Coat"
+        ]
+      },
+      "event": {
+        "description": "Pokémon B2W2 Guide Book",
+        "type": "Global Link",
+        "location": "Japan",
+        "startDate": "09 August 2012",
+        "endDate": "31 July 2013",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Gothorita  ♂",
+        "shiny": false,
+        "level": 32,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Shadow Tag",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 32",
+        "moves": [
+          "Psyshock",
+          "Flatter",
+          "Future Sight",
+          "Mirror Coat"
+        ]
+      },
+      "event": {
+        "description": "Pokémon B2W2 National Pokédex Guide Book",
+        "type": "Global Link",
+        "location": "United Kingdom",
+        "startDate": "19 November 2012",
+        "endDate": "No End Date",
+        "gamesAvailable": "Black 2, White 2"
+      }
+    }
+  ]
+}

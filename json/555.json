@@ -1,0 +1,141 @@
+{
+  "pokedexID": "555",
+  "species": "Darmanitan",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Darmanitan  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "N",
+        "ID": "00002",
+        "ability": "Zen Mode",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving the Unova region. Apparently had a fateful encounter at Lv. 35",
+        "moves": [
+          "Thrash",
+          "Belly Drum",
+          "Flare Blitz",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Unova Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "6 September 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ヒヒダルマ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "N",
+        "ID": "00002",
+        "ability": "Zen Mode",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving the Unova region. Apparently had a fateful encounter at Lv. 35",
+        "moves": [
+          "Thrash",
+          "Belly Drum",
+          "Flare Blitz",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Unova Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "6 September 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Darmanitan  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "N",
+        "ID": "00002",
+        "ability": "Zen Mode",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving the Unova region. Apparently had a fateful encounter at Lv. 35",
+        "moves": [
+          "Thrash",
+          "Belly Drum",
+          "Flare Blitz",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Unova Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "6 September 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Darmanitan  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "N",
+        "ID": "00002",
+        "ability": "Zen Mode",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving the Unova region. Apparently had a fateful encounter at Lv. 35",
+        "moves": [
+          "Thrash",
+          "Belly Drum",
+          "Flare Blitz",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Unova Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "6 September 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 불비달마  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "N",
+        "ID": "00002",
+        "ability": "Zen Mode",
+        "item": "No Item",
+        "pokemonDescription": "Calm Nature.Date of Receiving the Unova region. Apparently had a fateful encounter at Lv. 35",
+        "moves": [
+          "Thrash",
+          "Belly Drum",
+          "Flare Blitz",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Unova Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "6 September 2016",
+        "endDate": "24 October 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

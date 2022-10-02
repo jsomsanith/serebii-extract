@@ -1,0 +1,33 @@
+{
+  "pokedexID": "103",
+  "species": "Exeggutor",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Exeggutor  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Worlds17",
+        "ID": "081817",
+        "ability": "Harvest",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Modest Nature.Date of Receiving WCS 2017. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Power Swap",
+          "Celebrate",
+          "Leaf Storm",
+          "Draco Meteor"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon World Championships 2017 Distribution",
+        "type": "In-Life",
+        "location": "North America",
+        "startDate": "18 August 2017",
+        "endDate": "20 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

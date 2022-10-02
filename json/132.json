@@ -1,0 +1,33 @@
+{
+  "pokedexID": "132",
+  "species": "Ditto",
+  "events": [
+    {
+      "pokemon": {
+        "name": " メタモン ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "カーニバル",
+        "ID": "170814",
+        "ability": "Limber",
+        "item": "Light Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokï¿½mon Event 17. Apparently had a fateful encounter at Lv. 10",
+        "moves": [
+          "Transform",
+          " ",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pikachu Outbreakchu Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 August 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

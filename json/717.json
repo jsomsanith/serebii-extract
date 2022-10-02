@@ -1,0 +1,222 @@
+{
+  "pokedexID": "717",
+  "species": "Yveltal",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Oblivion Wing",
+          "Dark Pulse",
+          "Phantom Force",
+          "Psychic"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Dark Aura",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Dark Pulse",
+          "Heat Wave",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: GamestopCanada: EB Games",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Oblivion Wing",
+          "Dark Pulse",
+          "Phantom Force",
+          "Psychic"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "050418",
+        "ability": "Dark Aura",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Dark Pulse",
+          "Heat Wave",
+          "Tailwind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUK/ES: GAMEIT/Germany: GamestopFrance: Micromania",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "4 May 2018",
+        "endDate": "26 May 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XYZ",
+        "ID": "05206",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Sucker Punch",
+          "Dark Pulse",
+          "Foul Play"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Fates Collide Distribution",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "20 May 2016",
+        "endDate": "26 May 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Yveltal ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "DescartesCartesio",
+        "ID": "05026",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Sucker Punch",
+          "Dark Pulse",
+          "Foul Play"
+        ]
+      },
+      "event": {
+        "description": "Salón del Cómic de Barcelona Distribution (Spain) El Corte Inglés - Portgual (28/05-29/05)Gamestop Sweden (18/07-30/09)",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "5 May 2016",
+        "endDate": "30 September 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 이벨타르 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "04206",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Sucker Punch",
+          "Dark Pulse",
+          "Foul Play"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in -Distribution. Code: Zygarde",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": "19 March 2016",
+        "endDate": "30 June 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " イベルタル ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "XY&Z",
+        "ID": "11055",
+        "ability": "Dark Aura",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Pokémon Cartoon. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Oblivion Wing",
+          "Sucker Punch",
+          "Dark Pulse",
+          "Foul Play"
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY & Z Tie-in Distribution. Code: PUNICHAN",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "5 November 2015",
+        "endDate": "12 January 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

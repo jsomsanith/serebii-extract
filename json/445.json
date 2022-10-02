@@ -1,0 +1,354 @@
+{
+  "pokedexID": "445",
+  "species": "Garchomp",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Garchomp  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Cynthia",
+        "ID": "07226",
+        "ability": "Sand Veil",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Dragon Rush",
+          "Earthquake",
+          "Brick Break",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Sinnoh Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "2 August 2016",
+        "endDate": "29 September 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガブリアス  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "シロナ",
+        "ID": "07225",
+        "ability": "Sand Veil",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving the Sinnoh region. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Dragon Rush",
+          "Brick Break",
+          "Earthquake",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Sinnoh Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": " August 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Garchomp  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "CynthiaCamillaCintia",
+        "ID": "07226",
+        "ability": "Sand Veil",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving the Sinnoh region. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Dragon Rush",
+          "Brick Break",
+          "Earthquake",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Sinnoh Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": " August 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Garchomp  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "Cynthia",
+        "ID": "07226",
+        "ability": "Sand Veil",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Dragon Rush",
+          "Earthquake",
+          "Brick Break",
+          "Giga Impact"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Sinnoh Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "Oceania",
+        "startDate": "2 August 2016",
+        "endDate": "29 September 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 한카리아스  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "난천",
+        "ID": "07226",
+        "ability": "Sand Veil",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving the Sinnoh region. Apparently had a fateful encounter at Lv. 66",
+        "moves": [
+          "Dragon Rush",
+          "Brick Break",
+          "Giga Impact",
+          "Earthquake"
+        ]
+      },
+      "event": {
+        "description": "Pokémon ORAS - Sinnoh Classic Entry Distribution Gift",
+        "type": "Serial Code",
+        "location": "South Korea",
+        "startDate": " August 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Garchomp  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "XY",
+        "ID": "01244",
+        "ability": "Sand Veil",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 48",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Claw",
+          "Dig",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro December Gift",
+        "type": "Serial Code",
+        "location": "Singapore",
+        "startDate": "24 January 2014",
+        "endDate": "31 March 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 한카리아스  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "스프링카니발",
+        "ID": "04124",
+        "ability": "Sand Veil",
+        "item": "Garchompite",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 48",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Claw",
+          "Dig",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Spring Festival 2014",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "12 April 2014",
+        "endDate": "19 April 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Garchomp  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "WINTER2013",
+        "ID": "11153",
+        "ability": "Sand Veil",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Slash",
+          "Dragon Claw",
+          "Dig",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "WalMart - Pokémon X",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "27 November 2013",
+        "endDate": "30 June 2014",
+        "gamesAvailable": "X"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Garchomp  ♂",
+        "shiny": false,
+        "level": 48,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Rough Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 48",
+        "moves": [
+          "Dragon Claw",
+          "Dig",
+          "Crunch",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Virbank Gym Season",
+        "type": "Global Link",
+        "location": "North America",
+        "startDate": "31 January 2013",
+        "endDate": "28 February 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガブリアス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "コロコロ",
+        "ID": "11153",
+        "ability": "Sand Veil",
+        "item": "Dragon Fang",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 48",
+        "moves": [
+          "Draco Meteor",
+          "Dragon Claw",
+          "Dig",
+          "Crunch"
+        ]
+      },
+      "event": {
+        "description": "CoroCoro December Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "15 November 2013",
+        "endDate": "29 August 2014",
+        "gamesAvailable": "X, Y"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Garchomp  ♂",
+        "shiny": false,
+        "level": 48,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Rough Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 48",
+        "moves": [
+          "Dragon Claw",
+          "Dig",
+          "Crunch",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Virbank Gym Season",
+        "type": "Global Link",
+        "location": "Europe",
+        "startDate": "31 January 2013",
+        "endDate": "28 February 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": "  Garchomp  ♂",
+        "shiny": false,
+        "level": 48,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Rough Skin",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Entree Forest. Met at Lv. 48",
+        "moves": [
+          "Dragon Claw",
+          "Dig",
+          "Crunch",
+          "Outrage"
+        ]
+      },
+      "event": {
+        "description": "Pokémon League - Virbank Gym Season",
+        "type": "Global Link",
+        "location": "Oceania",
+        "startDate": "31 January 2013",
+        "endDate": "21 March 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ガブリアス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "PC",
+        "ID": "09152",
+        "ability": "Sand Veil",
+        "item": "Bright Powder",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Center. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Outrage",
+          "Earthquake",
+          "Swords Dance",
+          "Stone Edge"
+        ]
+      },
+      "event": {
+        "description": "Single Battle - Strongest Pokémon",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 September 2012",
+        "endDate": "27 October 2012",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    }
+  ]
+}

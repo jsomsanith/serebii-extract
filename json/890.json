@@ -1,0 +1,33 @@
+{
+  "pokedexID": "890",
+  "species": "Eternatus",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Eternatus ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Galarガラル가라르",
+        "ID": "221118",
+        "ability": "Pressure",
+        "item": "No Item",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Dynamax Cannon",
+          "Eternabeam",
+          "Sludge Bomb",
+          "Flamethrower"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Scarlet & Violet CelebrationUS/CA - Gamestop (18/09 - 01/10)AU/NZ - EBGames (18/09 - 01/10)MY/PH/SG - Various Stores (16/9 - 17/11)",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "16 September 2022",
+        "endDate": "17 November 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

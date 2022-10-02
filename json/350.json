@@ -1,0 +1,249 @@
+{
+  "pokedexID": "350",
+  "species": "Milotic",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ミロカロス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 58,
+        "OT": "ミクリ",
+        "ID": "09164",
+        "ability": "Marvel Scale",
+        "item": "Sitrus Berry",
+        "pokemonDescription": "Lax Nature.Date of Receiving Pokémon League. Apparently had a fateful encounter at Lv. 58",
+        "moves": [
+          "Recover",
+          "Surf",
+          "Ice Beam",
+          "Toxic"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Game Show - Wallace's Milotic",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 August 2013",
+        "endDate": "18 August 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミロカロス  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さがこくらながさきくまもとさせぼべっぷみやざきかごしま",
+        "ID": "03172",
+        "ability": "Marvel Scale",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Recover",
+          "Hydro Pump",
+          "Ice Beam",
+          "Mirror Coat"
+        ]
+      },
+      "event": {
+        "description": "Kyushu Trains Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "2 April 2012",
+        "endDate": "22 April 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Milotic  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC09",
+        "ID": "05099",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rain Dance",
+          "Recover",
+          "Hydro Pump",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "9 May 2009",
+        "endDate": "13 June 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Milotic  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC09",
+        "ID": "05309",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rain Dance",
+          "Recover",
+          "Hydro Pump",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "France",
+        "startDate": "20 June 2009",
+        "endDate": "20 June 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Milotic  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC09",
+        "ID": "05309",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rain Dance",
+          "Recover",
+          "Hydro Pump",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "Germany",
+        "startDate": "13 June 2009",
+        "endDate": "13 June 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Milotic  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "VGC09",
+        "ID": "05309",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rain Dance",
+          "Recover",
+          "Hydro Pump",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "Video Game Championships",
+        "type": "In-Life",
+        "location": "England",
+        "startDate": "30 May 2009",
+        "endDate": "30 May 2009",
+        "gamesAvailable": "Diamond, Pearl, Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミロカロス  ♂",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WCS",
+        "ID": "10128",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Rain Dance",
+          "Recover",
+          "Hydro Pump",
+          "Icy Wind"
+        ]
+      },
+      "event": {
+        "description": "World Championship",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "12 October 2008",
+        "endDate": "25 January 2009",
+        "gamesAvailable": "Platinum"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミロカロス  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "さいきょう",
+        "ID": "12157",
+        "ability": "Marvel Scale",
+        "item": "Flame Orb",
+        "pokemonDescription": "Bold Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Recover",
+          "Rain Dance",
+          "Ice Beam",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Strongest Pokémon - 3rd",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 December 2007",
+        "endDate": "15 January 2008",
+        "gamesAvailable": "Diamond, Pearl"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Milotic  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 35,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Marvel Scale or Competitive ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 35",
+        "moves": [
+          "Water Pulse",
+          "Twister",
+          "Recover",
+          "Rain Dance"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Christmas",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 December 2003",
+        "endDate": "25 December 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "pokedexID": "787",
+  "species": "Tapu Bulu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Tapu Bulu ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ula'ulaUla-ula",
+        "ID": "190222",
+        "ability": "Grassy Surge",
+        "item": "Grassy Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Zen Headbutt",
+          "Megahorn",
+          "Skull Bash"
+        ]
+      },
+      "event": {
+        "description": "2019 International Challenge February - Entry Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "19 March 2019",
+        "endDate": "30 April 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カプ・ブルル ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ウラウラ",
+        "ID": "190222",
+        "ability": "Grassy Surge",
+        "item": "Grassy Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Zen Headbutt",
+          "Megahorn",
+          "Skull Bash"
+        ]
+      },
+      "event": {
+        "description": "2019 International Challenge February - Entry Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "19 March 2019",
+        "endDate": "30 April 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Bulu ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Ula'ulaUla-ula",
+        "ID": "190222",
+        "ability": "Grassy Surge",
+        "item": "Grassy Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Zen Headbutt",
+          "Megahorn",
+          "Skull Bash"
+        ]
+      },
+      "event": {
+        "description": "2019 International Challenge February - Entry Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "19 March 2019",
+        "endDate": "30 April 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    }
+  ]
+}

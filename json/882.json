@@ -1,0 +1,60 @@
+{
+  "pokedexID": "882",
+  "species": "Dracovish",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Dracovish  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 50,
+        "OT": "Marco",
+        "ID": "220422",
+        "ability": "Strong Jaw",
+        "item": "Choice Scarf",
+        "pokemonDescription": "Adamant Nature.Date of Receiving a Battle Competition. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Fishious Rend",
+          "Rock Slide",
+          "Crunch",
+          "Dragon Rush"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon European International Championships Distribution. Code - ",
+        "type": "Serial Code",
+        "location": "Global",
+        "startDate": "22 April 2022",
+        "endDate": "25 April 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ウオノラゴン ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 80,
+        "OT": "サトシ",
+        "ID": "210108",
+        "ability": "Strong Jaw",
+        "item": "No Item",
+        "pokemonDescription": "Naive Nature.Date of Receiving the Pokémon animated show. Apparently had a fateful encounter at Lv. 80",
+        "moves": [
+          "Fishious Rend",
+          "Dragon Rush",
+          "Ice Fang",
+          "Water Gun"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Masters Eight Tournament Tie-in. Code: ",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "12 August 2022",
+        "endDate": "25 August 2022",
+        "gamesAvailable": "Sword, Shield"
+      }
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "pokedexID": "150",
+  "species": "Mewtwo",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 뮤츠 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "박사",
+        "ID": "200930",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Movie 19. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psychic",
+          "Shadow Ball",
+          "Barrier",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mewtwo Strikes Back EVOLUTION - Watch Gift",
+        "type": "Serial Code",
+        "location": "Korea",
+        "startDate": "30 September 2020",
+        "endDate": "30 September 2020",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "Giovanni",
+        "ID": "191104",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Teleport",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Best Buy Distribution",
+        "type": "Serial Code",
+        "location": "United States",
+        "startDate": "4 November 2019",
+        "endDate": "14 November 2019",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミュウツー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "はかせ",
+        "ID": "980718",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Quiet Nature.Date of Receiving Pokémon Movie 19. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psychic",
+          "Shadow Ball",
+          "Barrier",
+          "Calm Mind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Mewtwo Strikes Back EVOLUTION - Pre-booking Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "12 April 2019",
+        "endDate": "12 July 2019",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "Giovanni",
+        "ID": "190801",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Amnesia",
+          "Psychic",
+          "Teleport",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Unified Minds Tie-In",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "9 August 2019",
+        "endDate": "6 September 2019",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Play! 2016",
+        "ID": "07266",
+        "ability": "Unnerve",
+        "item": "Mewtwonite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Psychic",
+          "Recover",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Play! Pokémon Participation Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "26 July 2016",
+        "endDate": "21 August 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミュウツー ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Pスクラップ",
+        "ID": "04286",
+        "ability": "Unnerve",
+        "item": "Mewtwonite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Psychic",
+          "Recover",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Scrap 2016 Campaign",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "28 April 2016",
+        "endDate": "31 August 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Play! 2016",
+        "ID": "07266",
+        "ability": "Unnerve",
+        "item": "Mewtwonite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Psychic",
+          "Recover",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Play! Pokémon Participation Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "26 July 2016",
+        "endDate": "21 August 2016",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Nintendo HK",
+        "ID": "06096",
+        "ability": "Unnerve",
+        "item": "Mewtwonite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Psychic",
+          "Recover",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Hong Kong & Taiwan National Championships",
+        "type": "In-Life",
+        "location": "Hong KongTaiwan",
+        "startDate": "11 June 2016",
+        "endDate": "18 June 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 뮤츠 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "WCSK16",
+        "ID": "05056",
+        "ability": "Unnerve",
+        "item": "Mewtwonite Y",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Psychic",
+          "Recover",
+          "Aura Sphere"
+        ]
+      },
+      "event": {
+        "description": "Pokémon National Championships",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "5 May 2016",
+        "endDate": "8 May 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミュウツー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 100,
+        "OT": "Ｐヒルズ",
+        "ID": "06153",
+        "ability": "Unnerve",
+        "item": "Custap Berry",
+        "pokemonDescription": "Timid Nature.Date of Receiving Pokémon Movie 13. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Psystrike",
+          "Ice Beam",
+          "Heal Pulse",
+          "Hurricane"
+        ]
+      },
+      "event": {
+        "description": "Extremespeed Genesect: Mewtwo Awakens - Pre-Order Event",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 June 2013",
+        "endDate": "1 September 2013",
+        "gamesAvailable": "Black, White, Black 2, White 2"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "FEB2012",
+        "ID": "02112",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary",
+        "type": "Wi-Fi",
+        "location": "USA",
+        "startDate": "11 February 2012",
+        "endDate": "26 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "SPR2012FRü2012",
+        "ID": "05012",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary - European Games",
+        "type": "Wi-Fi",
+        "location": "GermanySpainItaly",
+        "startDate": "1 May 2012",
+        "endDate": "31 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "PRI2012",
+        "ID": "02112",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary - French Games",
+        "type": "Wi-Fi",
+        "location": "France",
+        "startDate": "26 March 2012",
+        "endDate": "1 May 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "FEB2012",
+        "ID": "02112",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary - English Language Games",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "11 February 2012",
+        "endDate": "26 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Mewtwo ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "FEB2012",
+        "ID": "02112",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary - English Language Games",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "11 February 2012",
+        "endDate": "26 February 2012",
+        "gamesAvailable": "Black, White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ミュウツー ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "ポケスマ!",
+        "ID": "09261",
+        "ability": "Pressure",
+        "item": "King's Rock",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Psystrike",
+          "Shadow Ball",
+          "Aura Sphere",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Black & White - 1st Anniversary",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "26 September 2011",
+        "endDate": "31 October 2011",
+        "gamesAvailable": "Black, White"
+      }
+    }
+  ]
+}

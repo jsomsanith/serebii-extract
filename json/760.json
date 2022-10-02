@@ -1,0 +1,33 @@
+{
+  "pokedexID": "760",
+  "species": "Bewear",
+  "events": [
+    {
+      "pokemon": {
+        "name": " キテルグマ  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "ポケセン",
+        "ID": "170415",
+        "ability": "Unnerve",
+        "item": "Binding Band",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 50",
+        "moves": [
+          "Counter",
+          "Brutal Swing",
+          "Superpower",
+          "Bind"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Sparkling Spring Festival Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "15 April 2017",
+        "endDate": "7 May 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

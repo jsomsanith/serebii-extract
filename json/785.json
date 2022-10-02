@@ -1,0 +1,249 @@
+{
+  "pokedexID": "785",
+  "species": "Tapu Koko",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Melemele",
+        "ID": "191004",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Volt Switch"
+        ]
+      },
+      "event": {
+        "description": "Ultra Final Online Competition - Entry Gift",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "18 October 2019",
+        "endDate": "29 November 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カプ・コケコ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Melemele",
+        "ID": "191004",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Volt Switch"
+        ]
+      },
+      "event": {
+        "description": "Ultra Final Online Competition - Entry Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "18 October 2019",
+        "endDate": "29 November 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Melemele",
+        "ID": "191004",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Any Nature.Date of Receiving the PGL. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Thunderbolt",
+          "Dazzling Gleam",
+          "Volt Switch"
+        ]
+      },
+      "event": {
+        "description": "Ultra Final Online Competition - Entry Gift",
+        "type": "Serial Code",
+        "location": "Europe",
+        "startDate": "18 October 2019",
+        "endDate": "29 November 2019",
+        "gamesAvailable": "Ultra Sun, Ultra Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "MelemeleMele-MeleMele Mele",
+        "ID": "170714",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Shiny Tapu Koko TCG Tie-in",
+        "type": "Wi-Fi",
+        "location": "North America",
+        "startDate": "14 July 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " カプ・コケコ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "メレメレ",
+        "ID": "170317",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Shiny Tapu Koko Gift - 7/11 7SPOT, Pokémon Center, Aeon, Amazon",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "17 March 2017",
+        "endDate": "9 April 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "MelemeleMele-MeleMele Mele",
+        "ID": "170714",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Shiny Tapu Koko TCG Tie-in",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "14 July 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "MelemeleMele-MeleMele Mele",
+        "ID": "170714",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon TCG - Shiny Tapu Koko TCG Tie-in",
+        "type": "Wi-Fi",
+        "location": "Oceania",
+        "startDate": "14 July 2017",
+        "endDate": "14 August 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Tapu Koko ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "Melemele",
+        "ID": "170428",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Pokï¿½mon Sun & Moon Purchase Gift",
+        "type": "In-Life",
+        "location": "Hong Kong",
+        "startDate": "28 April 2017",
+        "endDate": "31 May 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 카푸꼬꼬꼭 ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "멜레멜레",
+        "ID": "170408",
+        "ability": "Electric Surge",
+        "item": "Electric Seed",
+        "pokemonDescription": "Timid Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Nature's Madness",
+          "Discharge",
+          "Agility",
+          "Electro Ball"
+        ]
+      },
+      "event": {
+        "description": "Spring Pokémon League",
+        "type": "In-Life",
+        "location": "Korea",
+        "startDate": "8 April 2017",
+        "endDate": "9 April 2017",
+        "gamesAvailable": "Sun, Moon"
+      }
+    }
+  ]
+}

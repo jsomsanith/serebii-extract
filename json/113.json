@@ -1,0 +1,114 @@
+{
+  "pokedexID": "113",
+  "species": "Chansey",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ラッキー  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 7,
+        "OT": "ミスド",
+        "ID": "201204",
+        "ability": "Natural Cure or Serene Grace ",
+        "item": "Lucky Egg",
+        "pokemonDescription": " Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 7",
+        "moves": [
+          "Present",
+          "Sweet Kiss",
+          "Charm",
+          "Soft-boiled"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Mister Donut 50th Anniversary",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "4 December 2020",
+        "endDate": "5 February 2021",
+        "gamesAvailable": "Sword, Shield"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ラッキー  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 1,
+        "OT": "ポケセン",
+        "ID": "181116",
+        "ability": "",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a Pokï¿½mon Center. Apparently had a fateful encounter at Lv. 1",
+        "moves": [
+          "Pound",
+          "Celebrate",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Birthday Distribution",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "16 November 2018",
+        "endDate": "15 November 2019",
+        "gamesAvailable": "Let's Go, Pikachu!, Let's Go, Eevee!"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ラッキー  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 10,
+        "OT": "トウキョーオーサカナゴヤフクオカヨコハマサッポロ",
+        "ID": "60114",
+        "ability": "Natural Cure or Serene Grace ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 10",
+        "moves": [
+          "Pound",
+          "Growl",
+          "Tail Whip",
+          "Refresh"
+        ]
+      },
+      "event": {
+        "description": "Gotta Catch 'Em All Event 3",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "14 January 2006",
+        "endDate": "29 January 2006",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Chansey  ♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Natural Cure or Serene Grace ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nEvent. Hatched at Location",
+        "moves": [
+          "Sweet Scent",
+          "Wish",
+          " ",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "16 December 2004",
+        "endDate": "2 January 2005",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

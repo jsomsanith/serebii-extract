@@ -1,0 +1,168 @@
+{
+  "pokedexID": "642",
+  "species": "Thundurus",
+  "events": [
+    {
+      "pokemon": {
+        "name": " 볼트로스  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "코리안리그",
+        "ID": "190216",
+        "ability": "Prankster",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunderbolt",
+          "Focus Blast",
+          "Grass Knot",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Korean League Season 2",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "16 February 2019",
+        "endDate": "17 February 2019",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Thundurus  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "070618",
+        "ability": "Prankster",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Discharge",
+          "Crunch",
+          "Charge",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: Target (13/07-28/07)Canada - Trainer Clube Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "13 July 2018",
+        "endDate": "28 July 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Thundurus  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "070618",
+        "ability": "Prankster",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunderbolt",
+          "Focus Blast",
+          "Grass Knot",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration DistributionUS: Target (13/07-28/07)Canada - Trainer Clube Newsletter",
+        "type": "Serial Code",
+        "location": "North America",
+        "startDate": "13 July 2018",
+        "endDate": "28 July 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Thundurus  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "070618",
+        "ability": "Prankster",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 60",
+        "moves": [
+          "Discharge",
+          "Crunch",
+          "Charge",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "6 July 2018",
+        "endDate": "22 July 2018",
+        "gamesAvailable": "Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Thundurus  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "2018 LegendsLeyendas2018Lï¿½gendes2018Legenden2018",
+        "ID": "070618",
+        "ability": "Prankster",
+        "item": "Gold Bottle Cap",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Thunderbolt",
+          "Focus Blast",
+          "Grass Knot",
+          "Nasty Plot"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Legendary Celebration Distribution",
+        "type": "Wi-Fi",
+        "location": "Europe",
+        "startDate": "6 July 2018",
+        "endDate": "22 July 2018",
+        "gamesAvailable": "Ultra Sun"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ボルトロス  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": 70,
+        "OT": "ミロスとう",
+        "ID": "12161",
+        "ability": "Prankster",
+        "item": "Revival Herb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Thunder",
+          "Hammer Arm",
+          "Focus Blast",
+          "Wild Charge"
+        ]
+      },
+      "event": {
+        "description": "Anime Tie-in: Tornadus VS Thundurus VS Landorus",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "16 December 2011",
+        "endDate": "10 January 2012",
+        "gamesAvailable": "Black"
+      }
+    }
+  ]
+}

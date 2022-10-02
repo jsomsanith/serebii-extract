@@ -1,0 +1,87 @@
+{
+  "pokedexID": "054",
+  "species": "Psyduck",
+  "events": [
+    {
+      "pokemon": {
+        "name": " コダック  ♂/♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "マスダ",
+        "ID": "02276",
+        "ability": "Cloud Nine",
+        "item": "No Item",
+        "pokemonDescription": "Lax Nature.Date of Receiving Game Freak. Apparently had a fateful encounter at Lv. 20",
+        "moves": [
+          "Confusion",
+          "Disable",
+          "Psych Up",
+          "Amnesia"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Center - Masuda's Psyduck",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "5 March 2016",
+        "endDate": "20 March 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " コダック  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 5,
+        "OT": "Yours",
+        "ID": "Yours",
+        "ability": "Damp or Cloud Nine ",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Egg Received Date of Receiving\nPokéPark. Hatched at Location",
+        "moves": [
+          "Water Sport",
+          "Scratch",
+          "Tail Whip",
+          "Mud Sport"
+        ]
+      },
+      "event": {
+        "description": "PokéPark",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "18 March 2005",
+        "endDate": "8 May 2005",
+        "gamesAvailable": "Ruby, Sapphire, Emerald, FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Psyduck  ♂/♀",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 27,
+        "OT": "JEREMY",
+        "ID": "24680",
+        "ability": "Damp",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 27",
+        "moves": [
+          "Tail Whip",
+          "Confusion",
+          "Disable",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    }
+  ]
+}

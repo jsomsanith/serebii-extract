@@ -1,0 +1,60 @@
+{
+  "pokedexID": "646",
+  "species": "Kyurem",
+  "events": [
+    {
+      "pokemon": {
+        "name": " キュレム ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "デセルシティ",
+        "ID": "06205",
+        "ability": "Pressure",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 15. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Glaciate",
+          "Scary Face",
+          "Draco Meteor",
+          "Iron Head"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Prebooking Distribution",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "20 June 2015",
+        "endDate": "31 August 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " 큐레무 ",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "데세르시티",
+        "ID": "11205",
+        "ability": "Pressure",
+        "item": "Life Orb",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Glaciate",
+          "Scary Face",
+          "Draco Meteor",
+          "Iron Head"
+        ]
+      },
+      "event": {
+        "description": "Pokémon - Archjinni of the Rings Hoopa Distribution",
+        "type": "In-Life",
+        "location": "South Korea",
+        "startDate": "20 November 2015",
+        "endDate": "27 December 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

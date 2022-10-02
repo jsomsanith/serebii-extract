@@ -1,0 +1,168 @@
+{
+  "pokedexID": "658",
+  "species": "Greninja",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Greninja  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ash",
+        "ID": "131017",
+        "ability": "Battle Bond",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Water Shuriken",
+          "Aerial Ace",
+          "Double Team",
+          "Night Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sun/Moon Demo Distribution",
+        "type": "In-Game",
+        "location": "North America",
+        "startDate": "18 October 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲッコウガ  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ash",
+        "ID": "131017",
+        "ability": "Battle Bond",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Water Shuriken",
+          "Aerial Ace",
+          "Double Team",
+          "Night Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sun/Moon Demo Distribution",
+        "type": "In-Game",
+        "location": "Japan",
+        "startDate": "18 October 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲッコウガ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "そうせんきょ",
+        "ID": "00720",
+        "ability": "Protean",
+        "item": "Master Ball",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 16. Apparently had a fateful encounter at Lv. 100",
+        "moves": [
+          "Hydro Cannon",
+          "Gunk Shot",
+          "Mat Block",
+          "Happy Hour"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Volcanion & The Ingenious Magearna Theater Gift",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "16 July 2016",
+        "endDate": "30 September 2016",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Greninja  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ash",
+        "ID": "131017",
+        "ability": "Battle Bond",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Water Shuriken",
+          "Aerial Ace",
+          "Double Team",
+          "Night Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sun/Moon Demo Distribution",
+        "type": "In-Game",
+        "location": "Europe",
+        "startDate": "18 October 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Greninja  ♂",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": null,
+        "OT": "Ash",
+        "ID": "131017",
+        "ability": "Battle Bond",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving a lovely place. Apparently had a fateful encounter at Lv. 5",
+        "moves": [
+          "Water Shuriken",
+          "Aerial Ace",
+          "Double Team",
+          "Night Slash"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Sun/Moon Demo Distribution",
+        "type": "In-Game",
+        "location": "Global",
+        "startDate": "18 October 2016",
+        "endDate": "No End Date",
+        "gamesAvailable": "Sun, Moon"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゲッコウガ  ♂",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "スマブラ",
+        "ID": "09134",
+        "ability": "Protean",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving A lovely place. Apparently had a fateful encounter at Lv. 36",
+        "moves": [
+          "Water Shuriken",
+          "Shadow Sneak",
+          "Hydro Pump",
+          "Substitute"
+        ]
+      },
+      "event": {
+        "description": "Super Smash Bros. & Pokémon Club Nintendo Gift",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "9 December 2014",
+        "endDate": "29 January 2015",
+        "gamesAvailable": "OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

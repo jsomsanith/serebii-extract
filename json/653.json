@@ -1,0 +1,33 @@
+{
+  "pokedexID": "653",
+  "species": "Fennekin",
+  "events": [
+    {
+      "pokemon": {
+        "name": " フォッコ  ♀",
+        "pokeball": "cherishball",
+        "shiny": false,
+        "level": null,
+        "OT": "セレナ",
+        "ID": "02265",
+        "ability": "Blaze",
+        "item": "Destiny Knot",
+        "pokemonDescription": "Hardy Nature.Date of Receiving Lumiose City. Apparently had a fateful encounter at Lv. 15",
+        "moves": [
+          "Scratch",
+          "Flamethrower",
+          "Hidden Power",
+          " "
+        ]
+      },
+      "event": {
+        "description": "Pokémon XY Anime - Serena's Fennekin (Code: SERENA01)",
+        "type": "Serial Code",
+        "location": "Japan",
+        "startDate": "26 February 2015",
+        "endDate": "31 March 2015",
+        "gamesAvailable": "X, Y, OmegaRuby, AlphaSapphire"
+      }
+    }
+  ]
+}

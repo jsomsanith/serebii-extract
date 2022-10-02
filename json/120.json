@@ -1,0 +1,60 @@
+{
+  "pokedexID": "120",
+  "species": "Staryu",
+  "events": [
+    {
+      "pokemon": {
+        "name": " Staryu ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 18,
+        "OT": "JEREMY",
+        "ID": "13579",
+        "ability": "Illuminate",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 18",
+        "moves": [
+          "Tackle",
+          "Water Gun",
+          "Rapid Spin",
+          "Recover"
+        ]
+      },
+      "event": {
+        "description": "Toys 'R' Us",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "25 September 2004",
+        "endDate": "25 September 2004",
+        "gamesAvailable": "FireRed, LeafGreen"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " Staryu ",
+        "pokeball": "pokeball",
+        "shiny": false,
+        "level": 50,
+        "OT": "PCNYaPCNYbPCNYcPCNYd",
+        "ID": "00001-01000",
+        "ability": "Illuminate or Natural Cure ",
+        "item": "Water Stone",
+        "pokemonDescription": "Any Nature.Date of Receiving Event. Met at Lv. 50",
+        "moves": [
+          "Minimize",
+          "Light Screen",
+          "Cosmic Power",
+          "Hydro Pump"
+        ]
+      },
+      "event": {
+        "description": "Pkmn Centre NY - Evolution Week",
+        "type": "In-Life",
+        "location": "USA",
+        "startDate": "30 August 2003",
+        "endDate": "1 September 2003",
+        "gamesAvailable": "Ruby, Sapphire"
+      }
+    }
+  ]
+}

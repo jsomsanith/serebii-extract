@@ -1,0 +1,60 @@
+{
+  "pokedexID": "623",
+  "species": "Golurk",
+  "events": [
+    {
+      "pokemon": {
+        "name": " ゴルーグ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ジャンタ",
+        "ID": "06171",
+        "ability": "Iron Fist",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Event. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Shadow Punch",
+          "Hyper Beam",
+          "Gyro Ball",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011 - Janta's Golurk",
+        "type": "Wi-Fi",
+        "location": "Japan",
+        "startDate": "8 July 2011",
+        "endDate": "8 September 2011",
+        "gamesAvailable": "White"
+      }
+    },
+    {
+      "pokemon": {
+        "name": " ゴルーグ ",
+        "pokeball": "cherishball",
+        "shiny": true,
+        "level": null,
+        "OT": "ジャンタ",
+        "ID": "06171",
+        "ability": "Iron Fist",
+        "item": "No Item",
+        "pokemonDescription": "Any Nature.Date of Receiving Pokémon Movie 11. Apparently had a fateful encounter at Lv. 70",
+        "moves": [
+          "Shadow Punch",
+          "Hyper Beam",
+          "Gyro Ball",
+          "Hammer Arm"
+        ]
+      },
+      "event": {
+        "description": "Pokémon Movie 2011 - McDonalds Giveaway",
+        "type": "In-Life",
+        "location": "Japan",
+        "startDate": "17 June 2011",
+        "endDate": "7 July 2011",
+        "gamesAvailable": "White"
+      }
+    }
+  ]
+}
